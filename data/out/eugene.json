@@ -3,7 +3,7 @@
   "name": "Eugene",
   "county": "Lane County",
   "coverage_note": "Lane County does not publish a county voters' pamphlet. Local measures are taken from the county's official ballot content.",
-  "generated_at": "2026-10-25T22:17:09+00:00",
+  "generated_at": "2026-10-25T22:59:42+00:00",
   "sources": [
     {
       "doc": "book4",
@@ -515,7 +515,7 @@
               "loaded_terms": []
             },
             {
-              "text": "text-based: Says Smith will seek a permanent moratorium on data centers.",
+              "text": "Says Smith will seek a permanent moratorium on data centers.",
               "citations": [
                 {
                   "doc": "book4",
@@ -543,7 +543,7 @@
               "loaded_terms": []
             },
             {
-              "text": "text-text-based: Lists Smith's educational background as Toromont Energy Welding Apprenticeship, with over a decade of experience with regulatory compliance for the FDA and USPTO.",
+              "text": "Lists Smith's educational background as Toromont Energy Welding Apprenticeship, with over a decade of experience with regulatory compliance for the FDA and USPTO.",
               "citations": [
                 {
                   "doc": "book4",

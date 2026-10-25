@@ -79,8 +79,12 @@ def make_citation(config, doc, n, quote):
     return {"doc": doc, "page": n, "page_label": page_label(config, doc, n), "url": f"{config['docs'][doc]['url']}#page={n}", "quote": quote}
 
 
+LEAD = re.compile(r"^[\w\s-]{1,24}:\s*(?=(Says|Lists|If approved|Supporters|Opponents)\b)")
+
+
 def check_bullet(config, bullet, doc, allowed_pages, log, section, ignore_names=()):
     """Bullet from Gemma ({text, quote, page}) -> checked bullet, or None (logged) if unverifiable."""
+    bullet = {**bullet, "text": LEAD.sub("", bullet["text"].strip())}  # strip stray model prefixes like "text-based:"
     if len(bullet["quote"].split()) < 2:
         log["dropped"].append({"section": section, "text": bullet["text"], "reason": "quote too short to verify"})
         return None
