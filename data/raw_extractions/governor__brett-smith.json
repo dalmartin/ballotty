@@ -1,0 +1,42 @@
+{
+  "id": "governor/brett-smith",
+  "prompt_hashes": {
+    "candidate": "2a907ecfc45a90ec"
+  },
+  "models": {
+    "candidate": "gemma-4-26b-a4b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Says Smith will seek a full audit of systems and tax code by independent contractors.",
+        "quote": "A full audit of our systems and tax code by independent contractors.",
+        "page": 34
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists Smith's occupation is an inventor, small business owner, welder, and fabricator.",
+        "quote": "Occupation: Inventor, Small Business Owner, Welder, Fabricator",
+        "page": 34
+      },
+      {
+        "text": "Lists Smith's occupational background is an inventor, welder, and fabricator.",
+        "quote": "Occupational Background: Inventor, Welder, Fabricator",
+        "page": 34
+      },
+      {
+        "text": "text-based on on Toromont Energy Welding Apprenticeship, and over a decade of experience with regulatory compliance for the FDA and USPTO.",
+        "quote": "Toromont Energy Welding Apprenticeship, Over a decade of experience with regulatory compliance for the FDA and USPTO",
+        "page": 34
+      },
+      {
+        "text": "Lists Smith'",
+        "quote": "Lists Smith'",
+        "page": 34
+      }
+    ],
+    "endorsements": [],
+    "furnished_by": "Brett Smith"
+  }
+}

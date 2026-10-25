@@ -1,0 +1,68 @@
+{
+  "id": "corvallis-mayor/charles-maughan",
+  "prompt_hashes": {
+    "candidate": "4506e2f3acfc47e4"
+  },
+  "models": {
+    "candidate": "gemma-4-26b-a4b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Says Maughan will continue the work started during the current term.",
+        "quote": "continue the work he started.",
+        "page": 14
+      },
+      {
+        "text": "Says Maughan supports increasing the housing supply to decrease costs.",
+        "quote": "Our housing supply still needs to increase so costs decrease.",
+        "page": 14
+      },
+      {
+        "text": "Says Maughan will implement a plan for downtown vitality.",
+        "quote": "he will implement that plan.",
+        "page": 14
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists Maughan's occupation as a Compliance Analyst, Oregon Housing and Community Services.",
+        "quote": "Occupation: Compliance Analyst, Oregon Housing and Community Services",
+        "page": 14
+      },
+      {
+        "text": "Lists Maughan's occupational background in affordable housing, management, and accounting.",
+        "quote": "Affordable Housing; Management; Accounting",
+        "page": 14
+      },
+      {
+        "text": "Lists Maughan's educational background as a Housing Compliance Certified Professional.",
+        "quote": "text",
+        "page": 14
+      },
+      {
+        "text": "Lists Maughan's prior governmental experience as Corvallis Mayor and Corvallis City Councilor.",
+        "quote": "Prior Governmental Experience: Corvallis Mayor (2023- current); Corvallis City Councilor (2019-2022)",
+        "page": 14
+      }
+    ],
+    "endorsements": [
+      {
+        "text": "Lists endorsements from Senator Jeff Merkley and Congresswoman Val Hoyle.",
+        "quote": "Senator Jeff Merkley; Congresswoman Val Hoyle",
+        "page": 14
+      },
+      {
+        "text": "Lists endorsements from Attorney General Dan Rayfield and State Senator Sara Gelser Blouin.",
+        "quote": "Attorney General Dan Rayfield; State Senator Sara Gelser Blouin",
+        "page": 14
+      },
+      {
+        "text": "text",
+        "quote": "text",
+        "page": 14
+      }
+    ],
+    "furnished_by": "Maughan for Mayor"
+  }
+}

@@ -1,0 +1,679 @@
+[
+  {
+    "id": "us-senator/david-brock-smith",
+    "type": "candidate",
+    "contest_id": "us-senator",
+    "contest": "US Senator",
+    "name": "David Brock Smith",
+    "ballot_party_label": "Republican",
+    "ballot_order": 1,
+    "statement_filed": true,
+    "doc": "book4",
+    "pages": [
+      30
+    ]
+  },
+  {
+    "id": "us-senator/jeff-merkley",
+    "type": "candidate",
+    "contest_id": "us-senator",
+    "contest": "US Senator",
+    "name": "Jeff Merkley",
+    "ballot_party_label": "Democrat, Working Families",
+    "ballot_order": 2,
+    "statement_filed": true,
+    "doc": "book4",
+    "pages": [
+      31
+    ]
+  },
+  {
+    "id": "us-senator/gary-lyndon-dye",
+    "type": "candidate",
+    "contest_id": "us-senator",
+    "contest": "US Senator",
+    "name": "Gary Lyndon Dye",
+    "ballot_party_label": "Libertarian",
+    "ballot_order": 3,
+    "statement_filed": false,
+    "doc": "book4",
+    "pages": []
+  },
+  {
+    "id": "us-senator/chris-henry",
+    "type": "candidate",
+    "contest_id": "us-senator",
+    "contest": "US Senator",
+    "name": "Chris Henry",
+    "ballot_party_label": "Progressive, Pacific Green",
+    "ballot_order": 4,
+    "statement_filed": true,
+    "doc": "book4",
+    "pages": [
+      31
+    ]
+  },
+  {
+    "id": "governor/brett-smith",
+    "type": "candidate",
+    "contest_id": "governor",
+    "contest": "Governor",
+    "name": "Brett Smith",
+    "ballot_party_label": "Pacific Green",
+    "ballot_order": 1,
+    "statement_filed": true,
+    "doc": "book4",
+    "pages": [
+      34
+    ]
+  },
+  {
+    "id": "governor/tina-kotek",
+    "type": "candidate",
+    "contest_id": "governor",
+    "contest": "Governor",
+    "name": "Tina Kotek",
+    "ballot_party_label": "Democrat, Working Families",
+    "ballot_order": 2,
+    "statement_filed": true,
+    "doc": "book4",
+    "pages": [
+      35
+    ]
+  },
+  {
+    "id": "governor/christine-drazan",
+    "type": "candidate",
+    "contest_id": "governor",
+    "contest": "Governor",
+    "name": "Christine Drazan",
+    "ballot_party_label": "Republican, Libertarian",
+    "ballot_order": 3,
+    "statement_filed": true,
+    "doc": "book4",
+    "pages": [
+      35
+    ]
+  },
+  {
+    "id": "us-rep-4/monique-despain",
+    "type": "candidate",
+    "contest_id": "us-rep-4",
+    "contest": "US Representative, 4th District",
+    "name": "Monique DeSpain",
+    "ballot_party_label": "Republican, Libertarian",
+    "ballot_order": 1,
+    "statement_filed": true,
+    "doc": "book4",
+    "pages": [
+      32
+    ]
+  },
+  {
+    "id": "us-rep-4/val-hoyle",
+    "type": "candidate",
+    "contest_id": "us-rep-4",
+    "contest": "US Representative, 4th District",
+    "name": "Val Hoyle",
+    "ballot_party_label": "Democrat, Working Families",
+    "ballot_order": 2,
+    "statement_filed": true,
+    "doc": "book4",
+    "pages": [
+      33
+    ]
+  },
+  {
+    "id": "us-rep-4/justin-filip",
+    "type": "candidate",
+    "contest_id": "us-rep-4",
+    "contest": "US Representative, 4th District",
+    "name": "Justin Filip",
+    "ballot_party_label": "Pacific Green, Progressive",
+    "ballot_order": 3,
+    "statement_filed": true,
+    "doc": "book4",
+    "pages": [
+      33
+    ]
+  },
+  {
+    "id": "eugene-ward-3/jennifer-smith",
+    "type": "candidate",
+    "contest_id": "eugene-ward-3",
+    "contest": "Eugene City Council, Ward 3",
+    "name": "Jennifer Smith",
+    "ballot_party_label": "Nonpartisan",
+    "ballot_order": 1,
+    "statement_filed": true,
+    "doc": "book4",
+    "pages": [
+      52
+    ]
+  },
+  {
+    "id": "eugene-ward-4/jennifer-yeh",
+    "type": "candidate",
+    "contest_id": "eugene-ward-4",
+    "contest": "Eugene City Council, Ward 4",
+    "name": "Jennifer Yeh",
+    "ballot_party_label": "Nonpartisan",
+    "ballot_order": 1,
+    "statement_filed": false,
+    "doc": "book4",
+    "pages": []
+  },
+  {
+    "id": "eugene-ward-5/mike-clark",
+    "type": "candidate",
+    "contest_id": "eugene-ward-5",
+    "contest": "Eugene City Council, Ward 5",
+    "name": "Mike Clark",
+    "ballot_party_label": "Nonpartisan",
+    "ballot_order": 1,
+    "statement_filed": true,
+    "doc": "book4",
+    "pages": [
+      53
+    ]
+  },
+  {
+    "id": "eugene-ward-5/athena-aguiar",
+    "type": "candidate",
+    "contest_id": "eugene-ward-5",
+    "contest": "Eugene City Council, Ward 5",
+    "name": "Athena Aguiar",
+    "ballot_party_label": "Nonpartisan",
+    "ballot_order": 2,
+    "statement_filed": true,
+    "doc": "book4",
+    "pages": [
+      53
+    ]
+  },
+  {
+    "id": "eugene-ward-6/greg-evans",
+    "type": "candidate",
+    "contest_id": "eugene-ward-6",
+    "contest": "Eugene City Council, Ward 6",
+    "name": "Greg Evans",
+    "ballot_party_label": "Nonpartisan",
+    "ballot_order": 1,
+    "statement_filed": false,
+    "doc": "book4",
+    "pages": []
+  },
+  {
+    "id": "measure-20-388",
+    "type": "measure",
+    "measure_number": "20-388",
+    "jurisdiction": "City of Eugene",
+    "doc": "lane_ballot",
+    "title_pages": [
+      10
+    ],
+    "title_text": "Measure No: 20-388\nCaption:Licensure of Large Retailers to Finance a Clean Energy Fund\nQuestion: Shall voters adopt ordinance imposing on large retailers a licensing requirement and 2% fee to finance a\nclean energy fund?\nSummary: The proposed ordinance would amend the Eugene code to, beginning January 1, 2029, require large retailers\nto obtain a license and pay an annual 2% license fee on gross profits from retail sales within the City. The\nordinance defines “large retailer” as one engaged in retail sales in Eugene with gross profits exceeding\n$1,000,000,000 nationally and $500,000 in Eugene, excluding contractors, utilities, cooperatives, and credit\nunions. Gross profits from retail sales upon which the 2% is calculated would not include sales of most\ngroceries, medicines, residential garbage and recycling services, and health care services. The proposed\nordinance would require proceeds from the license fee to be placed in a “Eugene Clean Energy Fund”\ndedicated to funding renewable energy and energy efficiency programs; clean energy job training,\napprenticeships, and contractor support; green infrastructure programs; future innovation; and fund\nadministration (not to exceed 10% starting in 2030). The ordinance would require an expert committee to\nrecommend use of funds, evaluate effectiveness of fund, and ensure work funded is performed by historically\ndisadvantaged groups.",
+    "arguments": [],
+    "arguments_filed": {
+      "for": 0,
+      "against": 0
+    },
+    "no_arguments_note": "No arguments were filed in an official voters' pamphlet. Lane County does not publish a county voters' pamphlet."
+  },
+  {
+    "id": "corvallis-mayor/andrew-struthers",
+    "type": "candidate",
+    "contest_id": "corvallis-mayor",
+    "contest": "Corvallis Mayor",
+    "name": "Andrew Struthers",
+    "ballot_party_label": "Nonpartisan",
+    "ballot_order": 1,
+    "statement_filed": true,
+    "doc": "benton_vp",
+    "pages": [
+      13
+    ]
+  },
+  {
+    "id": "corvallis-mayor/kimi-gatherum",
+    "type": "candidate",
+    "contest_id": "corvallis-mayor",
+    "contest": "Corvallis Mayor",
+    "name": "Kimi Gatherum",
+    "ballot_party_label": "Nonpartisan",
+    "ballot_order": 2,
+    "statement_filed": true,
+    "doc": "benton_vp",
+    "pages": [
+      13
+    ]
+  },
+  {
+    "id": "corvallis-mayor/charles-maughan",
+    "type": "candidate",
+    "contest_id": "corvallis-mayor",
+    "contest": "Corvallis Mayor",
+    "name": "Charles Maughan",
+    "ballot_party_label": "Nonpartisan",
+    "ballot_order": 3,
+    "statement_filed": true,
+    "doc": "benton_vp",
+    "pages": [
+      14
+    ]
+  },
+  {
+    "id": "corvallis-mayor/kasey-haxton",
+    "type": "candidate",
+    "contest_id": "corvallis-mayor",
+    "contest": "Corvallis Mayor",
+    "name": "Kasey Haxton",
+    "ballot_party_label": "Nonpartisan",
+    "ballot_order": 4,
+    "statement_filed": true,
+    "doc": "benton_vp",
+    "pages": [
+      14
+    ]
+  },
+  {
+    "id": "measure-2-159",
+    "type": "measure",
+    "measure_number": "2-159",
+    "jurisdiction": "City of Corvallis",
+    "doc": "benton_vp",
+    "title_pages": [
+      25
+    ],
+    "title_text": "Ballot Title\nCaption: Amend Corvallis Charter to change city council,\nwards, and terms\nQuestion: Shall City amend charter to change number of\ncouncilors and wards, length and staggering of terms, and\nimpose term limits?\nSummary: This measure would amend the City's existing\nhome rule charter. The Oregon Constitution gives city\nvoters the right to adopt and amend charters. Charters grant\nlegal authority to cities, describe a city's form of government,\nand assign duties to city officials.\nIf approved, this measure would amend sections 8, 9, and 10\nof the current charter to change the number of city councilors\nand wards from nine to six, change councilor terms of office\nfrom two to four years with staggered elections, impose term\nlimits of three consecutive terms for councilors and the\nmayor, and make other related changes. No other sections of\nthe Charter would be changed by this measure.\nThis measure was referred to the voters by the City Council\nbased on the recommendation of the City's Charter Review\nTask Force.\nExplanatory Statement\nIf approved, this measure would amend the City’s current\ncharter.\nThe proposed charter amendments are based on the\nunanimous recommendation of the City’s Charter Review Task\nForce. The Task Force included the following individuals:\nCharles Maughan (Mayor)\nBriae Lewis (City Councilor)\nJan Napack (City Councilor)\nAva Olson (City Councilor)\nDanielle Chambers (Community-at-Large)\nSteve Lee (Community-at-Large)\nShelley Ries (Community-at-Large)\nThe City Council approved submitting this measure to the\nvoters.\nThe Oregon Constitution gives city voters the right to adopt\nand amend home rule charters. A charter grants legal\nauthority to a city government, describes the city’s form of\ngovernment, and defines the roles and responsibilities of city\nofficials.\nThis measure would make several changes to sections of the\nCity charter relating to the City’s form of government.\nSpecifically, this measure would amend the following sections\nof the charter:\nSection 8, relating to the City Council. This section would be\namended in the following ways:\n• Changes the number of councilors from nine to six.\n• Changes the term of office of councilors from two years\nto four years.\n• Staggers the elections of councilors such that councilors\nfrom even-numbered wards are elected in federal\npresidential election years and councilors from odd-\nnumbered wards are elected in federal midterm election\nyears.\n• Imposes term limits on councilors. A person could not\nserve more than three consecutive terms as a councilor,\nregardless of ward. Partial terms of less than two years\nwould not be counted. Terms served prior to January\n2027 would also not be counted.\n• Describes how the transition from the current Council\nstructure would occur though an election of all six\ncouncilors in November 2028, where councilors from\nodd-numbered wards would serve an initial two-year\n(rather than four-year) term in order to obtain the\nstaggering of terms described above.\n• Makes other revisions for clarity.\nSection 9, relating to wards. This section would be amended in\nthe following ways:\n• Changes the number of wards from nine to six.\n• Requires City Council to make its initial designation of\nthe six wards no later than December 31, 2027.\n• Removes existing language providing a 25-day period of\ntime during which Council can designate wards.\n• Removes language regarding revision of wards.\nSection 10, relating to the office of mayor. This section would\nbe amended in the following ways:\n• Clarifies that the mayor is elected from the city at large.\n• Removes language relating to the initial election of a\nmayor in 1954 and replaces it with language providing\nthat the mayor is elected in federal midterm election\nyears, which aligns with the current election schedule.\n• Imposes term limits on the mayor. A person could not\nserve more than three consecutive terms as mayor.\nPartial terms of less than two years would not be\ncounted. Terms served prior to January 2027 would also\nnot be counted.\n• Makes other revisions for clarity.\nNo other provisions of the Charter would be changed by this\nmeasure.\nThe full text of the proposed amendments and task force\nreport are available at\nhttps://www.corvallisoregon.gov/cm/page/november-2026-\nelection-ballot-measure.\n(Submitted by City of Corvallis)\natnweknocgalalaeylMCYB EEEE----1111::::ggggiiiiSSSS 66662222::::33331111 6666222200002222----44441111----ppppeeeeSSSS HHHHHHHH 22223333 SSSSSSSS",
+    "arguments": [
+      {
+        "id": "A1",
+        "side": "for",
+        "filed_by": "Lee Eckroth",
+        "pages": [
+          26
+        ],
+        "text": "THE RESPONSIBLE STEP FOR A COMMUNITY I LOVE\nI care deeply about Corvallis—our downtown, our\nneighborhoods, our local businesses, Oregon State University,\nand most importantly, the people who choose to call this\ncommunity home.\nI don’t consider myself particularly political, and I don’t look at\nMeasure 2-159 through a political lens. To me, this is about\nsomething much simpler: Are we giving the people we elect the\nbest structure possible to make thoughtful, responsible\ndecisions for Corvallis?\nI believe we can—and must—do better. Not by pointing fingers,\nbut by giving the people willing to serve our community a better\nsystem for doing the work.\nOur City Council is asked to make increasingly complicated\ndecisions about housing, public safety, infrastructure,\ntransportation, land use, economic vitality, and our City’s\nfinancial future. These decisions can affect Corvallis for\ndecades, yet our councilors currently serve just two-year terms.\nFour-year terms provide more time to learn, build relationships,\ntackle difficult issues, follow through on important work, and\nultimately be accountable for the results.\nStaggered elections provide continuity, ensuring experienced\ncouncilors remain as new members join. Six wards maintain the\ngeographic representation Corvallis values while creating a\nmore focused governing body. And reasonable term limits value\nexperience while still making room for new people, new energy,\nand new ideas.\nWhat I appreciate about this measure is its balance. It isn’t\nabout one candidate, one City Council, one election, or one\npolitical viewpoint. The structure we choose today will serve\nCorvallis regardless of who holds office tomorrow.\nI’ve always believed strong communities don’t happen by\naccident. They happen when people care, participate, invest in\ntheir community, listen to one another, and make responsible\ndecisions with the long term in mind.\nCorvallis is worth that kind of thinking.\nI believe Measure 2-159 is a thoughtful, balanced, and\nresponsible step toward better local government.\nPlease join me in voting YES on Measure 2-159.\nLee Eckroth"
+      },
+      {
+        "id": "A2",
+        "side": "for",
+        "filed_by": "Tony Cadena, Corvallis City Councilor and Council President",
+        "pages": [
+          26
+        ],
+        "text": "The printing of these arguments does not const\nthe county warrant the accuracy or truth of any\nModernize Corvallis AND Preserve What Matters\nLearning from the past\nIn 1971, Corvallis was just over half its current size, with 9\nCouncilors - 3 elected at large and 6 elected by ward, and all\nserved 6-year terms. Frustrated by a number of issues, a group\nof citizens proposed amendments within a few months that\nremoved the at-large positions and reduced the term length to\n2 years. That hasty Charter change, ppaasssseedd wwiitthh 2233%% vvootteerr\nttuurrnnoouutt, has been in place ever since.\nEven then, some community members worried that:\n• 2-year terms were worse than 6-year terms (too short to\nadequately understand how the city operates)\n• Inexperienced council members could lead to a loss of\ncontrol over city policy\nLearning from others, utilizing best practices\nWas the 1971 change a good one? Opinions may differ.\nWhat is clear is that, unlike the hasty process of 1971, Measure\n2-159 is the result of thoughtful study of best practices and the\nstructures of similar and diverse cities. Building on the 2019 Ad\nHoc Charter Committee and culminating with the 2025-26\nCharter Review Task Force has resulted in the well-supported\nproposals of Measure 2-159:\n1. 4-year Council terms with time to learn, collaborate, lead,\nand deliver results.\n2. Staggered elections (3 Council seats selected every 2\nyears) to ensure that experienced Councilors remain in\noffice as new members take office.\n3. Three-consecutive-term limits to balance experience with\nrenewal. The limit is consecutive, not a permanent limit.\n4. 6 wards to enable a more focused Council that represents\nthe issues facing both their ward and the city.\n5. No other changes.\nA modernized Council\nThese changes strengthen our governing structure to address\nour current and future challenges. Adopting a practical, proven\napproach, this Measure preserves ward representation and a\ncitywide-elected mayor, with no change to the mayor’s voting\nrole.\nMODERNIZE THE CHARTER, STRENGTHEN CORVALLIS"
+      },
+      {
+        "id": "A3",
+        "side": "for",
+        "filed_by": "Good Governance Corvallis ID:24834",
+        "pages": [
+          26,
+          27
+        ],
+        "text": "titute an endorsement by Benton County, nor does\ny statement made in the arguments. ORS 251.355\nBetter Governance For A Better Corvallis\nMeasure 2-159 makes four interconnected improvements to our\nCity Charter:\n• Four-year Council terms\n• Staggered elections, with half the Council elected every\ntwo years\n• A three-term limit for Councilors and the Mayor\n• Six wards, each electing one Councilor\nFour-year terms give Councilors time to learn the budget,\nunderstand complex issues, pursue priorities, and build a record\nvoters can fairly evaluate.\nStaggered elections preserve continuity. Since 1973, nearly five\nof our nine seats have flipped in the average election; a Council\nforever starting over. Staggering keeps experienced members\nat the table as new ones arrive.\nTerm limits provide balance. Councilors and the Mayor may\nserve up to three consecutive four-year terms; time to\naccomplish meaningful work while ensuring opportunities for\nnew candidates and fresh ideas.\nSix wards preserve geographic representation while creating a\nmore focused Council; every voter still elects their Councilor\nfrom their ward. Six is no outlier: nearby Albany, Lebanon,\nSpringfield, Beaverton, Tualatin, and many other Oregon cities\nall elect six councilors to four-year terms.\nThe Mayor’s voting role and ward elections don’t change—only\nthe structure does.\nExperience. Continuity. Accountability. Renewal. Measure 2-159\nprovides all four.\nPlease join us in supporting Better Governance for A\nBetter Corvallis:\nBenton County Democrats\nBenton County Republican Party\nCorvallis Chamber of Commerce\nDowntown Corvallis Organization\nCharles Maughan, Mayor of Corvallis\nFormer Corvallis Mayors: Julie Manning, Biff Traber\nCorvallis City Councilors: Tony Cadena, Briae Lewis, Carolyn\nMayers, Jim Moorefield, Jan Napack\nFormer Corvallis City Councilor: Penny York\nCandidates for City Council: Steve Clark (Ward 1), Tarsa\nWeikert (Ward 2), Paul Berg (Ward 4), Brennan Colberg (Ward\n6), Danielle Chambers (Ward 7), Jerry Ingersoll (Ward 7), Alexis\nHammer (Ward 9)\nVote YES on 2-159. Better Governance. Better\nDecisions. Better Corvallis."
+      },
+      {
+        "id": "A4",
+        "side": "against",
+        "filed_by": "Mark Boyd",
+        "pages": [
+          27
+        ],
+        "text": "The printing of these arguments does not cons\nthe county warrant the accuracy or truth of an\nVote NO on Measure 2-159….It is complicated and\nundemocratic.\nCorvallis is facing challenging times. This ballot measure will do\nnothing to help us work through the issues we must wrestle\nwith in the next ten years.\nThe measure reduces the number of wards by a third, meaning\nmore constituents per councilor. Democracy flourishes when\nCity Council represents a wide range of voices—struggling\nstudents, young families working to create a stable home,\nprofessionals in the middle of their careers, and retired people—\nd when making solid economic decisions. Council must represent\nrenters, homeowners, and people looking to purchase because\nthe decisions made around housing impact them differently.\nCouncil needs to represent drivers, pedestrians, and people in\nwheelchairs when deciding how to design our streets. A wider\nrange of voices leads to a more nuanced decision. Does\ndemocracy take time? Yes. Is it messy? Yes. Can it be\nfrustrating? Yes. But, it leads to better final outcomes.\nWe also need to consider the impact of four year terms. Four\nyears is a long time in the life of a family or young\nprofessional—would a council able and willing to commit to four\nyear terms skew older, wealthier, and whiter? Do we want to\nfind out?\nThe measure is also complicated. It involves three substantial\namendments – larger wards, longer council terms, and term\nlimits – along with other impactful changes. Compressing all of\nthe decisions into one measure forces the voter to vote it up or\ndown. If we are serious about altering the structure of council,\nwe should vote on each item separately. This would allow a\nmore thoughtful restructuring. Like the number of councilors at\nthe dais, the measure needs more voices weighing in before it is\nready for a serious vote.\nAsk yourself: are you willing to give up your voice and your\nrepresentation when the city is making decisions?\nVote NO on Measure 2-159"
+      },
+      {
+        "id": "A5",
+        "side": "against",
+        "filed_by": "Dave Eckert, Ward 4 Corvallis resident",
+        "pages": [
+          27,
+          28
+        ],
+        "text": "s\nstitute an endorsement by Benton County, nor does\nny statement made in the arguments. ORS 251.355\natnweknocgalalaeylMCYB FFFF----1111::::ggggiiiiSSSS 66662222::::33331111 6666222200002222----44441111----ppppeeeeSSSS HHHHHHHH 22223333 SSSSSSSS\nVote No on Measure 2-159\nMeasure 2-159 asks Corvallis voters to change multiple City\nCharter sections and multiple City practices with one vote, yes\nor no, as if all changes are equally impactful, reasonable and\ntime-critical. They are not.\nFirst, placing term limits upon the mayor and city councilors\nremoves choice by voters. While a reasonable person may\nconsider an elected City official holding an office for more than\n12 years to be excessive, long-term knowledge and experience\nare every bit as important on Council as high-energy\ninexperience of newly elected officials. We need both, and that\nis a decision for voters at each election. Mandating term limits\nmandates limited voter power. This change alone should result\nin a NO vote.\nSecond, removing the clauses about when the city council may\nredraw ward boundaries after 2027 and about protecting the\none-person, one vote principle invites opportunities for future\nCity Councilors to create favorable chances for certain councilor\ncandidates. If the current City Charter wording is unreasonable,\nthat is no reason to remove ALL Charter guidance on the timing\nof ward changes after 2027.\nThird, changing the number of wards and ward councilors to an\neven number increases the already significant powers of the\nmayor and reduces the power of each councilor. Currently, a tie\nvote is the only opportunity for the mayor to vote. The existing\nodd number of councilors reduces the opportunity for a tie vote.\nWith an even number of councilors, the chances of a tie vote\nwould rise and make mayors even more powerful than they are\nnow.\nThe proposed Charter amendments are significant, as they\nwould change the balance of power in city government. There\nis no urgency to making these Charter changes.\nIf you agree with any one of the above three arguments, then\nvote NO on Measure 2-159."
+      },
+      {
+        "id": "A6",
+        "side": "against",
+        "filed_by": "Barbara Bull, Patricia Benner, and Tony Howell",
+        "pages": [
+          28
+        ],
+        "text": "The printing of these arguments does not consti\nthe county warrant the accuracy or truth of any\nVote No on Measure 2-159\nThe Charter amendment proposed in this Ballot Measure was\nrecommended to Council by a Charter Review Task Force led by\nthe Mayor. Unfortunately, the proposal fails to deliver on three\nof the Task Force’s own guiding principles.\nFair and Effective Representation. By deleting the language\nin the charter that guides how ward boundaries should be\ndrawn, this measure makes unfair representation more possible,\nnot less.\nAccountability to Voters and Democratic\nResponsiveness. Elections hold councilors accountable.\nExtending terms to four years makes council less accountable,\nnot more.\nAccessibility to Elected Leaders and Public Service.\nReducing the number of wards from 9 to 6 means each ward\nwill be larger for a councilor to walk and will include more\npeople to represent, resulting in reduced access to elected\nleaders.\nStudents are a significant part of our community and should not\nbe left out. Longer terms would make it more difficult for\nstudents to run for council, making public service less accessible\nto them.\nThe Task Force argued that these changes would make Council\nmore efficient. However, the proposal requires ward boundaries\nto be redrawn for the second time since the 2020 census. This\nis an unneeded waste of time for a new council.\nTen years of eliminating some council advisory committees and\nconverting others to advising staff has already reduced public\ninput to comment at meetings with crowded agendas. This\nmeasure goes a step too far, proposing to “streamline”\nrepresentation itself.\nIn Corvallis we need a Council that is more accessible and\nresponsive to the people not less. Please join us in voting NO on\nMeasure 2-159!\nBarbara Bull, Ward 7 resident\nPatricia Benner, Ward 3 resident\nTony Howell, Ward 3 resident"
+      }
+    ],
+    "arguments_filed": {
+      "for": 3,
+      "against": 3
+    },
+    "no_arguments_note": null
+  },
+  {
+    "id": "us-rep-3/maxine-e-dexter",
+    "type": "candidate",
+    "contest_id": "us-rep-3",
+    "contest": "US Representative, 3rd District",
+    "name": "Maxine E Dexter",
+    "ballot_party_label": "Democrat",
+    "ballot_order": 1,
+    "statement_filed": true,
+    "doc": "book13",
+    "pages": [
+      35
+    ]
+  },
+  {
+    "id": "us-rep-3/loran-ayles",
+    "type": "candidate",
+    "contest_id": "us-rep-3",
+    "contest": "US Representative, 3rd District",
+    "name": "Loran Ayles",
+    "ballot_party_label": "Republican",
+    "ballot_order": 2,
+    "statement_filed": false,
+    "doc": "book13",
+    "pages": []
+  },
+  {
+    "id": "measure-26-267",
+    "type": "measure",
+    "measure_number": "26-267",
+    "jurisdiction": "City of Portland",
+    "doc": "multnomah_vp",
+    "title_pages": [
+      78
+    ],
+    "title_text": "Proposed by Initiative Petition\nBALLOT TITLE\nAmends Charter: Portland residents decide 2% of\ncity’s annual discretionary budget.\nQuestion: Should Portland create participatory budgeting\nprogram for residents to make binding decisions to spend 2%\nof city’s discretionary budget?\nSummary: Currently, Mayor works with City Administrator,\nbureaus, and community to develop proposed budget;\nCouncil then considers, amends as needed and adopts\nfollowing public hearings. If measure is not approved, this\nprocess would not change.\nIf measure approved, amended Charter would require Council\nto allocate an amount equivalent to at least 2% of the city’s\nadopted General Fund discretionary ongoing expenses\n(Council may identify funding from entire city budget to\nmeet funding obligation) towards a participatory budgeting\nprogram that is:\n• Developed with input from oversight committee,\nselected by a process determined by Council, of residents\nfrom all Council districts\n• Open to any resident’s funding proposals for citywide or\ndistrict projects:\n• Proposals assessed and refined into limited\nnumber of feasible projects by city staff\nand budget delegates from all districts in a\ntransparent process\n• Feasible projects advance to binding selection\nprocess open, accessible to all residents\n• Operational July 2027\n• Under recent forecast, preliminary estimate:\n• 16.4 million in FY 2027-28\n• 17.0 million in FY 2028-29\n• Compliant with Oregon Local Budget Law\nOther provisions.\nEXPLANATORY STATEMENT\nNo explanatory statement filed.\nM-78\nThis space left intentionally blank.",
+    "arguments": [
+      {
+        "id": "A1",
+        "side": "for",
+        "filed_by": "Max Steele",
+        "pages": [
+          79
+        ],
+        "text": "Have you enjoyed the last two years of cut budgets and\ndrawn out fights to fund core services? If so, you’ll love this\nopportunity to take at least $16 million of annual discretionary\nspending from essential services that Portlanders depend\non.\nThe best part is the funds can be drawn from anywhere.\n• Want to defund the police? That’s on the table.\n• Voted against PCEF or the Parks Levy and lost? Maybe we’ll\ntake it from there.\n• We get to relitigate every recent petty grievance and loss.\n• City Workers will be directly affected, so if your beef is\nwith firefighters, you’re in for a treat.\nIt could end up being larger, but even 2% would put our\nparticipatory budget experiment at more than eight times the\nsize of Boston’s. Most cities only have the courage to put\naround $1 million toward a program like this. With $16\nmillion on the line, Portland is raising the stakes.\nAfter all, how can we come together to agree on a set of values\nand priorities unless we place every government program in\nperil? Make them all fight and the cream will rise. It worked\nfor King Solomon with that baby. It can work for us! Instead of\nan old-fashioned sword, I recommend a CHAINSAW*!\nPortland faced $170 million in cuts this year but I believe\nwe can do things more aggressively and democratically\nthrough committees, and who doesn’t love a nice committee?\nWant to keep your public sector job? Cry in front of the\ncommittee. Maybe they’ll take pity on you. Have an idea for a\nnon-profit? Get your friends on the committee before you pitch\nit. It’s like a reality TV show.\nYou should vote yes on what is likely to be one of the largest\nparticipatory budgets in the country. Why wait for declining\nrevenue to cut our budget? Take a CHAINSAW* to it!\n* (Citizen-Helmed Austerity & Ideological Nonsense\nSupplanting Actual Work)"
+      },
+      {
+        "id": "A2",
+        "side": "for",
+        "filed_by": "Edward Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          79
+        ],
+        "text": "Vote YES for Your 2 Cents PDX! Measure 26-267.\nParticipatory budgeting lets people like you help decide how\nyour City spends a small sum of money. It is used successfully\nin more than 7,000 cities around the world, and in over 100 US\ncities.\nThis measure does not raise taxes. A Yes vote for Measure 26-\n267 lets Portlanders help choose what our neighborhoods need\nmost.\nPortlanders can share their priorities and projects, and then\nvote on which ones you want to get a share of ~$16 million.\nThen the winning items get funded.\nPortlanders have lost trust in City Hall. Too much money has\nbeen misplaced or poorly managed while our schools struggle,\nparks go dark, shelters close, and city workers lose their jobs.\nThat’s why we need Your 2 Cents now. Studies show\nThe printing of these arguments does not constitute an endorsement by Mu\nstatements made\nM-7\nthat participatory budgeting is one of the best ways for\ncities to bring people together, make government more\naccountable, and get good things done for the community.\nMetro is already doing this in Clackamas and Washington\ncounties. For example, the Community Choice Grants program\nfunded parks projects selected by community members, like a\nWillamette riverwalk and playground. Now it’s time to bring it\nto Portland.\nNo city anywhere has laid off workers because of\nparticipatory budgeting. In fact, studies show that cities\nwith PB programs often deliver more results for residents,\nwith more cost efficiency.\nPowerful interests want to keep you out of the conversation.\nYour 2 Cents gives you a voice.\nMeasure 26-267 is supported by community organizations\nyou trust, including:\n- Multnomah County Democrats\n- Democratic Socialists of America\n- Sierra Club\n- Next Up Action Fund\n- East County Rising Action Fund\n- Working Families Party\n- American Federation of Teachers - Oregon\n- PSU-AAUP\n- Coalition of Communities of Color\n- Urban League of Portland\n- Participatory Budgeting Oregon\n- Portland Grey Panthers\n- Imagine Black\n- Mother PAC\n- 350PDX\n- First Unitarian Portland Economic Justice Action Group\nLearn more and see the full supporter list at\nYour2CentsPDX.com."
+      },
+      {
+        "id": "A3",
+        "side": "for",
+        "filed_by": "Edward Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          79,
+          80
+        ],
+        "text": "Frequently Asked Questions\n1. How does participatory budgeting work?\nStep 1: Residents like you propose budget priorities and/or\nprojects, and city staff make sure they are doable.\nStep 2: Portlanders vote on the priorities/projects. (In NYC, this\nhappens online and at public libraries, see participate.nyc.gov.)\nStep 3: The winning items get funded, and the cycle repeats.\n2. What is Your Two Cents (Measure 26-267)?\nA record-breaking 78,743 Portlanders signed a petition to\nultnomah County, nor does the County warrant the accuracy or truth of any\nin the arguments.\ncreate a participatory budgeting program, giving all Portlanders\na direct say in how to spend $16 million each year – equivalent\nto 2% of the city’s $800 million discretionary budget. The\nmeasure allows these funds to come from across the city’s\nentire $8.5 billion budget.\n3. Will it raise my taxes?\nNo. Measure 26-267 does not raise taxes. It simply gives\nPortlanders a greater say in how existing city funds are spent.\n4. Will it cut city jobs?\nNo. Measure 26-267 would protect jobs. No participatory\nbudgeting process in the world has ever cut jobs because\nit does not change the size of the budget, it just gives\nresidents more say. Your 2 Cents PDX would give Portlanders a\nway to fight back against city job cuts.\n5. How much will it cost?\nApproximately $1-1.5 million annually. (The city’s current\nbudget for community outreach is $5.1M).\n6. Where is it successful?\nMore than 7,000 cities worldwide have used participatory\nbudgeting. New York City and Boston have operated programs\nfor more than a decade as part of their city charters. In the\nU.S., more than 100 cities have successfully used participatory\nbudgeting programs.\nIn Oregon, Metro Government has already completed\ntwo rounds of participatory budgeting in Washington and\nClackamas Counties. It was so successful they plan to expand.\n7. What types of projects could be funded through\nparticipatory budgeting?\n• Street and sidewalk improvements\n• Parks repair\n• Public safety initiatives\n• After-school programs\n• Renter relief\n• Services for seniors\n• And much more!"
+      },
+      {
+        "id": "A4",
+        "side": "for",
+        "filed_by": "Edward Alexander Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          80
+        ],
+        "text": "Healthy Democracy urges a YES vote on Measure 26-267 to\npass Your 2 Cents PDX.\nHealthy Democracy is an Oregon-based nonprofit that\nworks for more deliberative and inclusive democracy beyond\nelections. We strongly support bringing participatory\nbudgeting to Portland through Measure 26-267 will strengthen\nboth electoral and deliberative democracy in the City of Roses.\nBroader & Deeper Engagement\nParticipatory budgeting takes public budgeting out into\nthe community where people live and work. It is a proven\nmechanism for engaging a broader cross-section of the\npublic. Research demonstrates that when it allocates enough\npublic money through a recurring process, as proposed in\nThe printing of these arguments does not constitute an endorsement by M\nstatements made\nM-\nMeasure 26-267, more and more diverse people participate,\nhelping close the gap between those who do and who don’t\nregularly engage. As participants acquire new civic and political\nknowledge, they participate in other ways and become more\nlikely to vote in elections.\nMore Collaborative & Deliberative Governance\nParticipatory budgeting invites people to exercise real\nbudgeting power together. It therefore requires them\nto engage across differences and in collaboration with\ngovernment staff. Instead of who can yell the loudest or lobby\nthe hardest at City Hall, residents and City staff collaborate to\nfind workable solutions together in their communities. In the\nprocess, they adopt new perspectives and priorities, develop\nmutual trust, and discover new opportunities for collaboration.\nMore Effective and Creative solutions\nPortlanders know what they need for their communities to\nthrive. Measure 26-267 will tap the ideas and expertise of\ndiverse Portlanders to bring forth more responsive and creative\nsolutions City Hall hasn’t considered. Participatory budgeting\nprovides an ongoing mechanism to pilot and prove new,\ninnovative ideas that if successful can become part of the\nongoing budget.\nHealthy Democracy Urges Portlanders to Vote Yes on\nMeasure 26-267, Your 2 Cents."
+      },
+      {
+        "id": "A5",
+        "side": "for",
+        "filed_by": "Edward Alexander Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          80,
+          81
+        ],
+        "text": "Portland Small Businesses For Your 2 Cents PDX\nAs small business owners, we understand the importance\nof sound budgeting for operational excellence and making\neffective use of scarce resources. Public budgeting in the\nCity of Portland currently lacks adequate transparency and\naccountability. Recent City spending decisions, grants and\neven business loans have proceeded with little oversight and\naccountability which has further undermined the public trust.\nWe need new solutions to increase transparency and\naccountability, provide opportunities for more meaningful\npublic participation, and rebuild public trust. We need to tap\nthe ideas and knowledge of all Portlanders in developing,\nvetting, and funding feasible solutions to our City’s most\npressing challenges and opportunities. We need residents\nand City staff working together, on more equal terms, to\nshape strategic public investments in our neighborhoods\nand communities. We need measure 26-267 to finally bring\nparticipatory budgeting to Portland.\nMeasure 26-267 will allow all residents including small business\noperators to directly propose and select feasible and legal\ncapital improvements, work force development programs,\npublic safety initiatives, and other projects to strengthen the\nsocial fabric of neighborhoods and with it the vibrancy of the\nCity’s business districts.\nParticipatory budgeting is a demonstrated mechanism for\nincreasing transparency, accountability and participation in\npublic budgeting. In New York City public projects selected by\nresidents through participatory budgeting are implemented\nMultnomah County, nor does the County warrant the accuracy or truth of any\ne in the arguments.\n-80\nquicker and with fewer complaints. Existing programs\nimplemented in cities across the US and around the world for\ndecades provide proven models and best practices Portland\ncan build on and refine to adapt PB for our City.\nFor all these reasons, we, the undersigned small business\nowners in Portland, urge voters vote yes on Measure 26-267 for\nYour 2 Cents PDX.\nBarb Grover, Splendid Cycles, SE Portland\nEli Spevak, Orange Splot LLC, NE Portland\nLily Burnett, Parkrose Coffee, East Portland\nMark Lakeman, Communitecture, SE Portland\nJeffrey Mandel, Exit Shoes, Downtown\nPeter Platt, Andina Restaurant, NW Portland\nLaura Streib, St. Johns Mercantile LLC, North Portland"
+      },
+      {
+        "id": "A6",
+        "side": "for",
+        "filed_by": "Edward Alexander Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          81
+        ],
+        "text": "East Portland Residents for Your 2 Cents PDX\nMeasure 26-267 (Your 2 Cents) would give East Portlanders\na direct say in delivering improvements by and for East\nPortlanders!\nEast Portland has long struggled to get its fair share in the\nbudget process. East Portland has unique needs and presents\nchallenges and opportunities long ignored by City Hall.\nThat is why we urge a yes vote to finally bring participatory\nbudgeting to Portland.\nThat means East Portlanders – not lobbyists or City insiders\n– will determine outcomes for East Portland.\nYour 2 Cents is an opportunity to advance long-sought City\nprojects in District 1 serving East Portlanders including:\n• Fire Station 29 Improvements (Powellhurst)\n• Leach Botanical Garden\n• Sumner Neighborhood Park\n• 150th & Division Community Garden\n• Rental Assistance & Anti-Displacement Programs\n• East Portland Grocery Stores\n• Neighborhood Greenways & Lighting\n• Mobile/Decentralized Community Services\n• International District & Music Venues\n• Soccer Fields\n• Sidewalk improvements\n• Youth Programs\n• Gateway Green Access Improvements & Recreation\nPrograms\n• Rocky Butte Loop\n• Cultural & Business Districts Branding\n• Placemaking for crime prevention\nThe printing of these arguments does not constitute an endorsement by M\nstatements made\nM-\n• East Portland Urban Shade (parks & street trees)\nJoin the undersigned East Portland residents and\nadvocates, in voting YES on Measure 26-267.\nAlthea Ender, David Douglas School Board Member\nErica Fuller, Centennial\nGayle Palmer, Centennial\nHelena Guerrero Sullivan, East County Rising\nJR Lilly, Native American Community Leader\nLily Burnett, Parkrose\nLinda Robinson, Hazelwood Park advocate\nLeanna Petrone, East County Rising\nNick Sauvie, Housing Advocate\nStephanie Routh, Lents\nTimur Ender, Mt. Hood Community College Board Member\nTom Lewis, Rockwood Water PUD Director\nTy Wilkins, Powellhurst-Gilbert\nDavid Linn, Centennial School Board Director\nJose Gamero-Gerogeson, David Douglas School Board Director\nShattoyia Bentley, Mt. Hood Community College Board\nMember\nBrian Ettling, Wilkes"
+      },
+      {
+        "id": "A7",
+        "side": "for",
+        "filed_by": "Edward Alexander Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          81,
+          82
+        ],
+        "text": "Portland Black-led Organizations & Black Leaders Support\nMeasure 26-267, Your 2 Cents PDX\nWhile the nation debates restricting democratic access and\nhard-fought civil rights, Portland is honoring the legacy of the\nVoting Rights Act by ensuring that every resident—regardless\nof traditional voting status—has a direct role in shaping our\ncity’s future.\nVote ‘Yes’ on the Ballot Measure 26-267 to guarantee our most\ndisenfranchised communities have the seat at the table they\ndeserve.\nParticipatory Budgeting builds real community power by:\n• Enfranchising Excluded Residents: This measure\ndirectly empowers all residents including residents who\ncannot vote, youth, justice-involved individuals, and\nunhoused neighbors who are locked out of traditional\nballots. Research in NYC and Prague also demonstrates\nthat PB increases voting rates among eligible voters.\n• Shifting Real Power from Insiders to All Residents:\nRather than allowing well-funded lobbyists to control\ncity spending behind closed doors, this measure\ngives all residents, including Black and marginalized\ncommunities, the chance to make binding decisions on\nhow public money is invested in their neighborhoods\nand communities.\n• Amplify the lived experience of underrepresented\nMultnomah County, nor does the County warrant the accuracy or truth of any\ne in the arguments.\n-81\nresidents and neighborhoods: This measure would\ntap the experience and expertise of ordinary residents\nregarding the needs of their communities. It also allows\nthe City Council to commit more funding to historically\nunder resourced City Districts like East Portland\nYour Two Cents finally gives Portlanders a chance to bring PB to\nPortland.\nWe the undersigned urge Portlanders to vote YES on the Your 2\nCents PDX measure.\nAndre Middleton, Executive Director of Friends of Noise\nJoy Alise Davis, Executive Director of Imagine Black\nShaToyia Bentley, Executive Director of Ebony Collective CDC\nT. Winslow Spears, Co-Steward of York Collective\nJustice Rajee, Director of Advocacy, Urban League of Portland\nGermaine Flentroy, Director of Play Grow Learn LLC\nMarcus Mundy, Executive Director of Coalition of Communities\nof Color\nPaula M. Byrd, Interim Executive Director of Rosewood Initiative\nErica Fuller, PDX Metro AfroSOC"
+      },
+      {
+        "id": "A8",
+        "side": "for",
+        "filed_by": "Edward Alexander Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          82
+        ],
+        "text": "Portland DSA Says Vote Yes on Measure 26-267\nFor a city budget that serves working-class needs, not\nruling-class greed!\nWe are the Portland Chapter of Democratic Socialist of\nAmerica (DSA) and we believe we must replace capitalism\nwith democratic socialism, a system where workers control the\nfruits of their collective labor, where we care for each other, and\nwhere all people have a real voice and self-determination in\ntheir workplaces, neighborhoods, and governments.\nParticipatory budgeting was invented by Brazilian workers\nin the 1980s to give all residents a direct voice in municipal\ngovernment. It was a huge success. It increased public\ninfrastructure investment in poor and working-class\nneighborhoods and spread rapidly to other cities with similar\neffects. Brazilian cities that implemented participatory\nbudgeting drew more residents into public decision-making,\ninvested more in public health, and experienced significant\ndecreases in infant mortality.\nMeasure 26-267 brings participatory budgeting to Portland at\na meaningful scale. It will give all residents a direct say in how\npublic funds are spent in their city. In the process, it can expand\nopportunities for residents and City workers to collaborate to\nsolve problems, improve service delivery, and rebuild a strong\npublic sector. At a time when the city is cutting city jobs to\nspend lavishly on Moda Center improvements that enrich a\nTexas billionaire, Measure 26-267 will allow Portlanders to fight\nback by funding parks maintenance, street repair crews, and\nPortland Street Response.\nThe corporate investor class and their agents hate the idea of\nall Portlanders having more say. That’s why they are funding\nopposition to Measure 26-267. Let’s send them packing and\nThe printing of these arguments does not constitute an endorsement by M\nstatements made\nM-\nfight for a Portland where everyone counts.\nPortland Democratic Socialists of America Urge a Yes Vote\non Measure 26-267, Your 2 Cents Portland."
+      },
+      {
+        "id": "A9",
+        "side": "for",
+        "filed_by": "Edward Alexander Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          82,
+          83
+        ],
+        "text": "We, the three undersigned, are university professors of political\nscience who have spent our careers researching participatory\nbudgeting. We co-authored Participatory Budgeting in Global\nPerspective (2021), a book that summarizes research across\nsix continents to document how different programs have\nproduced different impacts and outcomes.\nBased on global research, we believe Portland would be\nparticularly well positioned to implement successful, high\nimpact participatory budgeting under Measure 26-267 for at\nleast three reasons:\n1. Measure 26-267 establishes charter-mandated PB but\nenables innovation. Measure 26-267 is well crafted with\na clear mandate for recurring participatory budgeting\ncycles shown to result in higher engagement but provides\nflexibility for public officials to refine and improve the\nprogram over time.\n2. Measure 26-267 allocates sufficient funds to make\nparticipatory budgeting meaningful and impactful.\nMeasure 26-267 establishes a citywide participatory\nbudgeting program that allocates at least $1 million per\n100,000 residents, recognized best practice. Allocating\nsufficient funds through participatory budgeting is key to\nachieving high participation and other program goals.\n3. Measure 26-267 requires program evaluation and\nimprovement over time. Research demonstrates that\nsetting clear participatory budgeting program goals and\nevaluating the participatory budgeting implementation\npromotes better outcomes over time. The measure\nprovides a clear mandate to “evaluate the PB program\nand recommend changes in the process” specifically “to\nimprove desired impacts and outcomes and to increase\nparticipation of all residents.”\nMany US municipalities allocate relatively low amounts of\npublic money, lack robust systems of evaluation, and/or do not\nhave legal provisions (charter mandates) to ensure long-term\ngrowth and success.\nMany municipalities around the globe, in contrast, have\nstrengthened democratic institutions and expanded inclusive\ngovernance with precisely the provisions in Measure 26-\n267. Our research suggests Portland voters have a unique\nopportunity to do the same for their city by adopting Measure\n26-267 on November 3.\nSincerely,\nDr. Brian Wampler, Distinguished Professor. Boise State\nUniversity\nMichael Touchton, Independent Scholar & Researcher, PhD\nPolitical Science\nDr. Stephanie McNulty, Professor, Franklin and Marshall College\nMultnomah County, nor does the County warrant the accuracy or truth of any\ne in the arguments.\n-82"
+      },
+      {
+        "id": "A10",
+        "side": "for",
+        "filed_by": "Edward Alexander Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          83
+        ],
+        "text": "YES on Measure 26-267\nfor the future of young people,\nfor the future of democracy\nOur democracy is in crisis. Too many people, especially young\npeople, lack the experience of exercising their collective power.\nCivic participation comes from habitual experience; it is like a\nmuscle that, if developed early, promotes life-long participation\nand voting. That is a key reason we need participatory\nbudgeting to rebuild and reimagine our democracy.\nIn 2023, young people led Oregon’s first participatory\nbudgeting process (PB), Youth Voice Youth Vote PB. Hundreds\nof young people ages 13-25 designed and implemented the\nprocess to decide how to spend $500k to improve youth\nwellbeing in East Portland after COVID 19. Over 1000 youth\nvoted to select winning projects, including career fairs, youth\nmentorship programs, and culturally-responsive health\nresources. As two East Portland youth reflect:\n“By allowing young people to have a direct voice through\nparticipatory budgeting, they gain the experience and the\nconfidence to advocate for themselves and our collective\nfuture.”\n- Jessica Monje-Perez\n“The experience of participatory budgeting helped me\nsee my own power to shape outcomes and improve in my\ncommunity. It inspired me to take greater leadership and\nresponsibility in my family and civic life.”\n- Natan Hagdu\nYoung people have the greatest stake in the future and the\nleast voice in government decisions — the City Council’s\nbudget decisions directly affect them but they have no vote\nand little influence. Sharing real power with young people and\nother marginalized voices through participatory budgeting\nwill foster greater collaboration across generations and bring\nforth creative solutions not typically considered in a city\nbudget process dominated by the most affluent and able.\nIn the face of rising authoritarianism, deeper participation\nin local government is critical. Measure 26-267 will give all\nPortlanders, especially young people, more voice in their\nCity budget and rebuild a democracy in which everybody\ncounts.\nNext Up Action Fund"
+      },
+      {
+        "id": "A11",
+        "side": "for",
+        "filed_by": "Edward Alexander Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          83
+        ],
+        "text": "Parent and ex-New Yorker’s 2 cents on Measure 26-267 -\nPortland now is your chance!\nI am a parent and ex-New Yorker who resides in SE Portland\nwith my family. In 2017, I served as a participatory budgeting\ndelegate in New York City’s District 39 and experienced it first-\nThe printing of these arguments does not constitute an endorsement by M\nstatements made\nM-\nhand. I strongly urge a yes vote on Measure 26-267, Your 2\nCents PDX, to finally bring participatory budgeting to Portland.\nSince 2011 when District 39 pioneered participatory\nbudgeting, it has expanded across dozens of NYC Districts.\nToday, hundreds of thousands of New Yorkers annually\nvote to allocate millions to public projects across the City:\nschool programs, public art, rental assistance, or capital\nimprovements to fire stations, streets, parks, transportation,\nand more. The voting occurs over two months, is City\nadministered, and secured to verify residency but still open\nand accessible to all New York residents, including youth!\nParticipatory budgeting brings people from all walks of life to\nmore deeply and meaningfully shape budget outcomes and\nimprove their city. Participatory budgeting fosters community\nbuy-in, strips away red tape, and delivers public works more\nquickly and with fewer complaints. It has been so successful in\nNew York that 66% of voters chose to put it in the city charter\nin 2018.\nAfter years of community advocacy and of City inaction,\nPortland finally has a chance with Measure 26-267.\nMeasure 26-267 builds on successes in places like Chicago,\nNew York, and elsewhere and sets Portland up for success.\nInput from City staff with the Auditor, Office of Management &\nBudget, and the Government Transition Team ensures Measure\n26-267 fits hand-in-glove with the new government structure,\nallowing residents to propose and select feasible City projects\nin their new City Council Districts.\nFor too long City Hall power brokers thwarted bringing\nparticipatory budgeting to Portland. Don’t miss your chance!\nVote yes on Measure 26-267 for Your 2 Cents!\nChanda Evans, SE Portland"
+      },
+      {
+        "id": "A12",
+        "side": "for",
+        "filed_by": "Edward Alexander Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          83,
+          84
+        ],
+        "text": "My name is Jamey Evenstar, a former Strategic Projects Analyst\non Portland’s Government Transition Team. I helped transition\nthe City to the new voter-approved structure in 2023-2024.\nI offer this statement to urge voters to adopt Measure 26-267\nand to tell you the City of Portland absolutely can successfully\nlaunch a new participatory budgeting program at this time for\nat least four reasons:\n1. Plenty of Time for Program Development: We\nrestructured our entire form of government in 18 months.\nMeasure 26-267 provides over 20 months to stand up\none single program. Boston implemented its charter-\nmandated participatory budgeting in less time.\n1. Fits New Structure of Government: Measure 26-267\naligns and supports ongoing charter reform. It would\nimplement participatory budgeting in the new City\nCouncil Districts so residents and City staff can work\ntogether in their neighborhoods to directly determine\nhow to spend city funds.\n1. Not Re-Inventing the Wheel: As a late adopter, Portland\ncan learn from over 7000 cities already implementing\nparticipatory budgeting across the world and the US,\nMultnomah County, nor does the County warrant the accuracy or truth of any\ne in the arguments.\n-83\nincluding Seattle, Chicago, St. Louis, and NYC. Metro, our\nregional government, has even implemented two cycles of\nparticipatory budgeting already so Portland can learn from\nthis sister-government right here in Portland.\n1. Unfinished Work of Charter Reform: Portland’s transition\nto a new form of government requires overhauling old\nsystems. This measure would provide the incentive the\nadministration needs to finally modernize how budgets are\ncreated, tracked, and shared to make it more transparent\nand accessible for everyone.\nAs a policy director in council office from 2017 to 2021, I crafted\nparticipatory budgeting legislation that was eventually blocked\nby the mayor. Measure 26-67 is a clear but flexible charter\namendment to successfully establish participatory budgeting\nin Portland. Putting participatory budgeting in the charter will\nprotect from the political interference of politicians that has\nstymied past legislative efforts to bring participatory budgeting\nto Portland.\nWe got this! Vote yes on Measure 26-267\nJamey Evenstar, Downtown Portland"
+      },
+      {
+        "id": "A13",
+        "side": "for",
+        "filed_by": "Edward Alexander Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          84
+        ],
+        "text": "Housing Advocacy Organizations Support Measure 26-267,\nYour 2 Cents for Portland\nPortland needs all voices engaged in solving its most pressing\nchallenges. We need to have those most impacted directly\ninvolved in crafting real solutions to the housing crisis.\nThat’s why we need Measure 26-267, Your 2 Cents PDX, to finally\nbring participatory budgeting to Portland.\nMeasure 26-267 will put all Portlanders, including our unhoused\nneighbors, in the driver seat of proposing, developing and\nselecting real solutions to the housing crisis and sending a\nstrong message that housing and homelessness is a leading\nbudget priority for Portlanders.\nIn cities across the US that implement participatory budgeting,\nhousing and homeless services are routinely among the\nwinning projects. Examples include:\n• Public Housing Renovations, NYC District 3, 2017.\n$500,000 to restore walkways, tenant garden spaces and\noutdoor common areas in a public housing facility.\n• Laundry Access & Hygiene in Schools, Cambridge, MA,\n2019. $50,000 to install laundry facilities in public schools\nto support unhoused students.\n• Affordable Housing Resources, Rochester, NY 2019.\n$100,000 for an emergency housing fund and a tiny house\npilot project.\n• Youth Affordable Housing Support, Grand Rapids, MI,\n2023. $145,000 to house and support youth transitioning\nout of foster care and facing housing instability or\nhomelessness.\n• Rental Assistance, Evanson, IL, 2023. $810,000 for rental\nassistance for low-income renters.\nThe printing of these arguments does not constitute an endorsement by Mu\nstatements made\nM-\n• Homeowner Stabilization, Seattle, WA 2023. $3 million\nfor homeowner stabilization services in communities at\nhigh risk of displacement.\n• Mental Health Crisis Response, Seattle, WA 2023. $2\nmillion to expand the qualified mental and behavioral\nhealth specialists as first responders (similar to Portland\nStreet Response).\nVote ‘Yes’ on the Ballot Measure 26-267 to guarantee that every\nPortlander, regardless of housing status, has a voice in shaping\nour city’s future.\nWe the undersigned urge Portlanders to vote YES for Measure\n26-267, Your 2 Cents PDX.\nMolly Hogan, Welcome Home Coalition\nNicole Dardinger, Sisters of the Road\nSandra Comstock, Hygiene4All\nRose CDC"
+      },
+      {
+        "id": "A14",
+        "side": "for",
+        "filed_by": "Edward Alexander Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          84,
+          85
+        ],
+        "text": "Measure 26-267 gives you Your Two Cents in shaping your\nCity budget!\nPortland faces a crisis in public trust over spending or\nmisspending of public money. We can’t solve this problem with\nnew leaders alone. Restoring trust and fostering trustworthy\ngovernment requires bottom up reform. It requires more\ndeeply and meaningfully engaging all Portlanders in the city\nbudgeting process.\nFortunately there is a proven reform already practiced\nworldwide: participatory budgeting. Measure 26-267 will\nestablish a recurring participatory budgeting process wherein\nall residents can gather in their new City Council districts, work\nwith staff to develop feasible city projects, and vote to decide\nwhich projects the City funds and implements.\nWhen people see the government implementing their\ndecisions through participatory budgeting, more and more\npeople participate. Thousands more than traditional city\nbudgeting processes dominated by lobbyists and insiders.\nParticipatory budgeting takes public budgeting out into the\ncommunity where many more voices are heard.\nIn 2023, almost 140,000 cast votes for winning projects in New\nYork’s charter-mandated citywide participatory budgeting, on\ntop of 76,000 who participated in District-level processes. New\nYorkers have allocated over $311 million this way since 2012.\nLast year in Paris, where participatory budgeting started in\n2014, 162,000 residents decided how to spend €81.8 million\n($94.75 million) on public works projects across the city.\nSuccessful implementation in New York and Paris has resulted\nfrom allocating meaningful amounts of money and establishing\nthe policy in city charters. This ensures participatory budgeting\ncan develop and grow free of short-term political interference.\nParticipatory budgeting is fundamentally about the distribution\nof power; it belongs in city charters.\nThe impacts of participatory budgeting far exceed that of\ntraditional civic engagement programs that merely ask for\nultnomah County, nor does the County warrant the accuracy or truth of any\nin the arguments.\n-84\npeople’s “input” because it shares real power. Measure 26-267\nwill put Portlanders in the driver seat in solving problems and\nseizing opportunities in their neighborhoods and communities.\nJim Labbe, Executive Director\nCarmen Denison, Communications & Policy Director\nParticipatory Budgeting Oregon"
+      },
+      {
+        "id": "A15",
+        "side": "for",
+        "filed_by": "Edward Alexander Kurtz, Yes on Your 2 Cents PDX",
+        "pages": [
+          85
+        ],
+        "text": "We Shared Real Power with Our Constituents through\nParticipatory Budgeting and Would Do it Again!\nWe are your Oregon Metro Councilors. In 2019 Portland voters\napproved a bond measure to protect clean water, healthy\nhabitat, and access to nature. The Metro Council included\nmeasure provisions allowing for participatory budgeting so\nresidents could directly decide how to spend a portion of bond\nfunds.\nThis led to Metro’s Nature in Neighborhoods Community Choice\nGrants Program that used participatory budgeting, the same\nprocess proposed by Your Two Cents campaign for the city of\nPortland through Measure 26-267\nIn 2023-24 Metro launched the first cycle in District 4\n(Hillsboro-area) to allocate $2 million. With staff support,\nresidents developed and selected 22 projects including\n$75,562 in natural feature enhancements at Hillsboro’s Hamby\nPark, $198,250 for a new “pocket forest” and walking path at\nCornelius’s Tarrybrooke Park, and $201,500 to restore wetlands\nat Forest Grove’s Kyle Park.\nIn 2025-26 we completed our second cycle. Residents\ndeveloped and selected $3 million for parks and nature projects\nDistrict 2 (Milwaukie-Gladstone-Oregon City). Residents voted\nto fund 23 out of 170 projects. Winning projects included\n$119,083 for stream and garden improvements End of the\nOregon Trail Park, $160,000 for Clackamas river access, and\n$166,000 for a small skate park and habitat improvements at\nMilwaukie’s Water Tower Park.\nParticipatory budgeting democratizes decision-making\nallowing all residents the opportunity to directly determine\nreal-world outcomes in their neighborhoods and communities.\nMeasure 26-267, Your 2 Cents PDX, would bring this process to\nthe City of Portland and help rebuild trust and accountability\nover the city budget. Take it from us, elected officials who have\nimplemented participatory budgeting programs in our region.\nParticipatory budgeting works! We urge a Yes vote on Measure\n26-267.\nJuan Carlos Gonzalez, Metro Council President\nChristine Lewis, Metro Councilor District 2\nDuncan Hwang, Metro Councilor District 6\nAshton Simpson, Metro Councilor District 1\nMary Nolan, Metro Councilor District 5"
+      },
+      {
+        "id": "A16",
+        "side": "against",
+        "filed_by": "Tony Morse, Protect Our City Services",
+        "pages": [
+          85
+        ],
+        "text": "The printing of these arguments does not constitute an endorsement by M\nstatements made\nM-\nCity Club of Portland’s Research Finds:\nMeasure 26-267’s proposed participatory budgeting\napproach is “nearly unprecedented” and “difficult to\njustify”\nSince 1916, City Club of Portland has produced nonpartisan\nresearch to inform voters. On March 15, 2025, after a six-month\nstudy, City Club released a 96-page report on participatory\nbudgeting (“PB”): Participatory Budgeting for Portland: A City\nClub Research Report.\nOn the exact approach Measure 26-267 takes, City Club’s\nconclusion is notable:\n“Proposals to adopt and institutionalize PB as a city-wide\nprogram funded through a charter change or citizen initiative\nappear to be nearly unprecedented in the U.S. and difficult to\njustify from the available evidence about PB’s benefits.”\nCity Club also found: “municipalities that implement\nparticipatory budgeting rely on its appealing promise rather\nthan on evidence of its concrete benefits.”\nMore specifically, City Club found:\nActual participation in participatory budgeting is low\n• “Chronically low participation rates... cast doubt on\nwhether the results of a PB vote actually represent the\ntrue preferences of a community.”\n• “Typical participation rates in PB projects are 5% or fewer\nof eligible voters.”\nAdministrative costs are high\n• “A consistent finding is the reported high cost of\nadministering a PB program,” consuming up to 20 percent\nor more of the funds set aside in other cities.\nA charter-mandated program — like Measure 26-267’s\nproposal — “creates unnecessary risks” and diverts tax\ndollars from “more strategic purposes”\n• “Instituting a PB program that captures a portion of\nthe general fund, that privileges PB above most other\npriorities, and that requires hefty new expenditures for\nadministration creates unnecessary risks, especially when\nthe city budget is under such pressure.”\n• “With a PB program in place, those funds will be\nunavailable for more strategic purposes.”\nAfter this extensive study, City Club recommended a small,\ncarefully designed pilot — not a permanent charter mandate.\nThis measure ignores that research. Vote No.\nRead the report: protectourcityservices.org/cityclubreport"
+      },
+      {
+        "id": "A17",
+        "side": "against",
+        "filed_by": "Bob Weinstein",
+        "pages": [
+          85,
+          86
+        ],
+        "text": "$16 Million Reasons to VOTE NO on Community Budgeting\nfor All (Except You and Me)!!\nMultnomah County, nor does the County warrant the accuracy or truth of any\ne in the arguments.\n-85\nAt first glance, this measure sounds fair: let residents decide\nhow public money is spent. Who could oppose giving\nPortlanders a greater voice? But on closer look, it just\ndoesn’t add up!\nThe proposal would amend Portland’s Charter to require the\ncity to forever hand over at least 2% of discretionary spending\n— initially $16 million— to a participatory budgeting process,\nno matter what else the city needs.\nPortland is already facing an estimated $160 million budget\nshortfall. There is no spare $16 million. The result will mean\nfewer 911 dispatchers, slower fire and police response,\nmore people sleeping unsheltered, plus cuts to parks,\ntransportation, housing, and more layoffs.\nAsk proponents, including council candidates who support\nthis measure, a simple question: What will you cut to pay for\nit? They’ve refused to answer, asking voters to trust that the\nmoney will simply be found later, at everyone else’s expense.\nThere’s another troubling problem: who’s actually bankrolling\nthis campaign and hiding it from you? Reporting shows dark\nmoney flowing through nonprofits that don’t have to name\ntheir donors. Voters deserve to know who is funding this\nscheme to permanently change how their tax dollars are\nspent. Portlanders shouldn’t be locked into a permanent $16\nmillion commitment by people unwilling to show their faces.\nLastly, claims that the community decides are intentionally\nmisleading. Not all Portlanders receive a ballot. In Seattle,\nfewer than 1% of registered voters took part in deciding how\nmillions in public money were spent. A tiny, self-selected\ngroup deciding how millions get spent isn’t democracy.\nOur elected council answers to all Portlanders. Our budget\nshould remain transparent, accountable, and flexible\nenough to meet the needs of the whole community—not\npermanently siphoned off for a process dominated by an\nunrepresentative few.\nVOTE NO on Community Budgeting for All (Except You and\nMe)!\nMike Lindberg\nBob Weinstein\nVadim Mozyrsky"
+      },
+      {
+        "id": "A18",
+        "side": "against",
+        "filed_by": "Jason Williams, Taxpayers Association of Oregon",
+        "pages": [
+          86
+        ],
+        "text": "Taxpayers Association of Oregon urges\nVote NO on Measure 26-267.\n5 REASONS TO OPPOSE PORTLAND’S PARTICIPATORY\nBUDGETING MEASURE\n#1. $16–17 Million a Year, Outside Normal Budget Review\nThe City’s own estimate puts this program at $16.4 million in\nFY 2027-28 and $17.0 million the year after — spent through\na process separate from the Council’s normal budget\nhearings.\n#2. It’s Permanent, Written Into the Charter\nThis isn’t a pilot program the City can end if it doesn’t work. It’s\na permanent charter amendment requiring at least 2% of\nThe printing of these arguments does not constitute an endorsement by M\nstatements made\nM-\ndiscretionary spending every year, indefinitely.\n#3. Unelected Committees Make Binding Decisions\nAn unelected “oversight committee” and “budget delegates”\n— not the elected Mayor or Council — assess, refine, and\nadvance spending proposals to a binding vote.\n#4. Nobody Says What Gets Cut\nThe Charter change lets Council “identify funding from the\nentire city budget” to meet this obligation — meaning any\ncity service could be trimmed to make room for it.\n#5. Portland Already Struggles With Budget Accountability\nAdding a new binding spending process on top of an already-\nstretched city budget isn’t reform — it’s a new layer of\nbureaucracy nobody voted to fund directly.\nPortland doesn’t need another permanent spending mandate\nbaked into its Charter.\nVOTE NO on Measure 26-267.\nJoin the movement to keep taxes low\n& stop government waste, fraud and abuse\nat OregonWatchdog.com (since 1999)"
+      },
+      {
+        "id": "A19",
+        "side": "against",
+        "filed_by": "Jason Williams, Taxpayers Association of Oregon",
+        "pages": [
+          86,
+          87
+        ],
+        "text": "Taxpayers Association of Oregon urges\nVote NO on Measure 26-267.\n$16.4 MILLION IN YEAR ONE — AND IT NEVER GOES AWAY\nMeasure 26-267 amends Portland’s Charter to permanently\nrequire at least 2% of the city’s General Fund discretionary\nongoing expenses be spent through a new “participatory\nbudgeting” process.\nThe City’s own preliminary estimate: $16.4 million in FY 2027-\n28, rising to $17.0 million the very next year.\nThat’s real money, decided not by the elected Council\nafter public hearings, but through a separate structure of\nan unelected “oversight committee,” unelected city staff, and\nunelected neighborhood “budget delegates” who advance\nproposals to a binding, citywide vote.\nBecause this is a Charter amendment, it isn’t a program the\nCouncil can simply defund if it underperforms or if the city hits\na budget crunch.\nThe obligation is permanent, and the measure explicitly allows\nthe Council to pull the required funding from “the entire city\nbudget” — meaning police, fire, parks, or any other city service\ncould be the ones trimmed to make room.\nPortland residents deserve a say in city spending. But\na permanent, unelected, binding process layered on top of\nthe existing budget — one that starts at $16 million a year and\nlocks in future councils regardless of the city’s fiscal condition\n— isn’t accountability. It’s a blank check with extra steps.\nVOTE NO on Measure 26-267.\nJoin the movement to keep taxes low\nMultnomah County, nor does the County warrant the accuracy or truth of any\ne in the arguments.\n-86\n& stop government waste, fraud and abuse\nat OregonWatchdog.com (since 1999)"
+      },
+      {
+        "id": "A20",
+        "side": "against",
+        "filed_by": "Isaac McLennan, President, Portland Firefighters’ Association, IAFF Local 43",
+        "pages": [
+          87
+        ],
+        "text": "Fewer firefighters.\nFewer fire trucks.\nSlower response.\nThat’s the price of Measure 26-267.\nWhen you dial 911, Portland’s firefighters answer. Some calls are\nfast-moving fires. Most are medical emergencies: a heart attack,\na stroke, an overdose, a crash. Portland firefighters, paramedics,\nand EMTs are trained and ready for every call.\nAnd whether it’s a house on fire or someone who has\nstopped breathing, seconds make all the difference. Every\nengine, every station, every firefighter on duty means a faster\nresponse, and a faster response saves lives.\nThat’s why Portland’s Fire Fighters are asking you to\nvote NO on Measure 26-267.\nEarlier this year, North Portland came dangerously close to\nlosing a fire engine at Station 22. It wasn’t because the need\nfor the engine went away, but the city simply did not have\nenough money to maintain existing services. Firefighters and\ncommunity members fought to keep that engine in service, and\nthe City Council made tough choices and cut elsewhereto save\nit. That’s how close to the edge Portland’s public safety budget\nalready is.\nMeasure 26-267 would permanently remove at least $16\nmillion every year from the same General Fund that pays for\nfire and emergency response. This mandatory set-aside would\nbe locked into the city charter, with no dedicated funding\nsource — an experiment no other American city has tried.\nFor perspective: $16 million is roughly what it costs to\noperate six fire engine companies for a year. That’s\nroughly one in five of Portland’s fire engines.\nWith resources for our public safety bureaus already stretched\ntoo thin, we can’t afford more cuts.\nMeasure 26-267 risks cuts to basic city services, including\nessential fire and emergency services.\nPortland Fire Fighters’ Association, IAFF Local 43, urges you\nto vote NO."
+      },
+      {
+        "id": "A21",
+        "side": "against",
+        "filed_by": "Laurie Wimmer, NW Oregon Labor Council",
+        "pages": [
+          87
+        ],
+        "text": "Portland’s working families urge you:\nVote NO on Measure 26-267!\nThe Northwest Oregon Labor Council represents tens of\nthousands of working people across our region — including the\ncity workers who maintain your parks, answer your 911 calls,\nrespond to your emergencies, and keep Portland running every\nsingle day.\nThe printing of these arguments does not constitute an endorsement by Mu\nstatements made\nM-\nOur council has voted to oppose Measure 26-267, and we\nurge every Portland voter to reject it.\nHere’s why: Portlanders depend on the city to prioritize\nessential services. But this measure would permanently\ndivert at least $16 million every year — written into the city\ncharter, forever — out of the same General Fund that pays\nfor firefighting, parks, community centers, Portland Street\nResponse, and homeless services.\nIt comes with no dedicated funding source. Not one dime of\nnew revenue. That means every dollar it takes is a dollar cut\nfrom something else — and from someone’s job.\nWe’ve seen this before. In 2023, Cleveland voters faced a\nnearly identical charter amendment. Cleveland’s firefighters,\nparamedics, and city workers warned that without a dedicated\nfunding source, departments like Fire and EMS would face\ncuts to pay for the program, with no guarantee a single dollar\nwould come back. Cleveland voters listened and said no.\nPortland should too.\nOur city just grappled with a record $170 million shortfall.\nRoughly 100 city employees lost their jobs this summer.\nMeasure 26-267 would tie the City Council’s hands\npermanently and take Portland’s budget situation from\nbad to worse.\nWorking Portlanders can’t afford fewer services, longer\nresponse times, and more layoffs — all to fund an undefined\nprocess with no rules written yet.\nPlease join the Northwest Oregon Labor Council\nin voting NO on Measure 26-267\nby November 3.\nLaurie Wimmer, Executive Secretary-Treasurer, Northwest\nOregon Labor Council\nSee the full list of endorsers: protectourcityservices.org"
+      },
+      {
+        "id": "A22",
+        "side": "against",
+        "filed_by": "Sgt. Aaron Schmautz, Portland Police Association",
+        "pages": [
+          87,
+          88
+        ],
+        "text": "Portland’s Police Officers Urge You to\nVote NO on Measure 26-267\nPortland is a great city facing a hard truth: We don’t have\nenough police officers. Portland has roughly 1.2 officers per\n1,000 residents, about half the national average for a city our\nsize.\nWhen Portlanders call 911, average response times for priority\ncalls have stretched to roughly 20 minutes — about twice\nwhat they were just a few years ago. Understaffing also\nmeans fewer detectives to work cases, fewer officers serving\nneighborhoods through community policing, and fewer\nofficers available to pair with mental health professionals so\nthe right responder shows up in a crisis.\nPortlanders have made clear they want this fixed. So ask\nyourself, is now the time to permanently divert at least $16\nmillion, every year, from the very fund that pays for police\nofficers, detectives, and 911 dispatchers?\nUnfortunately, that’s what Measure 26-267 does.\nThis measure would lock a mandatory set-aside into the city\nultnomah County, nor does the County warrant the accuracy or truth of any\nin the arguments.\n-87\ncharter, with no dedicated funding source. The money comes\nfrom the General Fund, the same fund that pays for police, fire,\nparks, and other essential city services.\n$16 million can fund more than 100 police officers. But once\nthis amendment is in the charter, no future council can adjust\nit — not during a crime wave, not during a recession, not when\nfederal funding disappears.\nThe measure doesn’t even define the process for deciding what\nwill happen with the diverted taxpayer funds. There are no\nrules on who votes, how votes are verified, or where the money\nultimately goes. Those decisions all come later, if voters approve\nthis measure.\nPortland’s public safety system is stretched to the breaking\npoint. This measure would stretch it even further.\nFewer officers.\nSlower response times.\nFewer cases solved.\nThat’s not the Portland any of us wants. Please vote NO on\nMeasure 26-267.\nPortland Police Association"
+      },
+      {
+        "id": "A23",
+        "side": "against",
+        "filed_by": "Amy Ruiz, Protect Our City Services",
+        "pages": [
+          88
+        ],
+        "text": "Portland can’t afford Measure 26-267. Vote No.\nPortland is on the path to resurgence. We’re delivering a cleaner,\ngreener, safer city — and we’re doing it while navigating the\nharshest budget environment in a generation. This year we\nclosed a record $170 million shortfall. We made painful cuts to\ncore services and about 100 dedicated city employees lost their\njobs.\nBut we protected what matters most: we kept every fire\nstation open, every park and community center running, and\nevery officer and investigator on the job.\nMeasure 26-267 would undo that work.\nThis measure writes a permanent and mandatory budget set-\naside into our city charter, something no city in America has\never done. It would take at least $16 million the first year, and\nlikely grow every subsequent year, draining the same General\nFund responsible for our most essential city services — park\nmaintenance, fire stations, shelter beds, and first responders\n— and hand millions to a program the measure doesn’t even\ndefine. There are no specifics on who would vote, or who could\nqualify to receive your taxpayer dollars. Those rules would all be\nwritten later.\nAnd because it’s in the charter, no future mayor or council could\nadjust it — no matter what needs or opportunity Portland\nfaces.\nI believe deeply in public participation. Portlanders shape\nour budget every year through hearings, listening sessions in\nevery district, surveys, advisory committees, and by voting for\nMayor, Auditor, and City Council. We should make this voter\nrepresentation stronger, not add another layer of bureaucracy\nand uncertainty.\nThe printing of these arguments does not constitute an endorsement by M\nstatements made\nM-\nTo succeed as a city, we must treat every public dollar like\na precious investment in our future. Locking an unfunded,\nundefined mandate into our charter is not stewardship. It would\nbe a stumble, right when Portland is finally moving forward.\nI’m asking every Portlander to join me in voting no on Measure\n26-267 this November.\nKeith Wilson, Mayor of Portland"
+      },
+      {
+        "id": "A24",
+        "side": "against",
+        "filed_by": "Amy Ruiz, Protect Our City Services",
+        "pages": [
+          88
+        ],
+        "text": "We respectfully ask you to vote NO on Measure 26-267\nAs City Councilors representing every district in Portland, we\ndeeply value citizen participation in city budgeting. Portlanders\nhave an important role in shaping the budget through\npublic hearings, listening sessions in every district, advisory\ncommittees, and community surveys. And we are always\nlooking for ways to make participating more accessible.\nWe understand why the idea of participatory budgeting\nappeals to many Portlanders. This is a good-faith disagreement\nabout how best to serve our city, and we offer our view in that\nspirit.\nHere is our concern: We are already struggling to support\nbasic city services. This measure puts those services at further\nrisk of cuts.\nThe measure does not have a new source of revenue.\nApproximately $16 million a year would come out of the same\nGeneral Fund that pays for essentials we all count on, including\n911 dispatch, parks maintenance, firefighters and other first\nresponders, and homeless services.\nThis mandatory set-aside will likely mean cuts to these basic\ncity services. Based on what we heard during the most recent\nbudget process, Portlanders want these basics protected.\nTwo years ago, voters redesigned our city government. We now\nelect councilors, district by district, to weigh the needs of both\nour district and the whole city. When we listen to Portlanders,\ndebate trade-offs, and make tough budget decisions, we are\nultimately accountable to you.\nBut Measure 26-267 takes us in a different direction. Binding\nspending decisions would be made through an undefined\nprocess; we would be required to fund the results. And if this\ndoesn’t work as everyone hopes, we can’t simply fix it, because\nit’s a charter amendment. Only a future citywide vote can\nchange it.\nPlease join us in voting NO on Measure 26-267\nPortland City Councilors\nLoretta Smith (District 1)\nDan Ryan (District 2)\nSteve Novick (District 3)\nOlivia Clark (District 4)\nEric Zimmerman (District 4)\nLearn more: protectourcityservices.org"
+      },
+      {
+        "id": "A25",
+        "side": "against",
+        "filed_by": "Amy Ruiz, Protect Our City Services",
+        "pages": [
+          88,
+          89
+        ],
+        "text": "Multnomah County, nor does the County warrant the accuracy or truth of any\ne in the arguments.\n-88\nVote No on Measure 26-267\nMeasure 26-267 would lock up at least 2% of Portland’s\ndiscretionary budget every year – some $16 million next\nyear – for an ill-defined and unaccountable “participatory\nbudgeting” process. It is badly drafted, runs counter to the\ncharter reforms Portland just implemented, and would\nsiphon scarce discretionary dollars away from responsible\nbudgeting of city services.\nPublic involvement in Portland’s budget is vital. But Measure\n26-267 has nothing to do with community engagement on\nthe actual city budget. In 2024 recommendations to the\nnew city government, Portland’s Government Transition\nAdvisory Committee recommended earlier outreach, clearer\ncommunication, district-centered budget town halls, stronger\nrelationships with community-based organizations, and\nrestructured budget advisory committees. Some of these\nreforms are well underway while others await implementation.\nMeasure 26-267 advances none of them.\nIn Portland’s new, more representative form of government, the\nresponsibility for raising and spending tax dollars is designed\nto remain with the people we elect. Accountability means our\nelected representatives must explain their decisions, debate\nthe issues in public, and ultimately face voters at election time.\nHowever, measure 26-267 would move spending decisions into\na vaguely defined process that mandates public expenditures\nwithout giving voters the same clear ability to hold decision-\nmakers responsible for the results.\nMeanwhile, budget priorities and revenue conditions change\nfrom year to year. Portland faces competing needs involving\npublic safety, housing, homelessness, parks, transportation, city\nservices and affordability. Our elected officials need flexibility to\nweigh the needs and set priorities accordingly. Simply locking\naway millions of tax dollars every year so that an unaccountable\nprocess can spend them is not “budgeting.”\nA “no” vote on Measure 26-267 is not a vote against public\nparticipation. It is a vote for accountability, flexibility,\nrepresentative government, and responsible budgeting.\nVote NO.\nTerry J. Harris\nFormer chair, Budget Engagement Workgroup, Government\nTransition Advisory Committee"
+      },
+      {
+        "id": "A26",
+        "side": "against",
+        "filed_by": "Amy Ruiz, Protect Our City Services",
+        "pages": [
+          89
+        ],
+        "text": "No other city does participatory budgeting the way\nMeasure 26-267 proposes.\nThe Measure 26-267 campaign says participatory budgeting\nis proven elsewhere, citing New York, Boston, Paris, Seoul, and\nMexico City.\nHere’s what they don’t tell you: not one of those cities — not\none city anywhere — has done what this measure would do:\npermanently lock a mandatory budget set-aside into its charter.\nCity Club of Portland’s research committee searched for\nprecedents. Its conclusion: proposals to institutionalize citywide\nparticipatory budgeting through a charter change are “nearly\nThe printing of these arguments does not constitute an endorsement by Mu\nstatements made\nM-\nunprecedented in the U.S.”\nLook at the cities proponents name:\n• New York amended its charter in 2018 to require a\nprogram, but there’s no mandatory set-aside.\n•\n• Boston amended its charter in 2021 to create a\nparticipatory budgeting office, but there’s no mandatory\nset-aside.\n• Outside the U.S., Paris, Seoul, and Mexico City’s\nprograms are adjustable when budgets get tight. None\nhave a mandatory set-aside in their city’s constitution, like\nMeasure 26-267 proposes.\n•\nOne city did consider the approach in Measure 26-267: In 2023,\nCleveland voters rejected a charter amendment that would\ndedicate 2% of their general fund to a participatory budgeting\nprogram.\nThe closest example may be Seattle, which began with a\n$3 million no-bid contract the Washington State Auditor\nsaid showed “only the bare minimum of accountability and\ntransparency.” Three years passed before a dollar reached the\ncommunity. Seattle has about 780,000 residents; only 4,092\npeople voted. The Seattle Times concluded the $27 million\nexperiment was “not worth repeating.”\n“Everybody’s doing it” is rarely a good argument. But the truth\nis, nobody is doing participatory budgeting this way.\nVote NO on Measure 26-267.\nLearn more: protectourcityservices.org\nSources: “Participatory Budgeting for Portland: A City Club\nResearch Report,” City Club of Portland, March 14, 2025;\nWashington State Auditor Pat McCarthy, The Seattle Times,\nAugust 23, 2021; “Seattle’s $27 million experiment in participatory\nbudgeting is not worth repeating,” The Seattle Times, November\n14, 2023."
+      },
+      {
+        "id": "A27",
+        "side": "against",
+        "filed_by": "Amy Ruiz, Protect Our City Services",
+        "pages": [
+          89,
+          90
+        ],
+        "text": "Protect the Portland people choose to call home. Vote No\non Measure 26-267.\nEvery day, Realtors® in Portland help people make the biggest\ninvestment of their lives: a home to call their own. And every\nday, we hear why they choose this city — the parks and\ncommunity centers, the walkable neighborhoods, the great\nsmall businesses. People don’t just buy a house. They put\ndown roots in a city.\nBut all of this depends on one thing: a city that takes care\nof the basics.\nMeasure 26-267 would permanently remove at least $16\nmillion every year from Portland’s General Fund — the\nfund that pays for exactly those basics: parks maintenance,\ncommunity centers, 911 dispatch, fire response, police\ninvestigators, and homeless services. It’s written into the\ncity charter forever, with no dedicated funding source, so\nevery dollar diverted to this new program must be cut from\nultnomah County, nor does the County warrant the accuracy or truth of any\nin the arguments.\n-89\nsomething else.\nConsider where Portland stands. The city just closed a record\n$170 million shortfall — cutting parks by more than $11 million\nand homeless services by $18 million, and laying off roughly\n100 employees. Community centers, parks maintenance, and\nthe public safety services that every neighborhood depends on\nall come from this same fund. When dollars are diverted from\nthat fund, the basics our neighborhoods need compete for\nfewer dollars.\nSafe streets, clean parks, and fast emergency response aren’t\nextras — they’re the foundation of every neighborhood, and\nof every family’s investment in their home and this city. This\nmeasure takes money from that foundation and hands it to a\nprocess with no written rules, locked in the charter where no\nfuture council can fix it.\nPortland’s promise depends on getting the basics right.\nPlease join us in voting NO on Measure 26-267.\nPortland Metropolitan Association of REALTORS®"
+      },
+      {
+        "id": "A28",
+        "side": "against",
+        "filed_by": "Amy Ruiz, Protect Our City Services",
+        "pages": [
+          90
+        ],
+        "text": "No new taxes?\nRead the fine print on Measure 26-267.\nThe Measure 26-267 campaign promises no new taxes, saying\nthis measure only changes who decides how the money we\nalready have gets spent.\nThat’s technically true — and that’s exactly the problem.\nMeasure 26-267 creates a permanent, mandatory set-aside\n(about $16 million dollars to start) written into the city charter,\nwith no specific funding source. No new revenue. No dedicated\nstream of tax dollars. Nothing earmarked to cover this new\nprogram.\nThis is Budgeting 101. When you create a new funding\nobligation with no way to pay for it, one of two things must\nhappen: Cuts to existing services, or new taxes down the road.\nMeasure 26-267’s supporters won’t say which one they’d\nchoose, but it’s a choice we’ll be forced to make.\nAs for “the money we already have”? Portland doesn’t have it.\nThe city just closed a record $170 million budget shortfall. It cut\nhomeless services by $18 million and parks by more than $11\nmillion. Roughly 100 city employees lost their jobs this summer.\nThere is no extra $16 million. Every dollar in the General Fund is\nalready paying for firefighters, police officers, 911 dispatchers,\nparks maintenance, shelter beds, and other essential city\nservices. “Changing who decides” how that money gets spent\nmeans taking it away from those services.\nHere’s the thing: if this measure really cost nothing, it wouldn’t\nneed to be locked into the city charter, beyond the reach of\nevery future mayor and council. You only lock an experimental\nprogram into the charter when you know it couldn’t survive an\nhonest budget process — where it would have to compete, on\nthe merits, against fire engines and 911 dispatchers.\nA bill with no way to pay it isn’t free. It’s just unpaid. Vote\nNo on Measure 26-267.\nThe printing of these arguments does not constitute an endorsement by M\nstatements made\nM-\nLearn more: protectourcityservices.org"
+      },
+      {
+        "id": "A29",
+        "side": "against",
+        "filed_by": "Amy Ruiz, Protect Our City Services",
+        "pages": [
+          90
+        ],
+        "text": "I want more Portlanders involved in our budget.\nAnd I’m voting no on Measure 26-267.\nEvery budget season, I wish more Portlanders could see what\nCity Councilors see: the trade-offs, hard choices, needs that\noutnumber dollars, and the things we could do for our City if\nwe had the funds.\nPortlanders deserve real opportunities to understand and\nshape those trade-offs — your input makes our city stronger.\nHere’s what that could look like:\n• First, a budget-balancing exercise inviting Portlanders to\nwork with real numbers, and wrestle with real trade-offs\nacross the whole budget, not just a small pot sectioned\noff for your input.\n•\n• Second, more transparency about what you proposed\nand what we ultimately decide: a public dashboard of\nPortlanders’ input and what you asked us to prioritize, and\nclear communication about where our decisions aligned\nwith that input, where they diverged, and why so you can\nhold us accountable — again, across the whole budget.\nMeaningful participation looks like trusting you to advise us on\nthe big decisions. It’s what I asked our budget office to do last\nyear, and will continue to press for. I need your help building\npressure to make it happen!\nMeasure 26-267 does something different. I know it’s well\nintentioned, but I can’t support it. It locks a spending\nrequirement of at least $16 million annually into the city charter\nwhile we are still behind on funding basic maintenance and\ncore services. Pulling money out of the budget for new projects\nbefore we’ve caught up on the basics isn’t opportunity — it’s\nirresponsible. We can’t budget a small portion of our funds\nseparately from everything else – Portlanders must be able to\nweigh in on all of it.\nPlease join me in voting NO on Measure 26-267, and\nbuilding a tool that allows Portlanders to engage in making\nrecommendations across the whole budget. Let’s grow public\nparticipation in ways we can build on, correct, and improve—\ntogether.\nElana Pirtle-Guiney, City Councilor, District 2"
+      },
+      {
+        "id": "A30",
+        "side": "against",
+        "filed_by": "Vikki Payne, Future Portland Action T Fund",
+        "pages": [
+          90,
+          91
+        ],
+        "text": "“Your 2 Cents” sounds harmless. It isn’t. This measure locks up\n2% of Portland’s general fund discretionary budget, which is\nroughly $16 million a year. For a small group of participants to\nspend, no matter what the whole city actually needs.\nAsk yourself: if the city had to find $16 million this year, where\nshould it come from? Slower police response times, or fewer\npark rangers? Fire staffing, or open community centers?\nHomeless services, or paved streets? This measure doesn’t\nMultnomah County, nor does the County warrant the accuracy or truth of any\ne in the arguments.\n-90\ncreate new money. It takes money already committed to public\nsafety, parks, and other core services and hands the spending\ndecisions to whoever shows up to a separate process, with no\nguarantee that reflects what the whole city needs.\nPortland already has an annual budget process with public\nhearings, community budget oversight committees you can\nvolunteer to join, City Councilors we elected who vote on our\nbehalf, and accountability every election. This measure builds a\nsecond, parallel budget system. One that grows automatically\nevery year, is exempt from normal budget tradeoffs, and gets\nlocked into the City Charter, where it’s nearly impossible to\nundo if it doesn’t work.\nWe don’t have to guess. Other cities have piloted participatory\nbudgeting at a much smaller scale. Let’s learn from them and\nadopt what works through the normal budget process, with\nreal oversight, before locking $16 million a year into the Charter\nforever.\nPortland’s budget is already stretched thin, coming off a historic\n$169 million shortfall and facing continued pressure from\ndeclining downtown revenue and federal funding cuts. Every\ndollar this measure diverts is a dollar not available for the fire\ntruck that arrives on time, the park bathroom that’s open, or the\nPortland Street Response team member who answers the call\nfor help.\nDon’t force Portland to choose between public safety and parks.\nVote NO.\nwww.futureportlandactionfund.org"
+      }
+    ],
+    "arguments_filed": {
+      "for": 15,
+      "against": 15
+    },
+    "no_arguments_note": null
+  }
+]

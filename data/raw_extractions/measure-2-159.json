@@ -1,0 +1,124 @@
+{
+  "id": "measure-2-159",
+  "prompt_hashes": {
+    "measure": "7059b82d7c92a47d",
+    "themes_for": "f64613b1c225985f",
+    "themes_against": "e54fe34cb0b7023d"
+  },
+  "models": {
+    "measure": "gemma-4-26b-a4b-it",
+    "themes_for": "gemma-4-26b-a4b-it",
+    "themes_against": "gemma-4-31b-it"
+  },
+  "measure": {
+    "caption": "Amend Corvallis Charter to change city council, wards, and terms",
+    "question": "Shall City amend charter to change number of councilors and wards, length and staggering of terms, and impose term limits?",
+    "summary": [
+      {
+        "text": "If approved, this measure would change the number of councilors and wards from nine to six.",
+        "quote": "change the number of city councilors and wards from nine to six",
+        "page": 25
+      },
+      {
+        "text": "If approved, this measure would change councilor terms from two to four years with staggered elections.",
+        "quote": "change councilor terms of office from two to four years with staggered elections",
+        "page": 25
+      },
+      {
+        "text": "If approved, this measure would impose term limits of three consecutive terms for councilors and the mayor.",
+        "quote": "impose term limits of three consecutive terms for councilors and the mayor",
+        "page": 25
+      },
+      {
+        "text": "If approved, this measure would make other related changes to the sections of the charter.",
+        "quote": "make other related changes",
+        "page": 25
+      }
+    ]
+  },
+  "themes_for": {
+    "themes": [
+      {
+        "text": "Supporters argue that changing Council terms to four-year terms provides Councilors with more time to learn, build relationships, and deliver results.",
+        "citations": [
+          {
+            "argument_id": "A1",
+            "quote": "Four-year terms provide more time to learn, build relationships, tackle difficult issues, follow through on important work, and ultimately be accountable for the results."
+          },
+          {
+            "argument_id": "A2",
+            "quote": "4-year Council terms with time to learn, collaborate, lead, and deliver results."
+          },
+          {
+            "argument_id": "A3",
+            "quote": "Four-year terms give Councilors time to to learn the budget, understand complex issues, pursue priorities, and build a record voters can fairly evaluate."
+          }
+        ]
+      },
+      {
+        "text": "Supporters argue that staggered elections ensure continuity and keep experienced Councilors in office as new members join.",
+        "citations": [
+          {
+            "argument_id": "A1",
+            "quote": "Staggered elections provide continuity, ensuring experienced councilors remain as new members join."
+          },
+          {
+            "argument_id": "A2",
+            "quote": "A2 (filed by Tony Cadena, Corvallis City Councilor and Council President) [A2] (filed by significantly more than 223% voter turnout, arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-id:24834) [A3] (filed by significantly more than             "
+          }
+        ]
+      }
+    ]
+  },
+  "themes_against": {
+    "themes": [
+      {
+        "text": "Opponents argue that combining multiple significant changes into one measure is undemocratic and prevents voters from considering each proposal separately.",
+        "citations": [
+          {
+            "argument_id": "A4",
+            "quote": "Compressing all of the decisions into one measure forces the voter to vote it up or down. If we are serious about altering the structure of council, we should vote on each item separately."
+          },
+          {
+            "argument_id": "A5",
+            "quote": "Measure 2-159 asks Corvallis voters to change multiple City Charter sections and multiple City practices with one vote, yes or no, as if all changes are equally impactful"
+          }
+        ]
+      },
+      {
+        "text": "Opponents argue that reducing the number of wards and extending term lengths would decrease representation, accessibility, and accountability to the public.",
+        "citations": [
+          {
+            "argument_id": "A4",
+            "quote": "The measure reduces the number of wards by a third, meaning more constituents per councilor. Democracy flourishes when City Council represents a wide range of voices"
+          },
+          {
+            "argument_id": "A6",
+            "quote": "Reducing the number of wards from 9 to 6 means each ward will be larger for a councilor to walk and will include more people to represent"
+          },
+          {
+            "argument_id": "A6",
+            "quote": "Extending terms to four years makes council less accountable, not more."
+          }
+        ]
+      },
+      {
+        "text": "Opponents argue that the measure would limit voter choice and potentially create unfair representation or increase the mayor's power.",
+        "citations": [
+          {
+            "argument_id": "A5",
+            "quote": "placing term limits upon the mayor and city councilors removes choice by voters."
+          },
+          {
+            "argument_id": "A5",
+            "quote": "changing the number of wards and ward councilors to an even number increases the already significant powers of the mayor"
+          },
+          {
+            "argument_id": "A6",
+            "quote": "By deleting the language in the charter that guides how ward boundaries should be drawn, this measure makes unfair representation more possible"
+          }
+        ]
+      }
+    ]
+  }
+}

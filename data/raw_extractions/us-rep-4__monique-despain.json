@@ -1,0 +1,58 @@
+{
+  "id": "us-rep-4/monique-despain",
+  "prompt_hashes": {
+    "candidate": "1112c3c7f0dd4ae8"
+  },
+  "models": {
+    "candidate": "gemma-4-31b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Says DeSpain will work to end homelessness and restore public safety by expanding shelter and treatment access.",
+        "quote": "Monique supports expanding shelter and treatment access, backed by law enforcement and a justice system that keeps neighborhoods safe",
+        "page": 32
+      },
+      {
+        "text": "Says DeSpain will fight to restore the economy, strengthen small businesses, and create opportunities for families.",
+        "quote": "Monique will fight to restore our economy, strengthen small businesses, and create opportunities so families can stay and build a bright future.",
+        "page": 32
+      },
+      {
+        "text": "Says DeSpain supports responsible forest management to end smoke season and support family-wage jobs.",
+        "quote": "Monique supports responsible forest management that ends our smoke season while supporting family-wage jobs.",
+        "page": 32
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists occupation as Attorney.",
+        "quote": "Occupation: Attorney",
+        "page": 32
+      },
+      {
+        "text": "Lists occupational background as retired Colonel in the U.S. Air Force.",
+        "quote": "Occupational Background: Colonel, U.S. Air Force (retired)",
+        "page": 32
+      },
+      {
+        "text": "Lists educational background as J.D. from Willamette University, M.S. in Administration from Central Michigan University, and B.S. in Psychology from University of Utah.",
+        "quote": "Educational Background: J.D., Willamette University; M.S., Administration, Central Michigan University; B.S., Psychology, University of Utah",
+        "page": 32
+      },
+      {
+        "text": "Lists prior governmental experience as 30 years in the USAF JAG.",
+        "quote": "Prior Governmental Experience: USAF, 30 years, JAG",
+        "page": 32
+      }
+    ],
+    "endorsements": [
+      {
+        "text": "Lists endorsements from small independent business owners, farmers, veterans, and local law enforcement.",
+        "quote": "endorsed by: Small Independent Business Owners Farmers Veterans Local Law Enforcement",
+        "page": 32
+      }
+    ],
+    "furnished_by": "Monique DeSpain"
+  }
+}

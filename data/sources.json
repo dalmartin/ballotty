@@ -1,0 +1,38 @@
+{
+  "book4": {
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+    "sha256": "42e05af713e083d247491228ded11c9073731c29fb2d8a6d0583b20e80673847",
+    "bytes": 8922038,
+    "retrieved_at": "2026-10-25T21:15:16+00:00"
+  },
+  "book6": {
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf",
+    "sha256": "10c47d8c64ba55c953a5506e9987be2544ef2b27817ed460ebdbd2102beb8792",
+    "bytes": 7479166,
+    "retrieved_at": "2026-10-25T21:15:16+00:00"
+  },
+  "book13": {
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+    "sha256": "0c56e3e1765ac5d4690645d8a117150f51197e926d9ea55d975c4f6bfbd75ead",
+    "bytes": 9845787,
+    "retrieved_at": "2026-10-25T21:15:16+00:00"
+  },
+  "lane_ballot": {
+    "url": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf",
+    "sha256": "e6ff45b981612ff1064a240447595e7697c7ee2d8535cfa0a9c59a790a8e5cb0",
+    "bytes": 90716,
+    "retrieved_at": "2026-10-25T21:15:16+00:00"
+  },
+  "benton_vp": {
+    "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf",
+    "sha256": "12b6316e7fb18575ae51b31f41e3a79098e22f4dad3c5510620ab67130d54dd1",
+    "bytes": 8760062,
+    "retrieved_at": "2026-10-25T21:15:16+00:00"
+  },
+  "multnomah_vp": {
+    "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download",
+    "sha256": "0f1f036bd8b755ee33b385224b6d31544a53c04de4a7f246f741d16d8fa2461f",
+    "bytes": 6868615,
+    "retrieved_at": "2026-10-25T21:15:16+00:00"
+  }
+}

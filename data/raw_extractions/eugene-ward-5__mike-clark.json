@@ -1,0 +1,48 @@
+{
+  "id": "eugene-ward-5/mike-clark",
+  "prompt_hashes": {
+    "candidate": "17ef2e530a77e9b3"
+  },
+  "models": {
+    "candidate": "gemma-4-26b-a4b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Says Clark intends to represent the families, workers, employers, and neighborhoods of Ward 5.",
+        "quote": "represent the families, workers, employers, and neighborhoods of Ward 5",
+        "page": 53
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists Clark's occupation as a City Councilor and Mortgage Loan Specialist.",
+        "quote": "Occupation: City Councilor; Mortgage Loan Specialist",
+        "page": 53
+      },
+      {
+        "text": "Lists Clark's occupational background as a Marketing Executive.",
+        "quote": "Occupational Background: Marketing Executive",
+        "page": 53
+      },
+      {
+        "text": "Lists Clark's educational background as a University of Oregon, BS, Political Science.",
+        "quote": "University of Oregon, BS, Political Science",
+        "page": 53
+      },
+      {
+        "text": "Lists Clark's prior governmental experience including City Councilor, Budget Committee, and Police Commission.",
+        "quote": "Prior Governmental Experience: City Councilor; Budget Committee; Police Commission",
+        "page": 53
+      }
+    ],
+    "endorsements": [
+      {
+        "text": "Lists endorsements from Cal Young Neighborhood Association, various labor unions, and the Eugene Area Chamber of Commerce.",
+        "quote": "WE SUPPORT MIKE! Jackson Kellogg, Chair of the Cal Young Neighborhood Association United Association of Plumbers and Steamfitters, Local 290 Lane Professional Firefighters, IAFF Local 851 Eugene Police Employees Association LCCD Building Trades Council North Coast Carpenters Union Western Oregon Builders Association Eugene Area Chamber of Commerce",
+        "page": 53
+      }
+    ],
+    "furnished_by": "Friends of Mike Clark"
+  }
+}

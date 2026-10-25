@@ -1,0 +1,58 @@
+{
+  "id": "us-senator/jeff-merkley",
+  "prompt_hashes": {
+    "candidate": "7a2db1f8e1e031a9"
+  },
+  "models": {
+    "candidate": "gemma-4-31b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Says Merkley would end political corruption by banning stock trading and reforming the Supreme Court with a binding code of ethics.",
+        "quote": "End political corruption: No more stock trading; no more exchanging government favors for investments in Trump’s companies. The Supreme Court needs reform and a binding code of ethics.",
+        "page": 31
+      },
+      {
+        "text": "Says Merkley would strengthen family foundations through housing, healthcare, education, and banning hedge funds from buying single-family homes.",
+        "quote": "Strengthen the foundations for families to thrive: Housing. Health care. Education. Good-paying jobs! Stop drug companies from price gouging. Ban hedge funds from buying single-family homes.",
+        "page": 31
+      },
+      {
+        "text": "Says Merkley would address climate change by transitioning from fossil fuels to renewables.",
+        "quote": "Meet the climate chaos challenge: Rapidly transition from dirty, expensive fossils to cheaper, cleaner, renewables.",
+        "page": 31
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists occupation as U.S. Senator for Oregon.",
+        "quote": "Occupation: U.S. Senator for Oregon",
+        "page": 31
+      },
+      {
+        "text": "Lists occupational background as Habitat for Humanity; National Security Analyst; Small Business Founder.",
+        "quote": "Occupational Background: Habitat for Humanity; National Security Analyst; Small Business Founder",
+        "page": 31
+      },
+      {
+        "text": "Lists educational background as David Douglas High School; B.A., Int’l Affairs; Masters in Public Policy.",
+        "quote": "Educational Background: David Douglas High School; B.A., Int’l Affairs; Masters in Public Policy",
+        "page": 31
+      },
+      {
+        "text": "Lists prior governmental experience as State Representative; Oregon House Speaker.",
+        "quote": "Prior Governmental Experience: State Representative; Oregon House Speaker",
+        "page": 31
+      }
+    ],
+    "endorsements": [
+      {
+        "text": "Lists endorsements from the Oregon State Fire Fighters Council, OR Labor Federation, AFL-CIO, Planned Parenthood Action Fund, and Oregon League of Conservation Voters.",
+        "quote": "Endorsements: Oregon State Fire Fighters Council; OR Labor Federation, AFL-CIO; Planned Parenthood Action Fund; Oregon League of Conservation Voters; and others.",
+        "page": 31
+      }
+    ],
+    "furnished_by": "Jeff Merkley for Oregon"
+  }
+}

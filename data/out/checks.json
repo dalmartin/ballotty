@@ -1,0 +1,285 @@
+{
+  "totals": {
+    "kept": 136,
+    "dropped": 10,
+    "flagged": 8,
+    "corrected": 0
+  },
+  "items": {
+    "us-senator/david-brock-smith": {
+      "dropped": [],
+      "flagged": [
+        {
+          "section": "background",
+          "text": "text-only: text-only: text-only: text-|und-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Committees, Senate-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Legislative Sportsmen's Caucus/Wine Caucus",
+          "loaded_terms": [
+            "disaster"
+          ],
+          "replaced_with": "In their statement: “Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Communities, Senate-Dir-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Making-Legislative Sportsmen's Caucus/Wine Caucus”"
+        }
+      ],
+      "corrected": [],
+      "capped": []
+    },
+    "us-senator/jeff-merkley": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "us-senator/gary-lyndon-dye": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "us-senator/chris-henry": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "governor/brett-smith": {
+      "dropped": [
+        {
+          "section": "background",
+          "text": "Lists Smith'",
+          "quote": "Lists Smith'",
+          "reason": "quote not found on cited page (best match 0%)"
+        }
+      ],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "governor/tina-kotek": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "governor/christine-drazan": {
+      "dropped": [
+        {
+          "section": "summary",
+          "text": "Says Drazan will restore graduation requirements, fix schools, and audit spending.",
+          "quote": "The Drazan Plan will: · Restore graduation requirements and fix our schools · Audit spending and deliver results",
+          "reason": "quote not found on cited page (best match 85%)"
+        },
+        {
+          "section": "endorsements",
+          "text": "Lists endorsements from the Union Contractor Group and Associated General Contractors Oregon-Columbia Chapter.",
+          "quote": "Union Contractor Group\nAssociated General Contractors Oregon-Columbia Chapter",
+          "reason": "quote not found on cited page (best match 81%)"
+        },
+        {
+          "section": "endorsements",
+          "text": "text\": \"Lists endorsements from Oregon's Sheriffs and the Oregon Coalition of Police & Sheriffs.\"",
+          "quote": "Oregon’s Sheriffs\nOregon Coalition of Police & Sheriffs",
+          "reason": "quote not found on cited page (best match 78%)"
+        },
+        {
+          "section": "endorsements",
+          "text": "Lists endorsements from the Oregon Farm Bureau and Oregon Nurseries' PAC.",
+          "quote": "Oregon Farm Bureau\nOregon Nurseries’ PAC",
+          "reason": "quote not found on cited page (best match 78%)"
+        },
+        {
+          "section": "endorsements",
+          "text": "Lists endorsements from the Oregon Small Business Association and Defend Small Business PAC.",
+          "quote": "Oregon Small Business Association\nDefend Small Business PAC",
+          "reason": "quote not found on cited page (best match 75%)"
+        }
+      ],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "us-rep-4/monique-despain": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "us-rep-4/val-hoyle": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "us-rep-4/justin-filip": {
+      "dropped": [],
+      "flagged": [
+        {
+          "section": "summary",
+          "text": "Says Filip will prioritize people, the planet, and peace over the interests of the wealthy and powerful.",
+          "loaded_terms": [
+            "wealthy and powerful"
+          ],
+          "replaced_with": "In their statement: “I will put people, the planet, and peace before the interests of the wealthy and powerful.”"
+        }
+      ],
+      "corrected": [],
+      "capped": []
+    },
+    "eugene-ward-3/jennifer-smith": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "eugene-ward-4/jennifer-yeh": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "eugene-ward-5/mike-clark": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "eugene-ward-5/athena-aguiar": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "eugene-ward-6/greg-evans": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "measure-20-388": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "corvallis-mayor/andrew-struthers": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "corvallis-mayor/kimi-gatherum": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "corvallis-mayor/charles-maughan": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "corvallis-mayor/kasey-haxton": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "measure-2-159": {
+      "dropped": [
+        {
+          "section": "for theme citation",
+          "text": "Supporters argue that staggered elections ensure continuity and keep experienced Councilors in office as new members join.",
+          "quote": "A2 (filed by Tony Cadena, Corvallis City Councilor and Council President) [A2] (filed by significantly more than 223% voter turnout, arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-length arms-id:24834) [A3] (filed by significantly more than             ",
+          "reason": "quote not found in argument A2 (Tony Cadena, Corvallis City Councilor and Council President)"
+        }
+      ],
+      "flagged": [
+        {
+          "section": "against",
+          "text": "Opponents argue that combining multiple significant changes into one measure is undemocratic and prevents voters from considering each proposal separately.",
+          "loaded_terms": [
+            "undemocratic"
+          ],
+          "replaced_with": "Argument filed by Mark Boyd: “Compressing all of the decisions into one measure forces the voter to vote it up or down. If we are serious about altering the structure of council, we should vote on each item separately.”"
+        }
+      ],
+      "corrected": [],
+      "capped": []
+    },
+    "us-rep-3/maxine-e-dexter": {
+      "dropped": [],
+      "flagged": [
+        {
+          "section": "summary",
+          "text": "Says Dexter will fight to lower costs, protect freedoms, and build an economy for everyone to succeed.",
+          "loaded_terms": [
+            "build an economy for everyone to succeed"
+          ],
+          "replaced_with": "In their statement: “build an economy where everyone has the opportunity to succeed.”"
+        }
+      ],
+      "corrected": [],
+      "capped": []
+    },
+    "us-rep-3/loran-ayles": {
+      "dropped": [],
+      "flagged": [],
+      "corrected": [],
+      "capped": []
+    },
+    "measure-26-267": {
+      "dropped": [
+        {
+          "section": "summary",
+          "text": "text",
+          "reason": "quote too short to verify"
+        },
+        {
+          "section": "for theme citation",
+          "text": "Supporters supporters argue that the measure will allow residents to fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-base and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund and community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-bas and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects andfund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects andfund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and residents and City staff can work together in their neighborhoods to directly determine how to spend city funds.",
+          "quote": "Street and sidewalk improvements\n• Parks repair\n• Public safety initiatives\n• After-school programs\n**and much more!**",
+          "reason": "quote not found in argument A3 (Edward Kurtz, Yes on Your 2 Cents PDX)"
+        },
+        {
+          "section": "for theme",
+          "text": "Supporters supporters argue that the measure will allow residents to fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-base and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund and community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-bas and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects andfund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects andfund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and residents and City staff can work together in their neighborhoods to directly determine how to spend city funds.",
+          "reason": "no citation survived the checker"
+        }
+      ],
+      "flagged": [
+        {
+          "section": "for",
+          "text": "Supporters argue that the measure is designed to build trust and accountability in city government and ensure more inclusive and democratic governance.",
+          "loaded_terms": [
+            "inclusive and democratic governance"
+          ],
+          "replaced_with": "Argument filed by Edward Kurtz, Yes on Your 2 Cents PDX: “Portlanders have lost trust in City Hall. Too much money has been misplaced or poorly managed”"
+        },
+        {
+          "section": "against",
+          "text": "Opponents argue the measure would permanently divert at least $16 million annually from the General Fund to a new process, potentially causing cuts to essential city services.",
+          "loaded_terms": [
+            "essential city services"
+          ],
+          "replaced_with": "Argument filed by Bob Weinstein: “The proposal would amend Portland’s Charter to require the city to forever hand over at least 2% of discretionary spending — initially $16 million— to a participatory budgeting process, no matter what else the city needs.”"
+        },
+        {
+          "section": "against",
+          "text": "Opponents argue the measure would create a new, permanent, and unelected oversight structure that bypasses the existing budget process and normal budget hearings. bypasses the existing budget process and normal budget hearings.",
+          "loaded_terms": [
+            "bypasses the existing budget process"
+          ],
+          "replaced_with": "Argument filed by Jason Williams, Taxpayers Association of Oregon: “#3. Unelected Committees Make Binding Decisions An unelected “oversight committee” and “budget delegates” — not the elected Mayor or Council — assess, refine, and advance spending proposals to a binding vote.”"
+        },
+        {
+          "section": "against",
+          "text": "Opponents argue the measure would lock in a mandatory budget set-aside into the city charter, making it difficult or impossible for future councils to adjust or defund the following years. following the city's fiscal condition. following the city's fiscal condition.",
+          "loaded_terms": [
+            "lock in a mandatory budget set-aside"
+          ],
+          "replaced_with": "Argument filed by Bob Weinstein: “Portlanders shouldn’t be locked into a permanent $16 million commitment by people unwilling to show their faces.”"
+        }
+      ],
+      "corrected": [],
+      "capped": []
+    }
+  }
+}

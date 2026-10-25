@@ -1,0 +1,18 @@
+# DigitalOcean App Platform spec. Create with: doctl apps create --spec .do/app.yaml
+# (or in the DO console: Create App -> GitHub repo -> it auto-detects this spec).
+name: ballotty
+region: sfo
+services:
+  - name: web
+    environment_slug: python
+    github:
+      repo: dalmartin/ballotty
+      branch: main
+      deploy_on_push: true
+    build_command: pip install -r requirements.txt
+    run_command: uvicorn app.main:app --host 0.0.0.0 --port 8080
+    http_port: 8080
+    instance_size_slug: apps-s-1vcpu-0.5gb
+    instance_count: 1
+    health_check:
+      http_path: /healthz

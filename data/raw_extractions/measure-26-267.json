@@ -1,0 +1,153 @@
+{
+  "id": "measure-26-267",
+  "prompt_hashes": {
+    "measure": "ff21c4dbfbcd2092",
+    "themes_for": "52c2ef24f469232e",
+    "themes_against": "269ab460ed3bc417"
+  },
+  "models": {
+    "measure": "gemma-4-26b-a4b-it",
+    "themes_for": "gemma-4-26b-a4b-it",
+    "themes_against": "gemma-4-26b-a4b-it"
+  },
+  "measure": {
+    "caption": "Amends Charter: Portland residents decide 2% of city’s annual discretionary budget.",
+    "question": "Should Portland create participatory budgeting program for residents to make binding decisions to spend 2% of city’s discretionary budget?",
+    "summary": [
+      {
+        "text": "If approved, the measure would require the Council to allocate at least  2% of the city's discretionary General Fund expenses towards a participatory budgeting program.",
+        "quote": "require Council to allocate an amount equivalent to at least 2% of the city’s adopted General Fund discretionary ongoing expenses",
+        "page": 78
+      },
+      {
+        "text": "If approved, the measure would involve a program developed with input from an oversight committee of residents from all Council districts.",
+        "quote": "Developed with input from oversight committee, selected by a process determined by Council, of residents from all Council districts",
+        "page": 78
+      },
+      {
+        "text": "If approved, the measure would allow any resident's funding proposals for citywide or district projects to be assessed and refined by city staff and budget delegates.",
+        "quote": "Proposals assessed and refined into limited number of feasible projects by city staff and budget delegates from all districts",
+        "page": 78
+      },
+      {
+        "text": "If approved, the measure would be operational by July 2027.",
+        "quote": "Operational July 2027",
+        "page": 78
+      }
+    ]
+  },
+  "themes_for": {
+    "themes": [
+      {
+        "text": "Supporters argue that Measure 26-267 establishes a participatory budgeting program to give Portlanders a direct say in how to spend $16 million annually.",
+        "citations": [
+          {
+            "argument_id": "A2",
+            "quote": "Participatory budgeting lets people like you help decide how your City spends a small sum of money."
+          },
+          {
+            "argument_id": "A3",
+            "quote": "create a participatory budgeting program, giving all Portlanders a direct say in how to spend $16 million each year"
+          },
+          {
+            "argument_id": "A15",
+            "quote": "Measure 26-267, Your 2 Cents PDX, would bring this process to the City of Portland and help rebuild trust and accountability over the city budget."
+          }
+        ]
+      },
+      {
+        "text": "Supporters argue that the measure is designed to build trust and accountability in city government and ensure more inclusive and democratic governance.",
+        "citations": [
+          {
+            "argument_id": "A2",
+            "quote": "Portlanders have lost trust in City Hall. Too much money has been misplaced or poorly managed"
+          },
+          {
+            "argument_id": "A4",
+            "quote": "Participatory budgeting takes public budgeting out into the community where people live and work."
+          },
+          {
+            "argument_id": "A5",
+            "quote": "We need new solutions to increase transparency and accountability, provide opportunities for more meaningful public participation, and rebuild public trust."
+          },
+          {
+            "argument_id": "A14",
+            "quote": "Restoring trust and fostering trustworthy government requires bottom up reform."
+          }
+        ]
+      },
+      {
+        "text": "Supporters supporters argue that the measure will allow residents to fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-base and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund and community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-bas and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects andfund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects andfund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and residents and City staff can work together in their neighborhoods to directly determine how to spend city funds.",
+        "citations": [
+          {
+            "argument_id": "A3",
+            "quote": "Street and sidewalk improvements\n• Parks repair\n• Public safety initiatives\n• After-school programs\n**and much more!**"
+          }
+        ]
+      }
+    ]
+  },
+  "themes_against": {
+    "themes": [
+      {
+        "text": "Opponents argue the measure would permanently divert at least $16 million annually from the General Fund to a new process, potentially causing cuts to essential city services.",
+        "citations": [
+          {
+            "argument_id": "A17",
+            "quote": "The proposal would amend Portland’s Charter to require the city to forever hand over at least 2% of discretionary spending — initially $16 million— to a participatory budgeting process, no matter what else the city needs."
+          },
+          {
+            "argument_id": "A20",
+            "quote": "Measure 26-267 would permanently remove at least $16 million every year from the same General Fund that pays for fire and emergency response."
+          },
+          {
+            "argument_id": "A21",
+            "quote": "This measure would permanently divert at least $16 million every year — written into the city charter, forever — out of the same General Fund that pays for firefighting, parks, community centers, Portland Street Response, and homeless services."
+          },
+          {
+            "argument_id": "A22",
+            "quote": "$16 million can fund more than 100 police officers. But once this amendment is in the charter, no future council can adjust it — not during a crime wave, not during a recession, not when federal funding disappears."
+          }
+        ]
+      },
+      {
+        "text": "Opponents argue the measure would create a new, permanent, and unelected oversight structure that bypasses the existing budget process and normal budget hearings. bypasses the existing budget process and normal budget hearings.",
+        "citations": [
+          {
+            "argument_id": "A18",
+            "quote": "#3. Unelected Committees Make Binding Decisions An unelected “oversight committee” and “budget delegates” — not the elected Mayor or Council — assess, refine, and advance spending proposals to a binding vote."
+          },
+          {
+            "argument_id": "A19",
+            "quote": "That’s real money, decided not by the elected Council after public hearings, but through a separate structure of an unelected “oversight committee,” unelected city staff, and unelected neighborhood “budget delegates” who advance proposals to a binding, citywide vote."
+          },
+          {
+            "argument_id": "A30",
+            "quote": "This measure builds a second, parallel budget system. One that grows automatically every year, is exempt from normal budget tradeoffs, and gets locked into the City Charter, where it’s nearly impossible to undo if it doesn’t work."
+          }
+        ]
+      },
+      {
+        "text": "Opponents argue the measure would lock in a mandatory budget set-aside into the city charter, making it difficult or impossible for future councils to adjust or defund the following years. following the city's fiscal condition. following the city's fiscal condition.",
+        "citations": [
+          {
+            "argument_id": "A17",
+            "quote": "Portlanders shouldn’t be locked into a permanent $16 million commitment by people unwilling to show their faces."
+          },
+          {
+            "argument_id": "A18",
+            "quote": "This isn’t a pilot program the City can end if it doesn’t work. It’s a permanent charter amendment requiring at least 2% of The printing of these arguments does not constitute an endorsement by M statements made M- discretionary spending every year, indefinitely."
+          },
+          {
+            "argument_id": "A23",
+            "quote": "And because it’s in the charter, no future mayor or council could adjust it — no matter what needs or opportunity Portland faces."
+          },
+          {
+            "argument_id": "A26",
+            "quote": "No other city does participatory budgeting the way Measure 26-267 proposes. The Measure 26-267 campaign says participatory budgeting is proven elsewhere, citing New York, Boston, Paris, Seoul, and Mexico City. Here’s what they don’t tell you: not one of those cities — not one city anywhere — has done what this measure would do: permanently lock a mandatory budget set-aside into its charter."
+          }
+        ]
+      }
+    ]
+  }
+}

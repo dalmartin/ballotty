@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ballotty</title>
+  <meta name="description" content="Your Oregon ballot, condensed. Every sentence links to the official voters' pamphlet page it came from.">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header class="site">
+    <div class="wrap">
+      <div class="brand">
+        <h1>Ballotty</h1>
+        <p class="tagline">Your ballot, condensed. <strong>Every sentence links to the official voters' pamphlet page it came from.</strong></p>
+      </div>
+      <nav class="cities" id="cities" aria-label="Choose your city"></nav>
+    </div>
+  </header>
+
+  <main class="wrap" id="main">
+    <p class="loading">Loading…</p>
+  </main>
+
+  <footer class="site">
+    <div class="wrap">
+      <h2>Disclaimers</h2>
+      <ul>
+        <li>Ballotty is <strong>not affiliated</strong> with the Oregon Secretary of State, Lane, Benton or Multnomah County Elections, the Cities of Eugene, Corvallis or Portland, or any campaign.</li>
+        <li>Summaries are machine-generated (Gemma 4) from official documents and may contain errors. <strong>Always verify with the official voters' pamphlet</strong>; every item links to it.</li>
+        <li>Candidate background and endorsements are <strong>self-reported</strong> in statements the candidates submitted. Measure arguments are filed by the named individuals or groups and were not verified for accuracy by the counties.</li>
+        <li>Ballotty makes <strong>no voting recommendations</strong> and does not rank or rate candidates or measures. Candidates appear in ballot order.</li>
+      </ul>
+      <div id="sources"></div>
+      <p class="fine">Open source · <a href="https://github.com/dalmartin/ballotty">Source code</a> · Built for a hackathon.</p>
+    </div>
+  </footer>
+  <script src="/static/app.js"></script>
+</body>
+</html>

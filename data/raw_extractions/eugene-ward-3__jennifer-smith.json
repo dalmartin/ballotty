@@ -1,0 +1,78 @@
+{
+  "id": "eugene-ward-3/jennifer-smith",
+  "prompt_hashes": {
+    "candidate": "08a17d5ba7d7da7b"
+  },
+  "models": {
+    "candidate": "gemma-4-31b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Says Smith will advocate for more affordable housing and protections for renters to address homelessness.",
+        "quote": "I’ll push to build vastly more affordable housing and remove barriers for denser units; Second, I’ll champion protections for vulnerable renters",
+        "page": 52
+      },
+      {
+        "text": "Says Smith will support the Eugene Clean Energy Fund ballot initiative to lower energy costs for families.",
+        "quote": "I will support the implementation of the Eugene Clean Energy Fund ballot initiative, which will help to reduce energy costs for families",
+        "page": 52
+      },
+      {
+        "text": "text own's own",
+        "quote": "I will fight back against these unconstitutional attacks on immigrants, LGBTQ+ people, and other vulnerable residents",
+        "page": 52
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists Smith's occupation as Project Coordinator and Union President.",
+        "quote": "Occupation: Project Coordinator, Union President",
+        "page": 52
+      },
+      {
+        "text": "Lists Smith's occupational background as UO Labor Education Research Center Coordinator and Los Angeles County Transportation Planner.",
+        "quote": "Occupational Background: UO Labor Education Research Center Coordinator; Los Angeles County Transportation Planner.",
+        "page": 52
+      },
+      {
+        "text": "Lists Smith's educational background as MA-Public Administration from the University of Oregon and MA-Urban Planning from UCLA.",
+        "quote": "Educational Background: MA-Public Administration, University of Oregon; MA-Urban Planning, UCLA.",
+        "page": 52
+      },
+      {
+        "text": "Lists Smith's prior governmental experience with the Oregon Higher Education Coordinating Commission, Eugene Permanent Shelter Task Force, and Lane Transit District Budget Committee.",
+        "quote": "Prior Governmental Experience: Oregon Higher Education Coordinating Commission; Eugene Permanent Shelter Task Force; Lane Transit District Budget Committee.",
+        "page": 52
+      }
+    ],
+    "endorsements": [
+      {
+        "text": "Lists endorsements from several City Councilors and Mayors.",
+        "quote": "City Councilor Alan Zelenka City Councilor Jennifer Yeh City Councilor Lyndsie Leech City Councilor Matt Keating City Councilor Eliza Kashinsky Mayor Kaarin Knudson Former Mayor Kitty Piercy Former Mayor Lucy Vinis",
+        "page": 52
+      },
+      {
+        "text": "Lists endorsements from the Democratic Party of Lane County and Working Families Party.",
+        "quote": "Democratic Party of Lane County Working Families Party",
+        "page": 52
+      },
+      {
+        "text": "Lists endorsements from the Oregon Sierra Club and Oregon League of Conservation Voters.",
+        "quote": "Oregon Sierra Club Oregon League of Conservation Voters",
+        "page": 52
+      },
+      {
+        "text": "text own's own",
+        "quote": "Lane County Central Labor Chapter SEIU Oregon CWA 7901 AFSCME 1724 North Coast States Carpenters Union SMART Local 16",
+        "page": 52
+      },
+      {
+        "text": "Lists endorsement from the Eugene Tenant Alliance.",
+        "quote": "Eugene Tenant Alliance",
+        "page": 52
+      }
+    ],
+    "furnished_by": "Jenn for Eugene."
+  }
+}

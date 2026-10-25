@@ -1,0 +1,78 @@
+{
+  "id": "us-rep-3/maxine-e-dexter",
+  "prompt_hashes": {
+    "candidate": "65c19eb992a1b973"
+  },
+  "models": {
+    "candidate": "gemma-4-31b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Says Dexter will fight for working families, living wages, union jobs, affordable housing, and childcare.",
+        "quote": "Working families, not billionaires: Good schools, living wages, union jobs, affordable housing and childcare.",
+        "page": 35
+      },
+      {
+        "text": "Says Dexter believes healthcare is a human right and will support abortion, vaccinations, and gender-affirming care.",
+        "quote": "Healthcare is a human right: High quality, accessible and affordable care for all. Keep politicians out of exam rooms and let science guide care.",
+        "page": 35
+      },
+      {
+        "text": "Says Dexter will work to protect voting rights, end corruption, and remove dark money from politics.",
+        "quote": "Democracy: Protect voting rights. End corruption. Defend our communities from authoritarianism. Get dark money out of politics.",
+        "page": 35
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists occupation as U.S. Representative.",
+        "quote": "Occupation: U.S. Representative",
+        "page": 35
+      },
+      {
+        "text": "Lists occupational background as Pulmonary/Critical Care Physician and Grocery Worker.",
+        "quote": "Occupational Background: Pulmonary/Critical Care Physician, Grocery Worker",
+        "page": 35
+      },
+      {
+        "text": "Lists educational background as University of Washington, B.A., M.D.",
+        "quote": "Educational Background: University of Washington, B.A., M.D.",
+        "page": 35
+      },
+      {
+        "text": "Lists prior governmental experience as State Representative.",
+        "quote": "Prior Governmental Experience: State Representative",
+        "page": 35
+      }
+    ],
+    "endorsements": [
+      {
+        "text": "Lists endorsements from Planned Parenthood Action Fund and Everytown for Gun Safety Action Fund.",
+        "quote": "Planned Parenthood Action Fund\nU.S. Senators Jeff Merkley & Ron Wyden\nGovernor Tina Kotek\nAttorney General Dan Rayfield\nOR Labor Federation, AFL-CIO\nPortland Mayor Keith Wilson\nGresham Mayor Travis Stovall\nEverytown for Gun Safety Action Fund",
+        "page": 35
+      },
+      {
+        "text": "Lists endorsements from U.S. Senators Jeff Merkley and Ron Wyden.",
+        "quote": "U.S. Senators Jeff Merkley & Ron Wyden",
+        "page": 35
+      },
+      {
+        "text": "Lists endorsements from Governor Tina Kotek and Attorney General Dan Rayfield.",
+        "quote": "Governor Tina Kotek\nAttorney General Dan Rayfield",
+        "page": 35
+      },
+      {
+        "text": "Lists endorsements from OR Labor Federation, AFL-CIO and Oregon Nurses Association.",
+        "quote": "OR Labor Federation, AFL-CIO\nPortland Mayor Keith Wilson\nGresham Mayor Travis Stovall\nEverytown for Gun Safety Action Fund\nOregon League of Conservation Voters\nOregon Nurses Association",
+        "page": 35
+      },
+      {
+        "text": "Lists endorsements from Portland Mayor Keith Wilson and Gresham Mayor Travis Stovall.",
+        "quote": "Portland Mayor Keith Wilson\nGresham Mayor Travis Stovall",
+        "page": 35
+      }
+    ],
+    "furnished_by": "Maxine for Congress"
+  }
+}

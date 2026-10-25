@@ -1,0 +1,35 @@
+{
+  "id": "measure-20-388",
+  "prompt_hashes": {
+    "measure": "21e1867b84fb5083"
+  },
+  "models": {
+    "measure": "gemma-4-26b-a4b-it"
+  },
+  "measure": {
+    "caption": "Licensure of Large Retailers to Finance a Clean Energy Fund",
+    "question": "Shall voters adopt ordinance imposing on large retailers a licensing requirement and 2% fee to finance a clean energy fund?",
+    "summary": [
+      {
+        "text": "If approved, the measure would require large retailers to obtain a license and pay an annual 2% license fee on gross profits.",
+        "quote": "require large retailers to obtain a license and pay an annual 2% license fee on gross profits from retail sales within the City.",
+        "page": 10
+      },
+      {
+        "text": "Large retailers are defined as those with national gross profits exceeding $1,000,000,000 and Eugene gross profits exceeding $500,000, excluding certain entities.",
+        "quote": "defines \"large retailer\" as one engaged in retail sales in Eugene with gross profits exceeding $1,000,000,000 nationally and $500,000 in Eugene, excluding contractors, utilities, cooperatives, and credit unions.",
+        "page": 10
+      },
+      {
+        "text": "If approved, the measure would exclude most groceries, medicines, and certain services from the 2% fee calculation.",
+        "quote": "Gross profits from retail sales upon which the 2% is calculated would not include sales of most groceries, medicines, residential garbage and recycling services, and health care services.",
+        "page": 0
+      },
+      {
+        "text": "If approved, the measure would place license fee proceeds in a fund for renewable energy, efficiency, programs, and administration.",
+        "quote": "require proceeds from the license fee to be placed in a \"Eugene Clean Energy Fund\" dedicated to funding renewable energy and energy efficiency programs; clean energy job training, apprenticeships, and contractor support; green infrastructure programs; future innovation; and fund administration",
+        "page": 10
+      }
+    ]
+  }
+}

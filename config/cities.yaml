@@ -1,0 +1,156 @@
+# Ballotty source + contest config. Every page number here is verified by
+# pipeline/segment.py (it fails loudly if a candidate's name is not on the page).
+
+docs:
+  book4:
+    title: "State Voters' Pamphlet, Lane County edition (Book 4)"
+    publisher: Oregon Secretary of State
+    url: https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf
+    page_label: "p. {n}"
+  book6:
+    title: "State Voters' Pamphlet, Benton County edition (Book 6)"
+    publisher: Oregon Secretary of State
+    url: https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf
+    page_label: "p. {n}"
+  book13:
+    title: "State Voters' Pamphlet, Multnomah County edition (Book 13)"
+    publisher: Oregon Secretary of State
+    url: https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf
+    page_label: "p. {n}"
+  lane_ballot:
+    title: "Lane County Proof Ballot Content, Nov 3, 2026"
+    publisher: Lane County Elections
+    url: "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf"
+    page_label: "p. {n}"
+  benton_vp:
+    title: "Benton County Voters' Pamphlet, Nov 3, 2026"
+    publisher: Benton County Records and Elections
+    url: https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf
+    page_label: "p. {n}"
+  multnomah_vp:
+    title: "Multnomah County Voters' Pamphlet, Nov 3, 2026"
+    publisher: Multnomah County Elections
+    url: "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download"
+    page_label: "M-{n:02d}"
+
+# Contests shared across cities. Extracted once from `doc`, then re-cited
+# ("relocated") to each city's own state edition.
+shared_contests:
+  - id: us-senator
+    contest: US Senator
+    doc: book4
+    candidates:
+      - {name: David Brock Smith, party: Republican, pages: [30]}
+      - {name: Jeff Merkley, party: "Democrat, Working Families", pages: [31]}
+      - {name: Gary Lyndon Dye, party: Libertarian, statement_filed: false}
+      - {name: Chris Henry, party: "Progressive, Pacific Green", pages: [31]}
+  - id: governor
+    contest: Governor
+    doc: book4
+    candidates:
+      - {name: Brett Smith, party: Pacific Green, pages: [34]}
+      - {name: Tina Kotek, party: "Democrat, Working Families", pages: [35]}
+      - {name: Christine Drazan, party: "Republican, Libertarian", pages: [35]}
+  - id: us-rep-4
+    contest: US Representative, 4th District
+    doc: book4
+    candidates:
+      - {name: Monique DeSpain, party: "Republican, Libertarian", pages: [32]}
+      - {name: Val Hoyle, party: "Democrat, Working Families", pages: [33]}
+      - {name: Justin Filip, party: "Pacific Green, Progressive", pages: [33]}
+
+cities:
+  eugene:
+    name: Eugene
+    county: Lane County
+    state_doc: book4
+    county_doc: null
+    coverage_note: "Lane County does not publish a county voters' pamphlet. Local measures are taken from the county's official ballot content."
+    contests:
+      - shared: us-senator
+      - shared: governor
+      - shared: us-rep-4
+      - id: eugene-ward-3
+        contest: Eugene City Council, Ward 3
+        district_label: Ward 3 voters only
+        doc: book4
+        candidates:
+          - {name: Jennifer Smith, party: Nonpartisan, pages: [52]}
+      - id: eugene-ward-4
+        contest: Eugene City Council, Ward 4
+        district_label: Ward 4 voters only
+        doc: book4
+        candidates:
+          - {name: Jennifer Yeh, party: Nonpartisan, statement_filed: false}
+      - id: eugene-ward-5
+        contest: Eugene City Council, Ward 5
+        district_label: Ward 5 voters only
+        doc: book4
+        candidates:
+          - {name: Mike Clark, party: Nonpartisan, pages: [53]}
+          - {name: Athena Aguiar, party: Nonpartisan, pages: [53]}
+      - id: eugene-ward-6
+        contest: Eugene City Council, Ward 6
+        district_label: Ward 6 voters only
+        doc: book4
+        candidates:
+          - {name: Greg Evans, party: Nonpartisan, statement_filed: false}
+      - id: measure-20-388
+        measure: "20-388"
+        jurisdiction: City of Eugene
+        doc: lane_ballot
+        title_pages: [10]
+        argument_pages: []
+        expected_arguments: {for: 0, against: 0}
+        no_arguments_note: "No arguments were filed in an official voters' pamphlet. Lane County does not publish a county voters' pamphlet."
+
+  corvallis:
+    name: Corvallis
+    county: Benton County
+    state_doc: book6
+    county_doc: benton_vp
+    coverage_note: null
+    contests:
+      - shared: us-senator
+      - shared: governor
+      - shared: us-rep-4
+      - id: corvallis-mayor
+        contest: Corvallis Mayor
+        ranked_choice: true
+        doc: benton_vp
+        candidates:
+          - {name: Andrew Struthers, party: Nonpartisan, pages: [13]}
+          - {name: Kimi Gatherum, party: Nonpartisan, pages: [13]}
+          - {name: Charles Maughan, party: Nonpartisan, pages: [14]}
+          - {name: Kasey Haxton, party: Nonpartisan, pages: [14]}
+      - id: measure-2-159
+        measure: "2-159"
+        jurisdiction: City of Corvallis
+        doc: benton_vp
+        title_pages: [25]
+        argument_pages: [26, 27, 28]
+        expected_arguments: {for: 3, against: 3}
+
+  portland:
+    name: Portland
+    county: Multnomah County
+    state_doc: book13
+    county_doc: multnomah_vp
+    coverage_note: "Covers the Multnomah County portion of Portland only. Portland residents in Washington or Clackamas County receive a different county pamphlet."
+    contests:
+      - shared: us-senator
+      - shared: governor
+      - id: us-rep-3
+        contest: US Representative, 3rd District
+        district_label: 3rd Congressional District voters
+        doc: book13
+        candidates:
+          - {name: Maxine E Dexter, party: Democrat, pages: [35]}
+          - {name: Loran Ayles, party: Republican, statement_filed: false}
+      - id: measure-26-267
+        measure: "26-267"
+        jurisdiction: City of Portland
+        doc: multnomah_vp
+        title_pages: [78]
+        argument_pages: [79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91]
+        expected_arguments: {for: 15, against: 15}

@@ -1,0 +1,42 @@
+{
+  "id": "corvallis-mayor/kimi-gatherum",
+  "prompt_hashes": {
+    "candidate": "3eb4b1cb7ac96cf9"
+  },
+  "models": {
+    "candidate": "gemma-4-26b-a4b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Says Gatherum believes libraries prevent more crime than jails.",
+        "quote": "library prevents more crime then Jails",
+        "page": 13
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists Gatherum's occupation as a Sales Associate at Ross Dress for Less.",
+        "quote": "Occupation: Sales Associate at “Ross Dress for less”",
+        "page": 13
+      },
+      {
+        "text": "Lists Gatherum's occupational background in social services, public health, and the service industry.",
+        "quote": "Occupational Background: Social Services, Public Health, Service Industry",
+        "page": 13
+      },
+      {
+        "text": "Lists Gatherum's educational background with an A.A. from LBCC and a B.S. from OSU.",
+        "quote": "Educational Background: LBCC A.A., OSU B.S",
+        "page": 13
+      },
+      {
+        "text": "Lists Gatherum's prior governmental experience with the Oregon Department of Human Services and the Hawaii Department of Health.",
+        "quote": "Prior Governmental Experience: Oregon Department of human services 4 yrs 2008-2012, Hawaii Department of Health 8 yrs 2013-2021",
+        "page": 13
+      }
+    ],
+    "endorsements": [],
+    "furnished_by": "Kimi Gatherum"
+  }
+}

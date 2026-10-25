@@ -1,0 +1,78 @@
+{
+  "id": "eugene-ward-5/athena-aguiar",
+  "prompt_hashes": {
+    "candidate": "8a14084841fae7e4"
+  },
+  "models": {
+    "candidate": "gemma-4-31b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Aguiar says Aguiar will support the construction of affordable housing.",
+        "quote": "Support Building Affordable Housing",
+        "page": 53
+      },
+      {
+        "text": "Aguiar says Aguiar will advocate for the full funding of a crisis response service similar to CAHOOTs.",
+        "quote": "Fully Fund CAHOOTs-like Crisis Response Service",
+        "page": 53
+      },
+      {
+        "text": "Aguiar says Aguiar will support the expansion of bus-rapid-transit services and the creation of more sidewalks and protected bike lanes.",
+        "quote": "Build more Protected Bike Lanes and Sidewalks\n-Expand Bus-Rapid-Transit Services",
+        "page": 53
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists Aguiar's occupation as an environmental activist and organizer.",
+        "quote": "Occupation: Environmental\nActivist, Organizer",
+        "page": 53
+      },
+      {
+        "text": "Lists Aguiar's occupational background as an environmental restoration technician.",
+        "quote": "Occupational Background:\nEnvironmental Restoration\nTechnician",
+        "page": 53
+      },
+      {
+        "text": "Lists Aguiar's educational background as a B.A. in Biology from Coe College.",
+        "quote": "Educational Background: B.A. in\nBiology, Coe College",
+        "page": 53
+      },
+      {
+        "text": "Lists Aguiar's prior governmental experience as serving on the Eugene Library Advisory Board and the Eugene Library, Cultural, and Recreational Services Working Group.",
+        "quote": "Prior Governmental Experience: Eugene Library Advisory Board\nand Eugene Library, Cultural, and Recreational Services Working\nGroup",
+        "page": 53
+      }
+    ],
+    "endorsements": [
+      {
+        "text": "Lists endorsements from the Democratic Party of Lane County, Working Families Party, and Sierra Club.",
+        "quote": "Endorsed By:\nDemocratic Party of Lane County\nDemocratic Municipal Officials\nWorking Families Party\nSierra Club",
+        "page": 53
+      },
+      {
+        "text": "Lists endorsements from various labor organizations, including the Oregon Labor Federation and SEIU Oregon.",
+        "quote": "Lane County Central Labor Chapter, Oregon Labor Federation\nAmerican Federation of Teachers - Oregon\nAFSCME Local 1724\nSEIU Oregon",
+        "page": 53
+      },
+      {
+        "text": "Lists endorsements from Eugene Mayors Kitty Piercy and Lucy Vinis.",
+        "quote": "Eugene Mayors Kitty Piercy and Lucy Vinis",
+        "page": 53
+      },
+      {
+        "text": "Lists endorsements from Eugene City Councilors Matt Keating, Lyndsie Leech, and Jennifer Yeh.",
+        "quote": "Eugene City Councilors Matt Keating, Lyndsie Leech, and Jennifer Yeh",
+        "page": 53
+      },
+      {
+        "text": "Lists endorsements from 4J School Board Members Tom Di Liberto, Maya Rabasa, and Jenny Jonak.",
+        "quote": "4J School Board Members Tom Di Liberto, Maya Rabasa, and Jenny Jonak",
+        "page": 53
+      }
+    ],
+    "furnished_by": "Committee to Elect Athena Aguiar."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "us-rep-4/val-hoyle",
+  "prompt_hashes": {
+    "candidate": "a44a9f871ae84c84"
+  },
+  "models": {
+    "candidate": "gemma-4-26b-a4b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Says Hoyle is working to expand Social Security and Medicare and protect them from cuts.",
+        "quote": "expand Social Security and Medicare and protect them from devastating cuts",
+        "page": 33
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists Hoyle's occupation as US Congresswoman.",
+        "quote": "Occupation: US Congresswoman",
+        "page": 33
+      }
+    ],
+    "endorsements": [
+      {
+        "text": "Lists endorsements from US Senator Ron Wyden, US Senator Jeff Merkley, and Congressman Peter DeFazio.",
+        "quote": "PROUDLY ENDORSED BY:",
+        "page": 33
+      }
+    ],
+    "furnished_by": "Friends of Val Hoyle"
+  }
+}

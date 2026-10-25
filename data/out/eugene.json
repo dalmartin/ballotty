@@ -1,0 +1,1853 @@
+{
+  "city": "eugene",
+  "name": "Eugene",
+  "county": "Lane County",
+  "coverage_note": "Lane County does not publish a county voters' pamphlet. Local measures are taken from the county's official ballot content.",
+  "generated_at": "2026-10-25T21:54:39+00:00",
+  "sources": [
+    {
+      "doc": "book4",
+      "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+      "publisher": "Oregon Secretary of State",
+      "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+      "page_label": "p. {n}",
+      "sha256": "42e05af713e083d247491228ded11c9073731c29fb2d8a6d0583b20e80673847"
+    },
+    {
+      "doc": "lane_ballot",
+      "title": "Lane County Proof Ballot Content, Nov 3, 2026",
+      "publisher": "Lane County Elections",
+      "url": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf",
+      "page_label": "p. {n}",
+      "sha256": "e6ff45b981612ff1064a240447595e7697c7ee2d8535cfa0a9c59a790a8e5cb0"
+    }
+  ],
+  "contests": [
+    {
+      "id": "us-senator",
+      "name": "US Senator",
+      "type": "candidates",
+      "district_label": null,
+      "ranked_choice": false,
+      "items": [
+        {
+          "id": "us-senator/david-brock-smith",
+          "type": "candidate",
+          "name": "David Brock Smith",
+          "contest": "US Senator",
+          "ballot_party_label": "Republican",
+          "ballot_order": 1,
+          "statement_filed": true,
+          "summary": [
+            {
+              "text": "Says Smith will work to make Oregon affordable by incentivizing job growth and supporting small businesses.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 30,
+                  "page_label": "p. 30",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=30",
+                  "quote": "incentivize job growth in our communities, supporting local small businesses."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Smith will fight for drug and mental health treatment and accountability to end permanent street camping.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 30,
+                  "page_label": "p. 30",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=30",
+                  "quote": "David has and will continue to fight for treatment and accountability, and bring an end to permanent street camping."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "making Smith will ensure data centers are accountable and protect natural resources to prevent cost shifts to households.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 30,
+                  "page_label": "p. 30",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=30",
+                  "quote": "David will ensure data centers are accountable, protect natural resources, and prevent their costs from being shifted onto Oregon households."
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "background": [
+            {
+              "text": "Lists Smith's occupation as State Senator and Small Business Owner.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 30,
+                  "page_label": "p. 30",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=30",
+                  "quote": "Occupation: State Senator, Small Business Owner"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Smith's occupational background as State Representative, County Commissioner, Small Business Owner/Business Manager, and Director-Economic Development.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 30,
+                  "page_label": "p. 30",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=30",
+                  "quote": "List's occupational background as State Representative, County Commissioner, Small Business Owner/Business Manager, Director-Economic Development"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "In their statement: “Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Communities, Senate-Dir-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Making-Legislative Sportsmen's Caucus/Wine Caucus”",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 30,
+                  "page_label": "p. 30",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=30",
+                  "quote": "Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Communities, Senate-Dir-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Making-Legislative Sportsmen's Caucus/Wine Caucus"
+                }
+              ],
+              "loaded_terms": [
+                "disaster"
+              ]
+            },
+            {
+              "text": "Lists Smith'--|und-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Resources, Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Preventing-Data-Centers-Driving-Up-Costs-David-Smith-Smith-Smith-Smith-Smith-Education-Education-Education-Education-Education-Education-Education-More-Information-www.DavidBrockSmithforOregon.com-www.Education-OregonLegislature.com/SmithD",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 30,
+                  "page_label": "p. 30",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=30",
+                  "quote": "Educational Background: Pacific High School, SOCC, SOU"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [],
+          "furnished_by": "David Brock Smith for Oregon",
+          "funding": null,
+          "doc": "book4",
+          "pages": [
+            30
+          ],
+          "checks": {
+            "dropped": [],
+            "flagged": [
+              {
+                "section": "background",
+                "text": "text-only: text-only: text-only: text-|und-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Committees, Senate-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Legislative Sportsmen's Caucus/Wine Caucus",
+                "loaded_terms": [
+                  "disaster"
+                ],
+                "replaced_with": "In their statement: “Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Communities, Senate-Dir-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Making-Legislative Sportsmen's Caucus/Wine Caucus”"
+              }
+            ],
+            "corrected": [],
+            "capped": []
+          },
+          "relocation": {
+            "from": "book4",
+            "to": "book4",
+            "found": 0,
+            "missed": 0
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=30",
+          "verify_label": "p. 30"
+        },
+        {
+          "id": "us-senator/jeff-merkley",
+          "type": "candidate",
+          "name": "Jeff Merkley",
+          "contest": "US Senator",
+          "ballot_party_label": "Democrat, Working Families",
+          "ballot_order": 2,
+          "statement_filed": true,
+          "summary": [
+            {
+              "text": "Says Merkley wants to end ICE agents operating as secret police and ensure accountability for civil rights violations.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "No more ICE agents operating as secret police; no operations at schools or warrantless home raids. Full accountability for every civil rights violation."
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "background": [
+            {
+              "text": "Says Merkley's occupation is U.S. Senator for Oregon.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "Occupation: U.S. Senator for Oregon"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Merkley's occupational background includes Habitat for Humanity, National Security Analyst, and Small Business Founder.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "Occupational Background: Habitat for Humanity; National Security Analyst; Small Business Founder"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Merkley's educational background includes David Douglas High School, a B.A. in International Affairs, and a Masters in Public Policy.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "Educational Background: David Douglas High School; B.A., Int’l Affairs; Masters in Public Policy"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Merkley's prior governmental experience includes being a State Representative and Oregon House Speaker.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "Prior Governmental Experience: State Representative; Oregon House Speaker"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [
+            {
+              "text": "Lists endorsements from Oregon State Fire Fighters Council, OR Labor Federation, AFL-CIO, Planned Parenthood Action Fund, and Oregon League of Conservation Voters.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "Endorsements: Oregon State Fire Fighters Council; OR Labor Federation, AFL-CIO; Planned Parenthood Action Fund; Oregon League of Conservation Voters; and others."
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "furnished_by": "Jeff Merkley for Oregon",
+          "funding": null,
+          "doc": "book4",
+          "pages": [
+            31
+          ],
+          "checks": {
+            "dropped": [],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "relocation": {
+            "from": "book4",
+            "to": "book4",
+            "found": 0,
+            "missed": 0
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+          "verify_label": "p. 31"
+        },
+        {
+          "id": "us-senator/gary-lyndon-dye",
+          "type": "candidate",
+          "name": "Gary Lyndon Dye",
+          "contest": "US Senator",
+          "ballot_party_label": "Libertarian",
+          "ballot_order": 3,
+          "statement_filed": false,
+          "summary": [],
+          "background": [],
+          "endorsements": [],
+          "furnished_by": null,
+          "funding": null,
+          "doc": "book4",
+          "pages": [],
+          "checks": {
+            "dropped": [],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "relocation": {
+            "from": "book4",
+            "to": "book4",
+            "found": 0,
+            "missed": 0
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+          "verify_label": null
+        },
+        {
+          "id": "us-senator/chris-henry",
+          "type": "candidate",
+          "name": "Chris Henry",
+          "contest": "US Senator",
+          "ballot_party_label": "Progressive, Pacific Green",
+          "ballot_order": 4,
+          "statement_filed": true,
+          "summary": [
+            {
+              "text": "Says Henry supports working people, publicly-funded education, workplace safety, campaign finance reform, and the environment.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "I support working people, publicly-funded education from pre-K to trade guilds and higher education, strong workplace safety, real campaign finance reform, and protecting the environment and climate."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Henry wants to cut military spending and end wars.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "CUT MASSIVE U.$. MILITARY\nEnd Pointless Wars."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "text own",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "HIGHER WAGES, BETTER WORKING CONDITIONS, LOWER PRICES"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "background": [
+            {
+              "text": "Lists occupation as Working Class Truck Driver.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "Occupation: Working Class Truck Driver"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists occupational background as LongHaul Trucker, UAW Aircraft Mechanic at Rockwell, McDonnell Douglas.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "Occupational Background:\nLongHaul Trucker, UAW Aircraft Mechanic at Rockwell, McDonnell Douglas"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists educational background as UAW Trade School, Portland State University.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "Educational Background: UAW Trade School, Portland State University"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists no prior governmental experience.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "Prior Governmental Experience: n/a"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists civic leadership as boards for Oregon Consumer League, Oregon Voter Rights Coalition, Willamette Neighborhood Association, and as a shop steward and union organizer.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+                  "quote": "Civic Leadership: Boards: Oregon Consumer League; Oregon Voter Rights Coalition, Willamette Neighborhood Association; Shop Steward and Union Organizer"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [],
+          "furnished_by": "Chris Henry",
+          "funding": null,
+          "doc": "book4",
+          "pages": [
+            31
+          ],
+          "checks": {
+            "dropped": [],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "relocation": {
+            "from": "book4",
+            "to": "book4",
+            "found": 0,
+            "missed": 0
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+          "verify_label": "p. 31"
+        }
+      ]
+    },
+    {
+      "id": "governor",
+      "name": "Governor",
+      "type": "candidates",
+      "district_label": null,
+      "ranked_choice": false,
+      "items": [
+        {
+          "id": "governor/brett-smith",
+          "type": "candidate",
+          "name": "Brett Smith",
+          "contest": "Governor",
+          "ballot_party_label": "Pacific Green",
+          "ballot_order": 1,
+          "statement_filed": true,
+          "summary": [
+            {
+              "text": "Says Smith will seek a full audit of systems and tax code by independent contractors.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 34,
+                  "page_label": "p. 34",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=34",
+                  "quote": "A full audit of our systems and tax code by independent contractors."
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "background": [
+            {
+              "text": "Lists Smith's occupation is an inventor, small business owner, welder, and fabricator.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 34,
+                  "page_label": "p. 34",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=34",
+                  "quote": "Occupation: Inventor, Small Business Owner, Welder, Fabricator"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Smith's occupational background is an inventor, welder, and fabricator.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 34,
+                  "page_label": "p. 34",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=34",
+                  "quote": "Occupational Background: Inventor, Welder, Fabricator"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "text-based on on Toromont Energy Welding Apprenticeship, and over a decade of experience with regulatory compliance for the FDA and USPTO.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 34,
+                  "page_label": "p. 34",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=34",
+                  "quote": "Toromont Energy Welding Apprenticeship, Over a decade of experience with regulatory compliance for the FDA and USPTO"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [],
+          "furnished_by": "Brett Smith",
+          "funding": null,
+          "doc": "book4",
+          "pages": [
+            34
+          ],
+          "checks": {
+            "dropped": [
+              {
+                "section": "background",
+                "text": "Lists Smith'",
+                "quote": "Lists Smith'",
+                "reason": "quote not found on cited page (best match 0%)"
+              }
+            ],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "relocation": {
+            "from": "book4",
+            "to": "book4",
+            "found": 0,
+            "missed": 0
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=34",
+          "verify_label": "p. 34"
+        },
+        {
+          "id": "governor/tina-kotek",
+          "type": "candidate",
+          "name": "Tina Kotek",
+          "contest": "Governor",
+          "ballot_party_label": "Democrat, Working Families",
+          "ballot_order": 2,
+          "statement_filed": true,
+          "summary": [
+            {
+              "text": "Says Kotek will continue to fight to reduce homelessness by increasing shelter and treatment beds.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "she will continue the fight to reduce homelessness."
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "background": [
+            {
+              "text": "Lists Kotek's occupation as Governor.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "Occupation: Governor"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "List's Kotek's occupational background as Oregon Food Bank and Children First.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "Occupational Background: Oregon Food Bank, Children First"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Kotek's educational background as University of Oregon and University of Washington.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "Educational Background: University of Oregon, University of Washington"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Kotek's prior governmental experience as State Representative and House Speaker.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "Prior Governmental Experience: State Representative, House Speaker"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [
+            {
+              "text": "Lists endorsements from Planned Parenthood Action Oregon, OR Labor Federation AFL-CIO, Oregon League of Conservation Voters, Oregon Nurses Association, Oregon State Fire Fighters Council, SEIU Oregon, Building Power for Communities of Color, Oregon AFSCME, Stand for Children, The Mother PAC, Sierra Club, and Oregon Working Families Party.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "Planned Parenthood Action Oregon OR Labor Federation AFL-CIO Oregon League of Conservation Voters Oregon Nurses Association Oregon State Fire Fighters Council SEIU Oregon Building Power for Communities of Color Oregon AFSCME Stand for Children The Mother PAC Sierra Club Oregon Working Families Party"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "furnished_by": "Friends of Tina Kotek",
+          "funding": null,
+          "doc": "book4",
+          "pages": [
+            35
+          ],
+          "checks": {
+            "dropped": [],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "relocation": {
+            "from": "book4",
+            "to": "book4",
+            "found": 0,
+            "missed": 0
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+          "verify_label": "p. 35"
+        },
+        {
+          "id": "governor/christine-drazan",
+          "type": "candidate",
+          "name": "Christine Drazan",
+          "contest": "Governor",
+          "ballot_party_label": "Republican, Libertarian",
+          "ballot_order": 3,
+          "statement_filed": true,
+          "summary": [
+            {
+              "text": "Says Drazan will order state agencies to repeal rules, fees and mandates that increase costs for housing, energy, food, transportation, childcare and healthcare.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "Christine will order state agencies to repeal rules, fees and mandates driving up the cost of housing, energy, food, transportation, childcare and healthcare"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Drazan will work to lower the cost of living, bring back jobs and businesses, and address homelessness and addiction.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "The Drazan Plan will: · Lower the cost of living · Bring back jobs and businesses · Break the cycle of homelessness and addiction"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "background": [
+            {
+              "text": "Lists occupation as State Senator.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "Occupation: State Senator"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists occupational background as State Representative and Executive Director.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "Occupational Background: State Representative; Executive Director"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists educational background as George Fox University, BA.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "Educational Background: George Fox University, BA"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists prior governmental experience as House Republican Leader, Oregon Innovation Council, and Clackamas County Planning Commission.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "Prior Governmental Experience: House Republican Leader; Oregon Innovation Council; Clackamas County Planning Commission"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [
+            {
+              "text": "Lists endorsements from the Revitalize Portland Coalition and Oregonians for Food & Shelter.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+                  "quote": "Revitalize Portland Coalition\nOregonians for Food & Shelter"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "furnished_by": "Friends of Christine Drazan.",
+          "funding": null,
+          "doc": "book4",
+          "pages": [
+            35
+          ],
+          "checks": {
+            "dropped": [
+              {
+                "section": "summary",
+                "text": "Says Drazan will restore graduation requirements, fix schools, and audit spending.",
+                "quote": "The Drazan Plan will: · Restore graduation requirements and fix our schools · Audit spending and deliver results",
+                "reason": "quote not found on cited page (best match 85%)"
+              },
+              {
+                "section": "endorsements",
+                "text": "Lists endorsements from the Union Contractor Group and Associated General Contractors Oregon-Columbia Chapter.",
+                "quote": "Union Contractor Group\nAssociated General Contractors Oregon-Columbia Chapter",
+                "reason": "quote not found on cited page (best match 81%)"
+              },
+              {
+                "section": "endorsements",
+                "text": "text\": \"Lists endorsements from Oregon's Sheriffs and the Oregon Coalition of Police & Sheriffs.\"",
+                "quote": "Oregon’s Sheriffs\nOregon Coalition of Police & Sheriffs",
+                "reason": "quote not found on cited page (best match 78%)"
+              },
+              {
+                "section": "endorsements",
+                "text": "Lists endorsements from the Oregon Farm Bureau and Oregon Nurseries' PAC.",
+                "quote": "Oregon Farm Bureau\nOregon Nurseries’ PAC",
+                "reason": "quote not found on cited page (best match 78%)"
+              },
+              {
+                "section": "endorsements",
+                "text": "Lists endorsements from the Oregon Small Business Association and Defend Small Business PAC.",
+                "quote": "Oregon Small Business Association\nDefend Small Business PAC",
+                "reason": "quote not found on cited page (best match 75%)"
+              }
+            ],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "relocation": {
+            "from": "book4",
+            "to": "book4",
+            "found": 0,
+            "missed": 0
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=35",
+          "verify_label": "p. 35"
+        }
+      ]
+    },
+    {
+      "id": "us-rep-4",
+      "name": "US Representative, 4th District",
+      "type": "candidates",
+      "district_label": null,
+      "ranked_choice": false,
+      "items": [
+        {
+          "id": "us-rep-4/monique-despain",
+          "type": "candidate",
+          "name": "Monique DeSpain",
+          "contest": "US Representative, 4th District",
+          "ballot_party_label": "Republican, Libertarian",
+          "ballot_order": 1,
+          "statement_filed": true,
+          "summary": [
+            {
+              "text": "Says DeSpain will support expanding shelter and treatment access to address homelessness, addiction, and mental illness.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 32,
+                  "page_label": "p. 32",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=32",
+                  "quote": "expanding shelter and treatment access"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "background": [
+            {
+              "text": "Says DeSpain is an attorney.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 32,
+                  "page_label": "p. 32",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=32",
+                  "quote": "Occupation: Attorney"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [
+            {
+              "text": "Lists endorsements from small independent business owners, farmers, and veterans.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 32,
+                  "page_label": "p. 32",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=32",
+                  "quote": "Small Independent Business Owners Farmers Veterans"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "furnished_by": "Monique DeSpain",
+          "funding": null,
+          "doc": "book4",
+          "pages": [
+            32
+          ],
+          "checks": {
+            "dropped": [],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "relocation": {
+            "from": "book4",
+            "to": "book4",
+            "found": 0,
+            "missed": 0
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=32",
+          "verify_label": "p. 32"
+        },
+        {
+          "id": "us-rep-4/val-hoyle",
+          "type": "candidate",
+          "name": "Val Hoyle",
+          "contest": "US Representative, 4th District",
+          "ballot_party_label": "Democrat, Working Families",
+          "ballot_order": 2,
+          "statement_filed": true,
+          "summary": [
+            {
+              "text": "Says Hoyle is working to expand Social Security and Medicare and protect them from cuts.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+                  "quote": "expand Social Security and Medicare and protect them from devastating cuts"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "background": [
+            {
+              "text": "Lists Hoyle's occupation as US Congresswoman.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+                  "quote": "Occupation: US Congresswoman"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [
+            {
+              "text": "Lists endorsements from US Senator Ron Wyden, US Senator Jeff Merkley, and Congressman Peter DeFazio.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+                  "quote": "PROUDLY ENDORSED BY:"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "furnished_by": "Friends of Val Hoyle",
+          "funding": null,
+          "doc": "book4",
+          "pages": [
+            33
+          ],
+          "checks": {
+            "dropped": [],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "relocation": {
+            "from": "book4",
+            "to": "book4",
+            "found": 0,
+            "missed": 0
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+          "verify_label": "p. 33"
+        },
+        {
+          "id": "us-rep-4/justin-filip",
+          "type": "candidate",
+          "name": "Justin Filip",
+          "contest": "US Representative, 4th District",
+          "ballot_party_label": "Pacific Green, Progressive",
+          "ballot_order": 3,
+          "statement_filed": true,
+          "summary": [
+            {
+              "text": "Says Filip will represent people whose interests are neglected by the government.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+                  "quote": "I will be a voice in Congress for those whose interests are often neglected by our government."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "In their statement: “I will put people, the planet, and peace before the interests of the wealthy and powerful.”",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+                  "quote": "I will put people, the planet, and peace before the interests of the wealthy and powerful."
+                }
+              ],
+              "loaded_terms": [
+                "wealthy and powerful"
+              ]
+            },
+            {
+              "text": "Says Filip will oppose those who pollute the environment for profit.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+                  "quote": "I will be a leader who stands up to those who exploit and pollute the environment in pursuit of profit."
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "background": [
+            {
+              "text": "Lists occupation as Statistician.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+                  "quote": "Occupation: Statistician"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists occupational background as Guest Teacher.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+                  "quote": "Occupational Background: Guest Teacher"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists educational background as University of Oregon, Bachelor of Science in Psychology.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+                  "quote": "Educational Background: University of Oregon, Bachelor of Science in Psychology"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists prior governmental experience as None.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+                  "quote": "Prior Governmental Experience: None"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [],
+          "furnished_by": "Justin Filip for Congress.",
+          "funding": null,
+          "doc": "book4",
+          "pages": [
+            33
+          ],
+          "checks": {
+            "dropped": [],
+            "flagged": [
+              {
+                "section": "summary",
+                "text": "Says Filip will prioritize people, the planet, and peace over the interests of the wealthy and powerful.",
+                "loaded_terms": [
+                  "wealthy and powerful"
+                ],
+                "replaced_with": "In their statement: “I will put people, the planet, and peace before the interests of the wealthy and powerful.”"
+              }
+            ],
+            "corrected": [],
+            "capped": []
+          },
+          "relocation": {
+            "from": "book4",
+            "to": "book4",
+            "found": 0,
+            "missed": 0
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+          "verify_label": "p. 33"
+        }
+      ]
+    },
+    {
+      "id": "eugene-ward-3",
+      "name": "Eugene City Council, Ward 3",
+      "type": "candidates",
+      "district_label": "Ward 3 voters only",
+      "ranked_choice": false,
+      "items": [
+        {
+          "id": "eugene-ward-3/jennifer-smith",
+          "type": "candidate",
+          "name": "Jennifer Smith",
+          "contest": "Eugene City Council, Ward 3",
+          "ballot_party_label": "Nonpartisan",
+          "ballot_order": 1,
+          "statement_filed": true,
+          "summary": [
+            {
+              "text": "Says Smith will advocate for more affordable housing and protections for renters to address homelessness.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 52,
+                  "page_label": "p. 52",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+                  "quote": "I’ll push to build vastly more affordable housing and remove barriers for denser units; Second, I’ll champion protections for vulnerable renters"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Smith will support the Eugene Clean Energy Fund ballot initiative to lower energy costs for families.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 52,
+                  "page_label": "p. 52",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+                  "quote": "I will support the implementation of the Eugene Clean Energy Fund ballot initiative, which will help to reduce energy costs for families"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "text own's own",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 52,
+                  "page_label": "p. 52",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+                  "quote": "I will fight back against these unconstitutional attacks on immigrants, LGBTQ+ people, and other vulnerable residents"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "background": [
+            {
+              "text": "Lists Smith's occupation as Project Coordinator and Union President.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 52,
+                  "page_label": "p. 52",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+                  "quote": "Occupation: Project Coordinator, Union President"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Smith's occupational background as UO Labor Education Research Center Coordinator and Los Angeles County Transportation Planner.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 52,
+                  "page_label": "p. 52",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+                  "quote": "Occupational Background: UO Labor Education Research Center Coordinator; Los Angeles County Transportation Planner."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Smith's educational background as MA-Public Administration from the University of Oregon and MA-Urban Planning from UCLA.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 52,
+                  "page_label": "p. 52",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+                  "quote": "Educational Background: MA-Public Administration, University of Oregon; MA-Urban Planning, UCLA."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Smith's prior governmental experience with the Oregon Higher Education Coordinating Commission, Eugene Permanent Shelter Task Force, and Lane Transit District Budget Committee.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 52,
+                  "page_label": "p. 52",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+                  "quote": "Prior Governmental Experience: Oregon Higher Education Coordinating Commission; Eugene Permanent Shelter Task Force; Lane Transit District Budget Committee."
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [
+            {
+              "text": "Lists endorsements from several City Councilors and Mayors.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 52,
+                  "page_label": "p. 52",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+                  "quote": "City Councilor Alan Zelenka City Councilor Jennifer Yeh City Councilor Lyndsie Leech City Councilor Matt Keating City Councilor Eliza Kashinsky Mayor Kaarin Knudson Former Mayor Kitty Piercy Former Mayor Lucy Vinis"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from the Democratic Party of Lane County and Working Families Party.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 52,
+                  "page_label": "p. 52",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+                  "quote": "Democratic Party of Lane County Working Families Party"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from the Oregon Sierra Club and Oregon League of Conservation Voters.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 52,
+                  "page_label": "p. 52",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+                  "quote": "Oregon Sierra Club Oregon League of Conservation Voters"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "text own's own",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 52,
+                  "page_label": "p. 52",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+                  "quote": "Lane County Central Labor Chapter SEIU Oregon CWA 7901 AFSCME 1724 North Coast States Carpenters Union SMART Local 16"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsement from the Eugene Tenant Alliance.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 52,
+                  "page_label": "p. 52",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+                  "quote": "Eugene Tenant Alliance"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "furnished_by": "Jenn for Eugene.",
+          "funding": null,
+          "doc": "book4",
+          "pages": [
+            52
+          ],
+          "checks": {
+            "dropped": [],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=52",
+          "verify_label": "p. 52"
+        }
+      ]
+    },
+    {
+      "id": "eugene-ward-4",
+      "name": "Eugene City Council, Ward 4",
+      "type": "candidates",
+      "district_label": "Ward 4 voters only",
+      "ranked_choice": false,
+      "items": [
+        {
+          "id": "eugene-ward-4/jennifer-yeh",
+          "type": "candidate",
+          "name": "Jennifer Yeh",
+          "contest": "Eugene City Council, Ward 4",
+          "ballot_party_label": "Nonpartisan",
+          "ballot_order": 1,
+          "statement_filed": false,
+          "summary": [],
+          "background": [],
+          "endorsements": [],
+          "furnished_by": null,
+          "funding": null,
+          "doc": "book4",
+          "pages": [],
+          "checks": {
+            "dropped": [],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+          "verify_label": null
+        }
+      ]
+    },
+    {
+      "id": "eugene-ward-5",
+      "name": "Eugene City Council, Ward 5",
+      "type": "candidates",
+      "district_label": "Ward 5 voters only",
+      "ranked_choice": false,
+      "items": [
+        {
+          "id": "eugene-ward-5/mike-clark",
+          "type": "candidate",
+          "name": "Mike Clark",
+          "contest": "Eugene City Council, Ward 5",
+          "ballot_party_label": "Nonpartisan",
+          "ballot_order": 1,
+          "statement_filed": true,
+          "summary": [
+            {
+              "text": "Says Clark intends to represent the families, workers, employers, and neighborhoods of Ward 5.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "represent the families, workers, employers, and neighborhoods of Ward 5"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "background": [
+            {
+              "text": "Lists Clark's occupation as a City Councilor and Mortgage Loan Specialist.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Occupation: City Councilor; Mortgage Loan Specialist"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Clark's occupational background as a Marketing Executive.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Occupational Background: Marketing Executive"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Clark's educational background as a University of Oregon, BS, Political Science.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "University of Oregon, BS, Political Science"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Clark's prior governmental experience including City Councilor, Budget Committee, and Police Commission.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Prior Governmental Experience: City Councilor; Budget Committee; Police Commission"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [
+            {
+              "text": "Lists endorsements from Cal Young Neighborhood Association, various labor unions, and the Eugene Area Chamber of Commerce.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "WE SUPPORT MIKE! Jackson Kellogg, Chair of the Cal Young Neighborhood Association United Association of Plumbers and Steamfitters, Local 290 Lane Professional Firefighters, IAFF Local 851 Eugene Police Employees Association LCCD Building Trades Council North Coast Carpenters Union Western Oregon Builders Association Eugene Area Chamber of Commerce"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "furnished_by": "Friends of Mike Clark",
+          "funding": null,
+          "doc": "book4",
+          "pages": [
+            53
+          ],
+          "checks": {
+            "dropped": [],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+          "verify_label": "p. 53"
+        },
+        {
+          "id": "eugene-ward-5/athena-aguiar",
+          "type": "candidate",
+          "name": "Athena Aguiar",
+          "contest": "Eugene City Council, Ward 5",
+          "ballot_party_label": "Nonpartisan",
+          "ballot_order": 2,
+          "statement_filed": true,
+          "summary": [
+            {
+              "text": "Says Aguiar wants to fully fund crisis response services similar to CAHOOTs.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Fully Fund CAHOOTs-like Crisis Response Service"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Aguiar supports building affordable housing.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Support Building Affordable Housing"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Aguiar wants to preserve funding for libraries and public services.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Preserve funding for Libraries and Public Services"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "background": [
+            {
+              "text": "Says Aguiar is an environmental activist and organizer.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Occupation: Environmental Activist, Organizer"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Aguiar's occupational background is environmental restoration technician.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "الenvironmental Restoration Technician"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Aguiar has a B.A. in Biology from Coe College.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Educational Background: B.A. in Biology, Coe College"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Aguiar has experience on the Eugene Library Advisory Board and the Eugene Library, Cultural, and Recreational Services Working Group.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Prior Governmental Experience: Eugene Library Advisory Board and Eugene Library, Cultural, and Recreational Services Working Group"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [
+            {
+              "text": "Lists endorsements from the Democratic Party of Lane County and the Working Families Party.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Democratic Party of Lane County Democratic Municipal Officials Working Families Party"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from the Sierra Club and the Lane County Central Labor Chapter.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Sierra Club Lane County Central Labor Chapter, Oregon Labor Federation"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from the American Federation of Teachers - Oregon and SEIU Oregon.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "American Federation of Teachers - Oregon AFSCME Local 1724 SEIU Oregon"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from Eugene Mayors Kitty Piercy and Lucy Vinis.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Eugene Mayors Kitty Piercy and Lucy Vinis"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from Eugene City Councilors Matt Keating, Lyndsie Leech, and Jennifer Yeh.",
+              "citations": [
+                {
+                  "doc": "book4",
+                  "page": 53,
+                  "page_label": "p. 53",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+                  "quote": "Eugene City Councilors Matt Keating, Lyndsie Leech, and Jennifer Yeh"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "furnished_by": "Committee to Elect Athena Aguiar",
+          "funding": null,
+          "doc": "book4",
+          "pages": [
+            53
+          ],
+          "checks": {
+            "dropped": [],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+          "verify_label": "p. 53"
+        }
+      ]
+    },
+    {
+      "id": "eugene-ward-6",
+      "name": "Eugene City Council, Ward 6",
+      "type": "candidates",
+      "district_label": "Ward 6 voters only",
+      "ranked_choice": false,
+      "items": [
+        {
+          "id": "eugene-ward-6/greg-evans",
+          "type": "candidate",
+          "name": "Greg Evans",
+          "contest": "Eugene City Council, Ward 6",
+          "ballot_party_label": "Nonpartisan",
+          "ballot_order": 1,
+          "statement_filed": false,
+          "summary": [],
+          "background": [],
+          "endorsements": [],
+          "furnished_by": null,
+          "funding": null,
+          "doc": "book4",
+          "pages": [],
+          "checks": {
+            "dropped": [],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "source": {
+            "doc": "book4",
+            "title": "State Voters' Pamphlet, Lane County edition (Book 4)",
+            "publisher": "Oregon Secretary of State"
+          },
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+          "verify_label": null
+        }
+      ]
+    },
+    {
+      "id": "measure-20-388",
+      "name": "Measure 20-388: City of Eugene",
+      "type": "measure",
+      "district_label": null,
+      "ranked_choice": false,
+      "items": [
+        {
+          "id": "measure-20-388",
+          "type": "measure",
+          "measure_number": "20-388",
+          "jurisdiction": "City of Eugene",
+          "caption": "Licensure of Large Retailers to Finance a Clean Energy Fund",
+          "question": "Shall voters adopt ordinance imposing on large retailers a licensing requirement and 2% fee to finance a clean energy fund?",
+          "summary": [
+            {
+              "text": "If approved, the ordinance would require large retailers to get a license and pay a 2% fee on gross profits from retail sales in Eugene.",
+              "citations": [
+                {
+                  "doc": "lane_ballot",
+                  "page": 10,
+                  "page_label": "p. 10",
+                  "url": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf#page=10",
+                  "quote": "require large retailers to obtain a license and pay an annual 2% license fee on gross profits from retail sales within the City."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "The ordinance defines ",
+              "citations": [
+                {
+                  "doc": "lane_ballot",
+                  "page": 10,
+                  "page_label": "p. 10",
+                  "url": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf#page=10",
+                  "quote": "large retailer"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "If approved, the ordinance would place fee proceeds into a Eugene Clean Energy Fund for renewable energy, efficiency, programs, and job training.",
+              "citations": [
+                {
+                  "doc": "lane_ballot",
+                  "page": 10,
+                  "page_label": "p. 10",
+                  "url": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf#page=10",
+                  "quote": "dedicated to funding renewable energy and energy efficiency programs; clean energy job training, apprenticeships, and contractor support;"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "An expert committee would be required to recommend fund use, evaluate effectiveness, and ensure work is done by historically disadvantaged groups.",
+              "citations": [
+                {
+                  "doc": "lane_ballot",
+                  "page": 10,
+                  "page_label": "p. 10",
+                  "url": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf#page=10",
+                  "quote": "require an expert committee to recommend use of funds, evaluate effectiveness of fund, and ensure work funded is is performed by historically disadvantaged groups."
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "arguments_filed": {
+            "for": 0,
+            "against": 0
+          },
+          "filers": {
+            "for": [],
+            "against": []
+          },
+          "for": [],
+          "against": [],
+          "no_arguments_note": "No arguments were filed in an official voters' pamphlet. Lane County does not publish a county voters' pamphlet.",
+          "doc": "lane_ballot",
+          "pages": [
+            10
+          ],
+          "checks": {
+            "dropped": [],
+            "flagged": [],
+            "corrected": [],
+            "capped": []
+          },
+          "source": {
+            "doc": "lane_ballot",
+            "title": "Lane County Proof Ballot Content, Nov 3, 2026",
+            "publisher": "Lane County Elections"
+          },
+          "verify_url": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf#page=10",
+          "verify_label": "p. 10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "us-senator/chris-henry",
+  "prompt_hashes": {
+    "candidate": "8045a5b611ad3939"
+  },
+  "models": {
+    "candidate": "gemma-4-31b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Says Henry supports working people, publicly-funded education, workplace safety, campaign finance reform, and the environment.",
+        "quote": "I support working people, publicly-funded education from pre-K to trade guilds and higher education, strong workplace safety, real campaign finance reform, and protecting the environment and climate.",
+        "page": 31
+      },
+      {
+        "text": "Says Henry wants to cut military spending and end wars.",
+        "quote": "CUT MASSIVE U.$. MILITARY\nEnd Pointless Wars.",
+        "page": 31
+      },
+      {
+        "text": "text own",
+        "quote": "HIGHER WAGES, BETTER WORKING CONDITIONS, LOWER PRICES",
+        "page": 31
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists occupation as Working Class Truck Driver.",
+        "quote": "Occupation: Working Class Truck Driver",
+        "page": 31
+      },
+      {
+        "text": "Lists occupational background as LongHaul Trucker, UAW Aircraft Mechanic at Rockwell, McDonnell Douglas.",
+        "quote": "Occupational Background:\nLongHaul Trucker, UAW Aircraft Mechanic at Rockwell, McDonnell Douglas",
+        "page": 31
+      },
+      {
+        "text": "Lists educational background as UAW Trade School, Portland State University.",
+        "quote": "Educational Background: UAW Trade School, Portland State University",
+        "page": 31
+      },
+      {
+        "text": "Lists no prior governmental experience.",
+        "quote": "Prior Governmental Experience: n/a",
+        "page": 31
+      },
+      {
+        "text": "Lists civic leadership as boards for Oregon Consumer League, Oregon Voter Rights Coalition, Willamette Neighborhood Association, and as a shop steward and union organizer.",
+        "quote": "Civic Leadership: Boards: Oregon Consumer League; Oregon Voter Rights Coalition, Willamette Neighborhood Association; Shop Steward and Union Organizer",
+        "page": 31
+      }
+    ],
+    "endorsements": [],
+    "furnished_by": "Chris Henry"
+  }
+}

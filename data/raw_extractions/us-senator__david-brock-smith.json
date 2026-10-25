@@ -1,0 +1,52 @@
+{
+  "id": "us-senator/david-brock-smith",
+  "prompt_hashes": {
+    "candidate": "3de7b95de0183ea6"
+  },
+  "models": {
+    "candidate": "gemma-4-26b-a4b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Says Smith will work to make Oregon affordable by incentivizing job growth and supporting small businesses.",
+        "quote": "incentivize job growth in our communities, supporting local small businesses.",
+        "page": 30
+      },
+      {
+        "text": "Says Smith will fight for drug and mental health treatment and accountability to end permanent street camping.",
+        "quote": "David has and will continue to fight for treatment and accountability, and bring an end to permanent street camping.",
+        "page": 30
+      },
+      {
+        "text": "making Smith will ensure data centers are accountable and protect natural resources to prevent cost shifts to households.",
+        "quote": "David will ensure data centers are accountable, protect natural resources, and prevent their costs from being shifted onto Oregon households.",
+        "page": 30
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists Smith's occupation as State Senator and Small Business Owner.",
+        "quote": "Occupation: State Senator, Small Business Owner",
+        "page": 30
+      },
+      {
+        "text": "Lists Smith's occupational background as State Representative, County Commissioner, Small Business Owner/Business Manager, and Director-Economic Development.",
+        "quote": "List's occupational background as State Representative, County Commissioner, Small Business Owner/Business Manager, Director-Economic Development",
+        "page": 30
+      },
+      {
+        "text": "text-only: text-only: text-only: text-|und-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Committees, Senate-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Legislative Sportsmen's Caucus/Wine Caucus",
+        "quote": "Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Communities, Senate-Dir-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Making-Legislative Sportsmen's Caucus/Wine Caucus",
+        "page": 30
+      },
+      {
+        "text": "Lists Smith'--|und-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Resources, Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Preventing-Data-Centers-Driving-Up-Costs-David-Smith-Smith-Smith-Smith-Smith-Education-Education-Education-Education-Education-Education-Education-More-Information-www.DavidBrockSmithforOregon.com-www.Education-OregonLegislature.com/SmithD",
+        "quote": "Educational Background: Pacific High School, SOCC, SOU",
+        "page": 30
+      }
+    ],
+    "endorsements": [],
+    "furnished_by": "David Brock Smith for Oregon"
+  }
+}

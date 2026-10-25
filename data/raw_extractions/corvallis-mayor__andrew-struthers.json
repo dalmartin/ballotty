@@ -1,0 +1,48 @@
+{
+  "id": "corvallis-mayor/andrew-struthers",
+  "prompt_hashes": {
+    "candidate": "e5dcc13d3c46e5bc"
+  },
+  "models": {
+    "candidate": "gemma-4-26b-a4b-it"
+  },
+  "candidate": {
+    "summary": [
+      {
+        "text": "Says Struthers will support workers and unions, advocate for job growth, and lobby the state legislature.",
+        "quote": "support workers and unions in Corvallis, advocate for policies that will spur job growth, and lobby the state legislature",
+        "page": 13
+      }
+    ],
+    "background": [
+      {
+        "text": "Lists Struthers's occupation as an Information Technology Consultant at OSU.",
+        "quote": "Occupation: Information Technology Consultant, OSU",
+        "page": 13
+      },
+      {
+        "text": "Lists Struthers's occupational background as N/A.",
+        "quote": "Occupational Background: N/A",
+        "page": 13
+      },
+      {
+        "text": "Lists Struthers's education background as a BS in Finance and Business Information Systems from OSU.",
+        "quote": "eucation Background: BS in Finance and Business Information Systems; OSU",
+        "page": 13
+      },
+      {
+        "text": "Lists Struthers's prior governmental experience as a current Benton County Planning Commissioner and former Corvallis City Councilor and Council Vice-President.",
+        "quote": "Prior Governmental Experience: Current Benton County Planning Commissioner, Former Corvallis City Councilor and Council Vice-President",
+        "page": 13
+      }
+    ],
+    "endorsements": [
+      {
+        "text": "Lists endorsements from Julie Manning, Jan Napack, Laurie Chaplen, Stewart Wershow, Cascades to Coast, Oregon Labor Federation (AFL-CIO), and SEIU Oregon.",
+        "quote": "Julie Manning, Former Corvallis Mayor Jan Napack, Corvallis City Councilor Laurie Chaplen, Former Corvallis City Councilor Stewart Wershow, Former Corvallis City Councilor Cascades to Coast, Oregon Labor Federation (AFL-CIO) SEIU Oregon",
+        "page": 13
+      }
+    ],
+    "furnished_by": "Committee to Elect Struthers (ORESTAR ID# 19448)"
+  }
+}
