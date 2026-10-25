@@ -17,7 +17,8 @@
       ],
       "flagged": [],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 2
     },
     "us-senator/jeff-merkley": {
       "dropped": [
@@ -30,7 +31,8 @@
       ],
       "flagged": [],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 1
     },
     "us-senator/gary-lyndon-dye": {
       "dropped": [],
@@ -42,7 +44,8 @@
       "dropped": [],
       "flagged": [],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 1
     },
     "governor/brett-smith": {
       "dropped": [
@@ -55,13 +58,15 @@
       ],
       "flagged": [],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 4
     },
     "governor/tina-kotek": {
       "dropped": [],
       "flagged": [],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 1
     },
     "governor/christine-drazan": {
       "dropped": [],
@@ -73,7 +78,8 @@
       "dropped": [],
       "flagged": [],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 1
     },
     "us-rep-4/val-hoyle": {
       "dropped": [
@@ -160,7 +166,8 @@
       "dropped": [],
       "flagged": [],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 3
     },
     "eugene-ward-5/athena-aguiar": {
       "dropped": [
@@ -185,7 +192,8 @@
       ],
       "flagged": [],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 1
     },
     "eugene-ward-6/greg-evans": {
       "dropped": [],
@@ -210,13 +218,15 @@
       "dropped": [],
       "flagged": [],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 1
     },
     "corvallis-mayor/kimi-gatherum": {
       "dropped": [],
       "flagged": [],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 3
     },
     "corvallis-mayor/charles-maughan": {
       "dropped": [
@@ -229,7 +239,8 @@
       ],
       "flagged": [],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 2
     },
     "corvallis-mayor/kasey-haxton": {
       "dropped": [],
@@ -257,7 +268,8 @@
         }
       ],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 4
     },
     "us-rep-3/maxine-e-dexter": {
       "dropped": [],
@@ -320,7 +332,8 @@
         }
       ],
       "corrected": [],
-      "capped": []
+      "capped": [],
+      "short_rejected": 3
     }
   }
 }

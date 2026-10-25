@@ -175,6 +175,50 @@ def apply_loaded_pass(item, log):
         log["flagged"].append({"section": section, "text": original, "loaded_terms": terms[i], "replaced_with": b["text"]})
 
 
+def apply_brief(item, log):
+    """Short, scannable version of each verified sentence (+ topic tags for candidates).
+    A short line must carry no name, number or loaded word that its sentence's quote doesn't."""
+    sections = ["summary", "background"] if item["type"] == "candidate" else ["summary", "for", "against"]
+    bullets = [(s, b) for s in sections for b in item.get(s, [])]
+    if not bullets:
+        return
+    texts = [b["text"] for _, b in bullets]
+    prompt = gemma.brief_prompt(texts, with_topics=item["type"] == "candidate")
+    cache = EXTRACTIONS / (item["id"].replace("/", "__") + ".brief.json")
+    if cache.exists() and read_json(cache).get("hash") == gemma.key(prompt):
+        lines = read_json(cache)["lines"]
+    else:
+        try:
+            out, _model = gemma.generate(prompt, gemma.BriefOut)
+        except RuntimeError as e:  # short lines are optional: the UI falls back to the full verified sentence
+            print(f"  brief skipped for {item['id']}: {str(e)[:120]}")
+            for _, b in bullets:
+                b["short"], b["topics"] = None, []
+            return
+        lines = [line.model_dump() for line in out.lines]
+        write_json(cache, {"hash": gemma.key(prompt), "lines": lines})
+    by_index = {line["index"]: line for line in lines}
+    ignore = [item["name"]] if item["type"] == "candidate" else []
+    for i, (section, b) in enumerate(bullets):
+        line = by_index.get(i)
+        b["short"], b["topics"] = None, []
+        if not line:
+            continue
+        quote = " ".join(c["quote"] for c in b["citations"])
+        short = line["short"].strip().rstrip(".")
+        loaded = [w for w in WORDLIST if re.search(rf"\b{re.escape(w)}\b", short, re.I)]
+        # The sentence-initial capital is not a name; every other capitalized word must be in the quote.
+        checkable = short[:1].lower() + short[1:]
+        stems = lambda t: {w[:5] for w in re.findall(r"[a-z]{4,}", t.lower())}  # noqa: E731
+        unrelated = not (stems(short) & stems(b["text"] + " " + quote))
+        if not short or "_" in short or unrelated or len(short.split()) > 10 or not names_ok(checkable, quote, ignore) or not numbers_ok(short, quote) or loaded:
+            log["short_rejected"] = log.get("short_rejected", 0) + 1
+        else:
+            b["short"] = short
+        if section == "summary" and item["type"] == "candidate":
+            b["topics"] = [t for t in line["topics"] if t in gemma.TOPICS and t != "Other"][:2]
+
+
 def build_candidate(config, seg, raw):
     log = {"dropped": [], "flagged": [], "corrected": [], "capped": []}
     item = {k: seg[k] for k in ("id", "type", "name", "contest", "ballot_party_label", "ballot_order", "statement_filed")}
@@ -186,6 +230,7 @@ def build_candidate(config, seg, raw):
         fb = c["furnished_by"].strip()
         item["furnished_by"] = fb if fb and any(normalize(fb) in norm_page(seg["doc"], n) for n in seg["pages"]) else None
         apply_loaded_pass(item, log)
+        apply_brief(item, log)
     item["checks"] = log
     return item
 
@@ -207,6 +252,7 @@ def build_measure(config, seg, raw):
         "doc": seg["doc"], "pages": seg["title_pages"],
     }
     apply_loaded_pass(item, log)
+    apply_brief(item, log)
     item["checks"] = log
     return item
 

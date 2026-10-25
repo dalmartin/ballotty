@@ -1,0 +1,55 @@
+{
+  "hash": "f1f5b0ced2ddbbd5",
+  "lines": [
+    {
+      "index": 0,
+      "short": "Believes libraries prevent more crime than jails",
+      "topics": [
+        "Public safety"
+      ]
+    },
+    {
+      "index": 1,
+      "short": "Believes resource waste in difficult situations",
+      "topics": [
+        "Public safety",
+        "Taxes & budget"
+      ]
+    },
+    {
+      "index": 2,
+      "short": "Believes written text has errors",
+      "topics": [
+        "Other"
+      ]
+    },
+    {
+      "index": 3,
+      "short": "Sales Associate at Ross Dress for Less",
+      "topics": [
+        "Jobs & economy"
+      ]
+    },
+    {
+      "index": 4,
+      "short": "short_error",
+      "topics": [
+        "Other"
+      ]
+    },
+    {
+      "index": 5,
+      "short": "short_error",
+      "topics": [
+        "Other"
+      ]
+    },
+    {
+      "index": 6,
+      "short": "Prior governmental experience in DHS and Hawaii Health",
+      "topics": [
+        "Government accountability"
+      ]
+    }
+  ]
+}

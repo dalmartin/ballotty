@@ -173,6 +173,41 @@ Each theme:
 A theme may only cite arguments that actually make that point."""
 
 
+# Fixed topic list: every candidate is tagged from the same vocabulary, so the compare view is symmetric.
+TOPICS = [
+    "Housing", "Cost of living", "Homelessness", "Healthcare", "Education", "Childcare", "Public safety",
+    "Jobs & economy", "Small business", "Taxes & budget", "Government accountability", "Environment & energy",
+    "Transportation", "Infrastructure", "Civil rights", "Reproductive rights", "Labor & workers", "Immigration",
+    "Agriculture & rural", "Veterans", "Seniors & Social Security", "Elections & democracy", "Other",
+]
+
+
+class BriefLine(BaseModel):
+    index: int
+    short: str
+    topics: list[str]
+
+
+class BriefOut(BaseModel):
+    lines: list[BriefLine]
+
+
+def brief_prompt(sentences, with_topics):
+    listing = "\n".join(f"{i}. {t}" for i, t in enumerate(sentences))
+    topic_rule = (
+        f"- topics: 1 or 2 topics for that sentence, chosen ONLY from this list: {', '.join(TOPICS)}."
+        if with_topics else "- topics: always an empty list."
+    )
+    return f"""Below are numbered, verified sentences condensed from an official voters' pamphlet.
+
+{listing}
+
+For EACH sentence return one line:
+- index: the sentence number.
+- short: the same point in at most 8 plain words, for a quick-scan list. Keep only facts in that sentence; do not add anything. Drop "Says"/"Lists"/"If approved, the measure would" and start with a verb or noun (e.g. "Audit the state tax code", "Former State Senator"). Keep any numbers exactly. No evaluative or emotional words.
+{topic_rule}"""
+
+
 def loaded_prompt(bullets):
     listing = "\n".join(f"{i}. {b}" for i, b in enumerate(bullets))
     return f"""Check these summary bullets for loaded language: words or phrases that are emotionally charged, evaluative, or partisan characterizations rather than neutral description (examples: radical, extreme, disastrous, common-sense, failed, reckless, heroic, corrupt, job-killing, giveaway).

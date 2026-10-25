@@ -1,0 +1,51 @@
+{
+  "hash": "b025a20e848d519a",
+  "lines": [
+    {
+      "index": 0,
+      "short": "Seek a full audit of systems and tax code",
+      "topics": [
+        "Taxes & budget",
+        "Government accountability"
+      ]
+    },
+    {
+      "index": 1,
+      "short": "Advocate for healthcare for all",
+      "topics": [
+        "Healthcare"
+      ]
+    },
+    {
+      "index": 2,
+      "short": "0. Says Smith will seek a permanent moratorium on data centers.",
+      "topics": [
+        "Environment & energy",
+        "Other"
+      ]
+    },
+    {
+      "index": 3,
+      "short": "Lists Smith's occupation as an inventor, small business owner, welder, and fabric                ator",
+      "topics": [
+        "Small business",
+        "Jobs & economy"
+      ]
+    },
+    {
+      "index": 4,
+      "short": "Lists Smith's educational background as Toromont Energy Welding Apprenticeship, with over a decade of experience with regulatory compliance for the FDA and USPTO",
+      "topics": [
+        "Labor & workers",
+        "Other"
+      ]
+    },
+    {
+      "index": 5,
+      "short": "short",
+      "topics": [
+        "Other"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "hash": "c105dabdbc981c8e",
+  "lines": [
+    {
+      "index": 0,
+      "short": "Raised minimum wage, paid family leave, health insurance",
+      "topics": [
+        "Labor & workers",
+        "Healthcare"
+      ]
+    },
+    {
+      "index": 1,
+      "short": "Reducing red tape for affordable homes",
+      "topics": [
+        "Housing"
+      ]
+    },
+    {
+      "index": 2,
+      "short": "short_error",
+      "topics": [
+        "Education",
+        "Childcare"
+      ]
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "name": "Eugene",
   "county": "Lane County",
   "coverage_note": "Lane County does not publish a county voters' pamphlet. Local measures are taken from the county's official ballot content.",
-  "generated_at": "2026-10-25T22:59:42+00:00",
+  "generated_at": "2026-10-25T23:25:13+00:00",
   "sources": [
     {
       "doc": "book4",
@@ -50,7 +50,12 @@
                   "quote": "David has and will continue to fight for treatment and accountability, and bring an end to permanent street camping."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Fight for drug and mental health treatment",
+              "topics": [
+                "Healthcare",
+                "Public safety"
+              ]
             },
             {
               "text": "Says Smith will ensure data centers are accountable and protect natural resources to prevent costs from being shifted to households.",
@@ -63,7 +68,12 @@
                   "quote": "David will ensure data centers are accountable, protect natural resources, and prevent their costs from being shifted onto Oregon households."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Ensure data center accountability and resource protection",
+              "topics": [
+                "Government accountability",
+                "Environment & energy"
+              ]
             }
           ],
           "background": [
@@ -78,7 +88,9 @@
                   "quote": "Occupation: State Senator, Small Business Owner"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             },
             {
               "text": "Lists Smith's occupational background as a State Representative, County Commissioner, Small Business Owner/Business Manager, and Director-Economic Development.",
@@ -91,7 +103,9 @@
                   "quote": "Occupational Background: State Representative, County Commissioner, Small Business Owner/Business Manager, Director-Economic Development"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "State Representative, County Commissioner, and Business Manager",
+              "topics": []
             },
             {
               "text": "Lists Smith's educational background as Pacific High School, SOCC, and SOU.",
@@ -104,7 +118,9 @@
                   "quote": "Educational Background: Pacific High School, SOCC, SOU"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             },
             {
               "text": "Lists Smith's prior governmental experience as a Senator-Deputy Leader, State Representative-Assistant Leader, and various legislative committees and task forces.",
@@ -117,7 +133,9 @@
                   "quote": "Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade-Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches-Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Committees, Senate-Board Member-Oregon Infrastructure Finance Authority/Oregon Environmental Restoration Council, Co-Chair-Legislative Sportsmen's Caucus/Wine Caucus"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Senator-Deputy Leader and State Representative-Assistant Leader",
+              "topics": []
             }
           ],
           "endorsements": [],
@@ -138,7 +156,8 @@
             ],
             "flagged": [],
             "corrected": [],
-            "capped": []
+            "capped": [],
+            "short_rejected": 2
           },
           "relocation": {
             "from": "book4",
@@ -174,7 +193,11 @@
                   "quote": "No more stock trading; no more exchanging government favors for investments in Trump’s companies. The Supreme Court needs reform and a binding code of ethics."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "End political corruption through stock trading reform",
+              "topics": [
+                "Government accountability"
+              ]
             },
             {
               "text": "Says Merkley wants to transition from fossil fuels to renewable energy.",
@@ -187,7 +210,11 @@
                   "quote": "Rapidly transition from dirty, expensive fossils to cheaper, cleaner, renewables."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Transition from fossil fuels to renewable energy",
+              "topics": [
+                "Environment & energy"
+              ]
             },
             {
               "text": "Says Merkley wants to expand vote-by-mail and stop gerrymandering.",
@@ -200,7 +227,9 @@
                   "quote": "Stop gerrymandering. Require paper ballots. End secret campaign funding. Expand vote-by-mail."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             }
           ],
           "background": [
@@ -215,7 +244,9 @@
                   "quote": "Occupation: U.S. Senator for Oregon"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             },
             {
               "text": "Lists Merkley's occupational background as a National Security Analyst, Small Business Founder, and Habitat for Humanity.",
@@ -228,7 +259,9 @@
                   "quote": "Occupational Background: Habitat for Humanity; National Security Analyst; Small Business Founder"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             },
             {
               "text": "Lists Merkley's prior governmental experience as a State Representative and Oregon House Speaker.",
@@ -241,7 +274,9 @@
                   "quote": "Prior Governmental Experience: State Representative; Oregon House Speaker"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             }
           ],
           "endorsements": [
@@ -276,7 +311,8 @@
             ],
             "flagged": [],
             "corrected": [],
-            "capped": []
+            "capped": [],
+            "short_rejected": 1
           },
           "relocation": {
             "from": "book4",
@@ -347,7 +383,12 @@
                   "quote": "I support working people, publicly-funded education from pre-K to trade guilds and higher education, strong workplace safety, real campaign finance reform, and protecting the environment and climate."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Supports working people, education, safety, finance reform, environment",
+              "topics": [
+                "Labor & workers",
+                "Environment & energy"
+              ]
             },
             {
               "text": "Says Henry wants to end pointless wars and cut military spending.",
@@ -360,7 +401,9 @@
                   "quote": "CUT MASSIVE U.$. MILITARY\nEnd Pointless Wars."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "End wars and cut military spending",
+              "topics": []
             },
             {
               "text": "Says Henry supports Medicare for All and universal healthcare.",
@@ -373,7 +416,11 @@
                   "quote": "MEDICARE FOR ALL\nAll other 37 industrialized economies have universal healthcare."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Healthcare for All and universal healthcare",
+              "topics": [
+                "Healthcare"
+              ]
             }
           ],
           "background": [
@@ -388,7 +435,9 @@
                   "quote": "Occupation: Working Class Truck Driver"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Working Class Truck Driver",
+              "topics": []
             },
             {
               "text": "Lists Henry's occupational background as a LongHaul Trucker and UAW Aircraft Mechanic.",
@@ -401,7 +450,9 @@
                   "quote": "Occupational Background:\nLongHaul Trucker, UAW Aircraft\nMechanic at Rockwell, McDonnell\nDouglas"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "ShortHaul Trucker and UAW Aircraft Mechanic",
+              "topics": []
             },
             {
               "text": "Lists Henry's educational background as UAW Trade School and Portland State University.",
@@ -414,7 +465,9 @@
                   "quote": "Educational Background: UAW Trade School, Portland State\nUniversity"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             },
             {
               "text": "Lists Henry's prior governmental experience as n/a.",
@@ -427,7 +480,9 @@
                   "quote": "Prior Governmental Experience: n/a"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "No prior governmental experience",
+              "topics": []
             },
             {
               "text": "Lists Henry's civic leadership as boards for the Oregon Consumer League, Oregon Voter Rights Coalition, and Willamette Neighborhood Association.",
@@ -440,7 +495,9 @@
                   "quote": "Civic Leadership: Boards: Oregon Consumer League; Oregon\nVoter Rights Coalition, Willamette Neighborhood Association; Shop\nSteward and Union Organizer"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Boards for consumer, voter rights, and neighborhood association",
+              "topics": []
             }
           ],
           "endorsements": [],
@@ -454,7 +511,8 @@
             "dropped": [],
             "flagged": [],
             "corrected": [],
-            "capped": []
+            "capped": [],
+            "short_rejected": 1
           },
           "relocation": {
             "from": "book4",
@@ -499,7 +557,12 @@
                   "quote": "A full audit of our systems and tax code by independent contractors."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Seek a full audit of systems and tax code",
+              "topics": [
+                "Taxes & budget",
+                "Government accountability"
+              ]
             },
             {
               "text": "Says Smith will advocate for healthcare for all.",
@@ -512,7 +575,11 @@
                   "quote": "Healthcare for all."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Advocate for healthcare for all",
+              "topics": [
+                "Healthcare"
+              ]
             },
             {
               "text": "Says Smith will seek a permanent moratorium on data centers.",
@@ -525,7 +592,11 @@
                   "quote": "A permanent moratorium on data centers"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": [
+                "Environment & energy"
+              ]
             }
           ],
           "background": [
@@ -540,7 +611,9 @@
                   "quote": "Occupation: Inventor, Small Business Owner, Welder, Fabricator"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             },
             {
               "text": "Lists Smith's educational background as Toromont Energy Welding Apprenticeship, with over a decade of experience with regulatory compliance for the FDA and USPTO.",
@@ -553,7 +626,9 @@
                   "quote": "Toromont Energy Welding Apprenticeship, Over a decade of experience with regulatory compliance for the FDA and USPTO"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             },
             {
               "text": "Lists Smith has no prior governmental experience.",
@@ -566,7 +641,9 @@
                   "quote": "Prior Governmental Experience: None"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             }
           ],
           "endorsements": [],
@@ -587,7 +664,8 @@
             ],
             "flagged": [],
             "corrected": [],
-            "capped": []
+            "capped": [],
+            "short_rejected": 4
           },
           "relocation": {
             "from": "book4",
@@ -623,7 +701,12 @@
                   "quote": "Tina has raised the minimum wage, passed paid family leave, and expanded health insurance coverage."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Raised minimum wage, paid family leave, health insurance",
+              "topics": [
+                "Labor & workers",
+                "Healthcare"
+              ]
             },
             {
               "text": "Says Kotek is reducing red tape to build more affordable homes and has helped Oregon lead in new housing production.",
@@ -636,7 +719,11 @@
                   "quote": "she’s cutting red tape to build more affordable homes and helped Oregon outpace the nation in new housing production."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Reducing red tape for affordable homes",
+              "topics": [
+                "Housing"
+              ]
             },
             {
               "text": "Says Kotek is working toward statewide universal preschool and has made investments in reading and removed cellphones from classrooms.",
@@ -649,7 +736,12 @@
                   "quote": "She got cellphones out of classrooms, made record investments in reading, and is charting a path to statewide universal preschool."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": [
+                "Education",
+                "Childcare"
+              ]
             }
           ],
           "background": [
@@ -664,7 +756,9 @@
                   "quote": "Occupation: Governor"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             },
             {
               "text": "Lists occupational background as Oregon Food Bank, Children First.",
@@ -677,7 +771,9 @@
                   "quote": "Occupational Background:\nOregon Food Bank, Children First"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             },
             {
               "text": "Lists educational background as University of Oregon, University of Washington.",
@@ -690,7 +786,9 @@
                   "quote": "Educational Background:\nUniversity of Oregon, University of\nWashington"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             },
             {
               "text": "Lists prior governmental experience as State Representative, House Speaker.",
@@ -703,7 +801,9 @@
                   "quote": "Prior Governmental Experience: State Representative, House\nSpeaker"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             }
           ],
           "endorsements": [
@@ -770,7 +870,8 @@
             "dropped": [],
             "flagged": [],
             "corrected": [],
-            "capped": []
+            "capped": [],
+            "short_rejected": 1
           },
           "relocation": {
             "from": "book4",
@@ -806,7 +907,12 @@
                   "quote": "order state agencies to repeal rules, fees and mandates driving up the cost of housing, energy, food, transportation, childcare and healthcare."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Order state agencies to repeal rules and fees",
+              "topics": [
+                "Housing",
+                "Cost of living"
+              ]
             },
             {
               "text": "Says Drazan will work to lower the cost of living, bring back jobs and businesses, and break the cycle of homelessness and addiction.",
@@ -819,7 +925,12 @@
                   "quote": "The Drazan Plan will: Lower the cost of living Bring back jobs and businesses Break the cycle of homelessness and addiction"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Lower cost of living and bring back jobs",
+              "topics": [
+                "Cost of living",
+                "Jobs & economy"
+              ]
             },
             {
               "text": "Says Drazan will make it faster, simpler and less expensive to build homes and restore graduation requirements to fix schools.",
@@ -832,7 +943,12 @@
                   "quote": "Make it faster, simpler and less expensive to build homes Restore graduation requirements and fix our schools"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Will make building homes faster and simpler",
+              "topics": [
+                "Housing",
+                "Education"
+              ]
             }
           ],
           "background": [
@@ -847,7 +963,9 @@
                   "quote": "Occupation: State Senator"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "State Senator",
+              "topics": []
             },
             {
               "text": "Lists Drazan's occupational background as State Representative and Executive Director.",
@@ -860,7 +978,9 @@
                   "quote": "Occupational Background: State Representative; Executive Director"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Short occupational background as Representative and Director",
+              "topics": []
             },
             {
               "text": "Lists Drazan's educational background as George Fox University, BA.",
@@ -873,7 +993,9 @@
                   "quote": "Educational Background: George Fox University, BA"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "George Fox University BA",
+              "topics": []
             },
             {
               "text": "Lists Drazan's prior governmental experience as House Republican Leader, Oregon Innovation Council, and Clackamas County Planning Commission.",
@@ -886,7 +1008,9 @@
                   "quote": "Prior Governmental Experience: House Republican Leader; Oregon Innovation Council; Clackamas County Planning Commission"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Clackamas County Planning Commission experience",
+              "topics": []
             }
           ],
           "endorsements": [
@@ -972,7 +1096,12 @@
                   "quote": "Monique supports expanding shelter and treatment access, backed by law enforcement and a justice system that keeps neighborhoods safe"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Work to end homelessness and restore public safety",
+              "topics": [
+                "Homelessness",
+                "Public safety"
+              ]
             },
             {
               "text": "Says DeSpain will fight to restore the economy, strengthen small businesses, and create opportunities for families.",
@@ -985,7 +1114,12 @@
                   "quote": "Monique will fight to restore our economy, strengthen small businesses, and create opportunities so families can stay and build a bright future."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Restore the economy, strengthen small businesses, and create opportunities",
+              "topics": [
+                "Jobs & economy",
+                "Small business"
+              ]
             },
             {
               "text": "Says DeSpain supports responsible forest management to end smoke season and support family-wage jobs.",
@@ -998,7 +1132,12 @@
                   "quote": "Monique supports responsible forest management that ends our smoke season while supporting family-wage jobs."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Shorten smoke season and support family-wage jobs",
+              "topics": [
+                "Environment & energy",
+                "Jobs & economy"
+              ]
             }
           ],
           "background": [
@@ -1013,7 +1152,9 @@
                   "quote": "Occupation: Attorney"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Attorney",
+              "topics": []
             },
             {
               "text": "Lists occupational background as Colonel, U.S. Air Force (retired).",
@@ -1026,7 +1167,9 @@
                   "quote": "Occupational Background: Colonel, U.S. Air Force (retired)"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Colonel, U.S. Air Force (retired)",
+              "topics": []
             },
             {
               "text": "Lists educational background as J.D., Willamette University; M.S., Administration, Central Michigan University; B.S., Psychology, University of Utah.",
@@ -1039,7 +1182,9 @@
                   "quote": "Educational Background: J.D., Willamette University; M.S., Administration, Central Michigan University; B.S., Psychology, University of Utah"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             },
             {
               "text": "Lists prior governmental experience as USAF, 30 years, JAG.",
@@ -1052,7 +1197,9 @@
                   "quote": "Prior Governmental Experience: USAF, 30 years, JAG"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "List prior governmental experience as USAF, 30 years, JAG",
+              "topics": []
             }
           ],
           "endorsements": [
@@ -1080,7 +1227,8 @@
             "dropped": [],
             "flagged": [],
             "corrected": [],
-            "capped": []
+            "capped": [],
+            "short_rejected": 1
           },
           "relocation": {
             "from": "book4",
@@ -1116,7 +1264,11 @@
                   "quote": "Val is working to expand Social Security and Medicare and protect them from devastating cuts"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Expand and protect Social Security and Medicare",
+              "topics": [
+                "Seniors & Social Security"
+              ]
             },
             {
               "text": "Says Hoyle is working to lower health care costs and make prescription drugs more affordable.",
@@ -1129,7 +1281,12 @@
                   "quote": "In Congress, she is working to lower health care costs and taking on big pharmaceutical companies to make prescription drugs more affordable."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Lower health care costs and prescription drugs",
+              "topics": [
+                "Healthcare",
+                "Cost of living"
+              ]
             },
             {
               "text": "Says Hoyle is a leader in protecting legal access to reproductive health care, birth control, and abortion.",
@@ -1142,7 +1299,12 @@
                   "quote": "Val is a leader in protecting legal access to abortion, birth control and reproductive health care."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Protect legal access to reproductive health care",
+              "topics": [
+                "Reproductive rights",
+                "Healthcare"
+              ]
             }
           ],
           "background": [
@@ -1157,7 +1319,9 @@
                   "quote": "Occupation: US Congresswoman"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "US Congresswoman",
+              "topics": []
             },
             {
               "text": "Lists occupational background in domestic and international sales and manufacturing distribution.",
@@ -1170,7 +1334,9 @@
                   "quote": "Occupational Background: Domestic and International Sales, Manufacturing Distribution"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Background in sales and manufacturing distribution",
+              "topics": []
             },
             {
               "text": "Lists educational background as Emmanuel College, BA.",
@@ -1183,7 +1349,9 @@
                   "quote": "Educational Background: Emmanuel College, BA"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Emmanuel College, BA",
+              "topics": []
             },
             {
               "text": "Lists prior governmental experience as Oregon Commissioner, State Representative, and Chair of the Federal Export Council of Oregon.",
@@ -1196,7 +1364,9 @@
                   "quote": "Prior Governmental Experience: Oregon Commissioner; State Representative; Chair, Federal Export Council of Oregon"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Former Oregon Commissioner and State Representative",
+              "topics": []
             }
           ],
           "endorsements": [
@@ -1287,7 +1457,9 @@
               ],
               "loaded_terms": [
                 "often ignored by the government"
-              ]
+              ],
+              "short": "Voice for neglected interests",
+              "topics": []
             },
             {
               "text": "In their statement: “I will put people, the planet, and peace before the interests of the wealthy and powerful.”",
@@ -1302,7 +1474,9 @@
               ],
               "loaded_terms": [
                 "people, the planet, and peace"
-              ]
+              ],
+              "short": "Prioritize people, planet, and peace",
+              "topics": []
             },
             {
               "text": "In their statement: “I will be a leader who stands up to those who exploit and pollute the environment in pursuit of profit.”",
@@ -1317,6 +1491,10 @@
               ],
               "loaded_terms": [
                 "pollute and exploit the environment for profit"
+              ],
+              "short": "Statement on environment and profit",
+              "topics": [
+                "Environment & energy"
               ]
             }
           ],
@@ -1332,7 +1510,9 @@
                   "quote": "Occupation: Statistician"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Statistician",
+              "topics": []
             },
             {
               "text": "Lists Filip's occupational background as Guest Teacher.",
@@ -1345,7 +1525,9 @@
                   "quote": "Occupational Background: Guest Teacher"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Guest Teacher",
+              "topics": []
             },
             {
               "text": "Lists Filip's educational background as University of Oregon, Bachelor of Science in Psychology.",
@@ -1358,7 +1540,9 @@
                   "quote": "Educational Background: University of Oregon, Bachelor of Science in Psychology"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "University of Oregon Bachelor of Science",
+              "topics": []
             },
             {
               "text": "Lists Filip's prior governmental experience as None.",
@@ -1371,7 +1555,9 @@
                   "quote": "Prior Governmental Experience: None"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Topics: None",
+              "topics": []
             }
           ],
           "endorsements": [],
@@ -1455,7 +1641,12 @@
                   "quote": "I’ll push to build vastly more affordable housing and remove barriers for denser units; Second, I’ll champion protections for vulnerable renters"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Advocate for affordable housing and renter protections",
+              "topics": [
+                "Housing",
+                "Homelessness"
+              ]
             },
             {
               "text": "Says Smith will support the Eugene Clean Energy Fund ballot initiative to lower energy costs for families.",
@@ -1468,7 +1659,12 @@
                   "quote": "I will support the implementation of the Eugene Clean Energy Fund ballot initiative, which will help to reduce energy costs for families"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Support Eugene Clean Energy Fund initiative",
+              "topics": [
+                "Cost of living",
+                "Environment & energy"
+              ]
             },
             {
               "text": "text own's own",
@@ -1481,7 +1677,9 @@
                   "quote": "I will fight back against these unconstitutional attacks on immigrants, LGBTQ+ people, and other vulnerable residents"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "text own's own",
+              "topics": []
             }
           ],
           "background": [
@@ -1496,7 +1694,9 @@
                   "quote": "Occupation: Project Coordinator, Union President"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Project Coordinator, Union President",
+              "topics": []
             },
             {
               "text": "Lists occupational background as UO Labor Education Research Center Coordinator and Los Angeles County Transportation Planner.",
@@ -1509,7 +1709,9 @@
                   "quote": "Occupational Background: UO Labor Education Research Center Coordinator; Los Angeles County Transportation Planner."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Short occupational background",
+              "topics": []
             },
             {
               "text": "Lists educational background as MA-Public Administration from University of Oregon and MA-Urban Planning from UCLA.",
@@ -1522,7 +1724,9 @@
                   "quote": "Educational Background: MA-Public Administration, University of Oregon; MA-Urban Planning, UCLA."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Educational background",
+              "topics": []
             },
             {
               "text": "Lists prior governmental experience with the Oregon Higher Education Coordinating Commission, Eugene Permanent Shelter Task Force, and Lane Transit District Budget Committee.",
@@ -1535,7 +1739,9 @@
                   "quote": "Prior Governmental Experience: Oregon Higher Education Coordinating Commission; Eugene Permanent Shelter Task Force; Lane Transit District Budget Committee."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Prior governmental experience",
+              "topics": []
             }
           ],
           "endorsements": [
@@ -1686,7 +1892,12 @@
                   "quote": "I’ve fought for what matters most: affordability, housing, public safety, and the core services people rely on every day."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Advocated for affordability, housing, public safety, and core services",
+              "topics": [
+                "Housing",
+                "Public safety"
+              ]
             },
             {
               "text": "Says Clark worked to move City Hall to the former EWEB building to save taxpayers over $30 million.",
@@ -1699,7 +1910,11 @@
                   "quote": "One example was my years-long push to move City Hall into the former EWEB building, saving Eugene taxpayers more than $30 million."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": [
+                "Taxes & budget"
+              ]
             },
             {
               "text": "Says Clark aims to represent Ward 5 and keep City Hall focused on solvable issues.",
@@ -1712,7 +1927,11 @@
                   "quote": "My job is to represent the families, workers, employers, and neighborhoods of Ward 5 and to keep City Hall focused on the issues we can actually solve."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Relates to Ward 5 and solvable issues",
+              "topics": [
+                "Government accountability"
+              ]
             }
           ],
           "background": [
@@ -1727,7 +1946,9 @@
                   "quote": "Occupation: City Councilor; Mortgage Loan Specialist"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Mortgage Loan Specialist and City Councilor",
+              "topics": []
             },
             {
               "text": "Lists occupational background as Marketing Executive.",
@@ -1740,7 +1961,9 @@
                   "quote": "Occupational Background: Marketing Executive"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             },
             {
               "text": "Lists educational background as University of Oregon, BS, Political Science.",
@@ -1753,7 +1976,9 @@
                   "quote": "Educational Background: University of Oregon, BS, Political Science"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "University of Oregon BS Political Science",
+              "topics": []
             },
             {
               "text": "Lists prior governmental experience including City Councilor, Budget Committee, and Police Commission.",
@@ -1766,7 +1991,9 @@
                   "quote": "Prior Governmental Experience: City Councilor; Budget Committee; Police Commission; Human Rights Commission; Lane Metropolitan Partnership Board"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "shortcomings of prior governmental experience",
+              "topics": []
             },
             {
               "text": "Lists community service experience as Board Member for Kid’s FIRST and Convention and Visitors Association of Lane County.",
@@ -1779,7 +2006,9 @@
                   "quote": "Community Service Experience: Board Member, Kid’s FIRST; Board Member, Convention and Visitors Association of Lane County"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             }
           ],
           "endorsements": [
@@ -1859,7 +2088,8 @@
             "dropped": [],
             "flagged": [],
             "corrected": [],
-            "capped": []
+            "capped": [],
+            "short_rejected": 3
           },
           "source": {
             "doc": "book4",
@@ -1889,7 +2119,11 @@
                   "quote": "Support Building Affordable Housing"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Support building affordable housing",
+              "topics": [
+                "Housing"
+              ]
             },
             {
               "text": "Says Aguiar will expand bus-rapid-transit services.",
@@ -1902,7 +2136,11 @@
                   "quote": "Expand Bus-Rapid-Transit Services"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Expand bus-rapid-transit services",
+              "topics": [
+                "Transportation"
+              ]
             },
             {
               "text": "Says Aguiar will preserve funding for libraries and public services.",
@@ -1915,7 +2153,11 @@
                   "quote": "Preserve funding for Libraries and Public Services"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "States preserves funding for libraries and public services",
+              "topics": [
+                "Taxes & budget"
+              ]
             }
           ],
           "background": [
@@ -1930,7 +2172,9 @@
                   "quote": "Occupation: Environmental Activist, Organizer"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Environmental activist and organizer",
+              "topics": []
             },
             {
               "text": "Lists Aguiar's occupational background as an environmental restoration technician.",
@@ -1943,7 +2187,9 @@
                   "quote": "Occupational Background: Environmental Restoration Technician"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "occupation as an environmental restoration technician",
+              "topics": []
             },
             {
               "text": "Lists Aguiar's educational background as a B.A. in Biology from Coe College.",
@@ -1956,7 +2202,9 @@
                   "quote": "Educational Background: B.A. in Biology, Coe College"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "short description of educational background",
+              "topics": []
             },
             {
               "text": "Lists Aguiar's prior governmental experience on the Eugene Library Advisory Board and the Eugene Library, Cultural, and Recreational Services Working Group.",
@@ -1969,7 +2217,9 @@
                   "quote": "Prior Governmental Experience: Eugene Library Advisory Board and Eugene Library, Cultural, and Recreational Services Working Group"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": null,
+              "topics": []
             }
           ],
           "endorsements": [
@@ -2029,7 +2279,8 @@
             ],
             "flagged": [],
             "corrected": [],
-            "capped": []
+            "capped": [],
+            "short_rejected": 1
           },
           "source": {
             "doc": "book4",
@@ -2105,7 +2356,9 @@
                   "quote": "require large retailers to obtain a license and pay an annual 2% license fee on gross profits from retail sales within the City."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Require large retailers to pay 2% fee",
+              "topics": []
             },
             {
               "text": "Large retailers are defined as those with national gross profits exceeding $1,000,000,000 and Eugene gross profits exceeding $500,000, excluding certain entities.",
@@ -2118,7 +2371,9 @@
                   "quote": "defines \"large retailer\" as one engaged in retail sales in Eugene with gross profits exceeding $1,000,000,000 nationally and $500,000 in Eugene, excluding contractors, utilities, cooperatives, and credit unions."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Define large retailers by gross profit thresholds",
+              "topics": []
             },
             {
               "text": "If approved, the measure would exclude most groceries, medicines, and certain services from the 2% fee calculation.",
@@ -2131,7 +2386,9 @@
                   "quote": "Gross profits from retail sales upon which the 2% is calculated would not include sales of most groceries, medicines, residential garbage and recycling services, and health care services."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Exclude groceries, medicines, and certain services",
+              "topics": []
             },
             {
               "text": "If approved, the measure would place license fee proceeds in a fund for renewable energy, efficiency, programs, and administration.",
@@ -2144,7 +2401,9 @@
                   "quote": "require proceeds from the license fee to be placed in a \"Eugene Clean Energy Fund\" dedicated to funding renewable energy and energy efficiency programs; clean energy job training, apprenticeships, and contractor support; green infrastructure programs; future innovation; and fund administration"
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [],
+              "short": "Place fee proceeds in renewable energy fund",
+              "topics": []
             }
           ],
           "arguments_filed": {

@@ -4,38 +4,39 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ballotty</title>
-  <meta name="description" content="Your Oregon ballot, condensed. Every sentence links to the official voters' pamphlet page it came from.">
+  <meta name="description" content="Your Oregon ballot in five minutes. Every point links to the official voters' pamphlet page it came from.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
   <header class="top">
-    <div class="top-row">
+    <div class="top-inner">
       <a class="wordmark" href="#">Ballotty</a>
-      <p class="promise">Every sentence links to the official voters' pamphlet page it came from.</p>
       <span class="when" id="when"></span>
       <div class="city-switch" id="cities" role="tablist" aria-label="Your city"></div>
     </div>
-    <div class="ledger" id="ledger" aria-live="polite"></div>
   </header>
 
-  <div class="shell">
-    <nav class="rail" id="rail" aria-label="Contests on your ballot"></nav>
-    <main class="stage" id="stage" tabindex="-1">
+  <div class="page">
+    <main id="main">
       <p class="loading">Loading your ballot</p>
     </main>
-    <aside class="inspector" id="inspector" aria-label="Source"></aside>
+    <aside class="picks" id="picks" aria-label="Your picks"></aside>
   </div>
+
+  <div class="drawer-backdrop" id="backdrop" hidden></div>
+  <aside class="drawer" id="drawer" aria-label="Source" hidden></aside>
 
   <footer class="foot">
     <div class="foot-inner">
-      <p><strong>Not affiliated</strong> with the Oregon Secretary of State, Lane, Benton or Multnomah County Elections, the Cities of Eugene, Corvallis or Portland, or any campaign. Summaries are machine-generated with Gemma 4 from official documents and can contain errors, so check the linked page before relying on one. Candidate statements are <strong>self-reported</strong>. Measure arguments are written by the people who filed them and were not verified by the counties. Ballotty does not recommend how to vote and does not rank candidates; they appear in ballot order.</p>
+      <p>Ballotty is not affiliated with the Oregon Secretary of State, Lane, Benton or Multnomah County Elections, the Cities of Eugene, Corvallis or Portland, or any campaign. Points are condensed by Gemma 4 from official documents and can contain errors, so open the linked page before relying on one. Candidate points are what the candidates say about themselves. Measure arguments are written by the people who filed them. Ballotty does not recommend how to vote; your picks stay in this browser.</p>
       <div id="sources" class="sources"></div>
       <p class="fine"><a href="https://github.com/dalmartin/ballotty">Source code on GitHub</a>, MIT licensed.</p>
     </div>
   </footer>
+  <div class="print-sheet" id="print-sheet"></div>
   <script src="/static/app.js"></script>
 </body>
 </html>
