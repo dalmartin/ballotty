@@ -1,7 +1,7 @@
 {
   "id": "measure-2-159",
   "prompt_hashes": {
-    "measure": "7059b82d7c92a47d",
+    "measure": "b2045e55820bdc9f",
     "themes_for": "f64613b1c225985f",
     "themes_against": "e54fe34cb0b7023d"
   },
@@ -15,23 +15,23 @@
     "question": "Shall City amend charter to change number of councilors and wards, length and staggering of terms, and impose term limits?",
     "summary": [
       {
-        "text": "If approved, this measure would change the number of councilors and wards from nine to six.",
+        "text": "If approved, the measure would change the number of councilors and wards from nine to six.",
         "quote": "change the number of city councilors and wards from nine to six",
         "page": 25
       },
       {
-        "text": "If approved, this measure would change councilor terms from two to four years with staggered elections.",
+        "text": "If approved, the measure would change councilor terms from two to four years with staggered elections.",
         "quote": "change councilor terms of office from two to four years with staggered elections",
         "page": 25
       },
       {
-        "text": "If approved, this measure would impose term limits of three consecutive terms for councilors and the mayor.",
-        "quote": "impose term limits of three consecutive terms for councilors and the mayor",
+        "text": "If approved, the measure would impose term limits of three consecutive terms for councilors and the mayor.",
+        "quote": "imposes term limits on councilors. A person could not serve more than three consecutive terms as a councilor",
         "page": 25
       },
       {
-        "text": "If approved, this measure would make other related changes to the sections of the charter.",
-        "quote": "make other related changes",
+        "text": "If approved, the measure would make other related changes to the sections of the charter.",
+        "quote": "and make other related changes. No other sections of the Charter would be changed by this measure.",
         "page": 25
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "us-rep-3/maxine-e-dexter",
   "prompt_hashes": {
-    "candidate": "65c19eb992a1b973"
+    "candidate": "6afbc4b96ae0540d"
   },
   "models": {
     "candidate": "gemma-4-31b-it"
@@ -9,18 +9,18 @@
   "candidate": {
     "summary": [
       {
-        "text": "Says Dexter will fight for working families, living wages, union jobs, affordable housing, and childcare.",
+        "text": "Says Dexter will fight for working families by supporting living wages, union jobs, and affordable housing and childcare.",
         "quote": "Working families, not billionaires: Good schools, living wages, union jobs, affordable housing and childcare.",
         "page": 35
       },
       {
-        "text": "Says Dexter believes healthcare is a human right and will support abortion, vaccinations, and gender-affirming care.",
-        "quote": "Healthcare is a human right: High quality, accessible and affordable care for all. Keep politicians out of exam rooms and let science guide care.",
+        "text": "Says Dexter believes healthcare is a human right and supports accessible, affordable care, including abortion, vaccinations, and gender-affirming care.",
+        "quote": "Healthcare is a human right: High quality, accessible and affordable care for all. Keep politicians out of exam rooms and let science guide care. Abortion, vaccinations and gender-affirming care are healthcare.",
         "page": 35
       },
       {
-        "text": "Says Dexter will work to protect voting rights, end corruption, and remove dark money from politics.",
-        "quote": "Democracy: Protect voting rights. End corruption. Defend our communities from authoritarianism. Get dark money out of politics.",
+        "text": "Says Dexter has secured $14M for community-led projects and helped Oregonians recover millions from the federal government.",
+        "quote": "Secured $14M for community-led projects, Helped Oregonians recover millions owed to them by the federal government,",
         "page": 35
       }
     ],
@@ -53,13 +53,8 @@
         "page": 35
       },
       {
-        "text": "Lists endorsements from U.S. Senators Jeff Merkley and Ron Wyden.",
-        "quote": "U.S. Senators Jeff Merkley & Ron Wyden",
-        "page": 35
-      },
-      {
-        "text": "Lists endorsements from Governor Tina Kotek and Attorney General Dan Rayfield.",
-        "quote": "Governor Tina Kotek\nAttorney General Dan Rayfield",
+        "text": "Lists endorsements from U.S. Senators Jeff Merkley and Ron Wyden, Governor Tina Kotek, and Attorney General Dan Rayfield.",
+        "quote": "U.S. Senators Jeff Merkley & Ron Wyden\nGovernor Tina Kotek\nAttorney General Dan Rayfield",
         "page": 35
       },
       {
@@ -70,6 +65,11 @@
       {
         "text": "Lists endorsements from Portland Mayor Keith Wilson and Gresham Mayor Travis Stovall.",
         "quote": "Portland Mayor Keith Wilson\nGresham Mayor Travis Stovall",
+        "page": 35
+      },
+      {
+        "text": "Lists endorsement from Oregon League of Conservation Voters.",
+        "quote": "Oregon League of Conservation Voters",
         "page": 35
       }
     ],

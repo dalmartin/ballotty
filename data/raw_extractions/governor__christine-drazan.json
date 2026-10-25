@@ -1,78 +1,63 @@
 {
   "id": "governor/christine-drazan",
   "prompt_hashes": {
-    "candidate": "07362007eee312a9"
+    "candidate": "1fe7c212aaa7dd4b"
   },
   "models": {
-    "candidate": "gemma-4-31b-it"
+    "candidate": "gemma-4-26b-a4b-it"
   },
   "candidate": {
     "summary": [
       {
         "text": "Says Drazan will order state agencies to repeal rules, fees and mandates that increase costs for housing, energy, food, transportation, childcare and healthcare.",
-        "quote": "Christine will order state agencies to repeal rules, fees and mandates driving up the cost of housing, energy, food, transportation, childcare and healthcare",
+        "quote": "order state agencies to repeal rules, fees and mandates driving up the cost of housing, energy, food, transportation, childcare and healthcare.",
         "page": 35
       },
       {
-        "text": "Says Drazan will work to lower the cost of living, bring back jobs and businesses, and address homelessness and addiction.",
-        "quote": "The Drazan Plan will: · Lower the cost of living · Bring back jobs and businesses · Break the cycle of homelessness and addiction",
+        "text": "Says Drazan will work to lower the cost of living, bring back jobs and businesses, and break the cycle of homelessness and addiction.",
+        "quote": "The Drazan Plan will: Lower the cost of living Bring back jobs and businesses Break the cycle of homelessness and addiction",
         "page": 35
       },
       {
-        "text": "Says Drazan will restore graduation requirements, fix schools, and audit spending.",
-        "quote": "The Drazan Plan will: · Restore graduation requirements and fix our schools · Audit spending and deliver results",
+        "text": "Says Drazan will make it faster, simpler and less expensive to build homes and restore graduation requirements to fix schools.",
+        "quote": "Make it faster, simpler and less expensive to build homes Restore graduation requirements and fix our schools",
         "page": 35
       }
     ],
     "background": [
       {
-        "text": "Lists occupation as State Senator.",
+        "text": "Lists Drazan's occupation as State Senator.",
         "quote": "Occupation: State Senator",
         "page": 35
       },
       {
-        "text": "Lists occupational background as State Representative and Executive Director.",
+        "text": "Lists Drazan's occupational background as State Representative and Executive Director.",
         "quote": "Occupational Background: State Representative; Executive Director",
         "page": 35
       },
       {
-        "text": "Lists educational background as George Fox University, BA.",
+        "text": "Lists Drazan's educational background as George Fox University, BA.",
         "quote": "Educational Background: George Fox University, BA",
         "page": 35
       },
       {
-        "text": "Lists prior governmental experience as House Republican Leader, Oregon Innovation Council, and Clackamas County Planning Commission.",
+        "text": "Lists Drazan's prior governmental experience as House Republican Leader, Oregon Innovation Council, and Clackamas County Planning Commission.",
         "quote": "Prior Governmental Experience: House Republican Leader; Oregon Innovation Council; Clackamas County Planning Commission",
         "page": 35
       }
     ],
     "endorsements": [
       {
-        "text": "Lists endorsements from the Revitalize Portland Coalition and Oregonians for Food & Shelter.",
-        "quote": "Revitalize Portland Coalition\nOregonians for Food & Shelter",
+        "text": "Lists endorsements from Revitalize Portland Coalition, Oregonians for Food & Shelter, Union Contractor Group, Oregon's Sheriffs, and Associated General Contractors Oregon-Columbia Chapter.",
+        "quote": "Revitalize Portland Coalition Oregonians for Food & Shelter Union Contractor Group Oregon's Sheriffs Associated General Contractors Oregon-Columbia Chapter",
         "page": 35
       },
       {
-        "text": "Lists endorsements from the Union Contractor Group and Associated General Contractors Oregon-Columbia Chapter.",
-        "quote": "Union Contractor Group\nAssociated General Contractors Oregon-Columbia Chapter",
-        "page": 35
-      },
-      {
-        "text": "text\": \"Lists endorsements from Oregon's Sheriffs and the Oregon Coalition of Police & Sheriffs.\"",
-        "quote": "Oregon’s Sheriffs\nOregon Coalition of Police & Sheriffs",
-        "page": 35
-      },
-      {
-        "text": "Lists endorsements from the Oregon Farm Bureau and Oregon Nurseries' PAC.",
-        "quote": "Oregon Farm Bureau\nOregon Nurseries’ PAC",
-        "page": 35
-      },
-      {
-        "text": "Lists endorsements from the Oregon Small Business Association and Defend Small Business PAC.",
-        "quote": "Oregon Small Business Association\nDefend Small Business PAC",
+        "text": "Lists endorsements from Oregon Farm Bureau, Oregon Small Business Association, Oregon Coalition of Police & Sheriffs, Associated Builders and Contractors PNW, Defend Small Business PAC, and Oregon Nurseries' PAC.",
+        "quote": "Oregon Farm Bureau Oregon Small Business Association Oregon Coalition of Police & Sheriffs Associated Builders and Contractors PNW Defend Small Business PAC Oregon Nurseries' PAC",
         "page": 35
       }
     ],
-    "furnished_by": "Friends of Christine Drazan."
+    "furnished_by": "Friends of Christine Drazan"
   }
 }

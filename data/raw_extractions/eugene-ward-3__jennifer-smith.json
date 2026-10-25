@@ -1,7 +1,7 @@
 {
   "id": "eugene-ward-3/jennifer-smith",
   "prompt_hashes": {
-    "candidate": "08a17d5ba7d7da7b"
+    "candidate": "b9d8af3e08908ace"
   },
   "models": {
     "candidate": "gemma-4-31b-it"
@@ -26,22 +26,22 @@
     ],
     "background": [
       {
-        "text": "Lists Smith's occupation as Project Coordinator and Union President.",
+        "text": "Lists occupation as Project Coordinator, Union President.",
         "quote": "Occupation: Project Coordinator, Union President",
         "page": 52
       },
       {
-        "text": "Lists Smith's occupational background as UO Labor Education Research Center Coordinator and Los Angeles County Transportation Planner.",
+        "text": "Lists occupational background as UO Labor Education Research Center Coordinator and Los Angeles County Transportation Planner.",
         "quote": "Occupational Background: UO Labor Education Research Center Coordinator; Los Angeles County Transportation Planner.",
         "page": 52
       },
       {
-        "text": "Lists Smith's educational background as MA-Public Administration from the University of Oregon and MA-Urban Planning from UCLA.",
+        "text": "Lists educational background as MA-Public Administration from University of Oregon and MA-Urban Planning from UCLA.",
         "quote": "Educational Background: MA-Public Administration, University of Oregon; MA-Urban Planning, UCLA.",
         "page": 52
       },
       {
-        "text": "Lists Smith's prior governmental experience with the Oregon Higher Education Coordinating Commission, Eugene Permanent Shelter Task Force, and Lane Transit District Budget Committee.",
+        "text": "Lists prior governmental experience with the Oregon Higher Education Coordinating Commission, Eugene Permanent Shelter Task Force, and Lane Transit District Budget Committee.",
         "quote": "Prior Governmental Experience: Oregon Higher Education Coordinating Commission; Eugene Permanent Shelter Task Force; Lane Transit District Budget Committee.",
         "page": 52
       }
@@ -58,7 +58,7 @@
         "page": 52
       },
       {
-        "text": "Lists endorsements from the Oregon Sierra Club and Oregon League of Conservation Voters.",
+        "text": "Lists endorsements from environmental groups including the Oregon Sierra Club and Oregon League of Conservation Voters.",
         "quote": "Oregon Sierra Club Oregon League of Conservation Voters",
         "page": 52
       },

@@ -1,7 +1,7 @@
 {
   "id": "corvallis-mayor/kasey-haxton",
   "prompt_hashes": {
-    "candidate": "f9a15ba90525c30e"
+    "candidate": "7908013df7320ed5"
   },
   "models": {
     "candidate": "gemma-4-31b-it"
@@ -9,17 +9,17 @@
   "candidate": {
     "summary": [
       {
-        "text": "Says Haxton believes the city should invest heavily in municipal housing to create affordable rental rates and act as local rent control.",
+        "text": "Says Haxton wants the city to invest heavily in municipal housing with affordable rents to create local rent control.",
         "quote": "This new approach must start with the city making a massive investment into municipal housing to be rented at truly affordable rates, which will eventually act as a form of local rent control.",
         "page": 14
       },
       {
-        "text": "Says Haxton views housing as a human right.",
+        "text": "Says Haxton believes housing is a human right.",
         "quote": "Housing is a human right.",
         "page": 14
       },
       {
-        "text": "Says Haxton believes Corvallis needs a mayor who keeps their promises regarding the forced dislocation of people experiencing homelessness.",
+        "text": "Says Haxton believes Corvallis needs a mayor who keeps their promises regarding the dislocation of people experiencing homelessness.",
         "quote": "If you believe Corvallis deserves a mayor who will keep their promises, please vote for me.",
         "page": 14
       }

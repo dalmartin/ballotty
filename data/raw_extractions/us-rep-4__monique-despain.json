@@ -1,7 +1,7 @@
 {
   "id": "us-rep-4/monique-despain",
   "prompt_hashes": {
-    "candidate": "1112c3c7f0dd4ae8"
+    "candidate": "d9d29bab96a91748"
   },
   "models": {
     "candidate": "gemma-4-31b-it"
@@ -31,17 +31,17 @@
         "page": 32
       },
       {
-        "text": "Lists occupational background as retired Colonel in the U.S. Air Force.",
+        "text": "Lists occupational background as Colonel, U.S. Air Force (retired).",
         "quote": "Occupational Background: Colonel, U.S. Air Force (retired)",
         "page": 32
       },
       {
-        "text": "Lists educational background as J.D. from Willamette University, M.S. in Administration from Central Michigan University, and B.S. in Psychology from University of Utah.",
+        "text": "Lists educational background as J.D., Willamette University; M.S., Administration, Central Michigan University; B.S., Psychology, University of Utah.",
         "quote": "Educational Background: J.D., Willamette University; M.S., Administration, Central Michigan University; B.S., Psychology, University of Utah",
         "page": 32
       },
       {
-        "text": "Lists prior governmental experience as 30 years in the USAF JAG.",
+        "text": "Lists prior governmental experience as USAF, 30 years, JAG.",
         "quote": "Prior Governmental Experience: USAF, 30 years, JAG",
         "page": 32
       }

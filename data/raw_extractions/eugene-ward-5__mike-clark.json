@@ -1,45 +1,80 @@
 {
   "id": "eugene-ward-5/mike-clark",
   "prompt_hashes": {
-    "candidate": "17ef2e530a77e9b3"
+    "candidate": "39a59c9484276707"
   },
   "models": {
-    "candidate": "gemma-4-26b-a4b-it"
+    "candidate": "gemma-4-31b-it"
   },
   "candidate": {
     "summary": [
       {
-        "text": "Says Clark intends to represent the families, workers, employers, and neighborhoods of Ward 5.",
-        "quote": "represent the families, workers, employers, and neighborhoods of Ward 5",
+        "text": "Says Clark has advocated for affordability, housing, public safety, and core services.",
+        "quote": "I’ve fought for what matters most: affordability, housing, public safety, and the core services people rely on every day.",
+        "page": 53
+      },
+      {
+        "text": "Says Clark worked to move City Hall to the former EWEB building to save taxpayers over $30 million.",
+        "quote": "One example was my years-long push to move City Hall into the former EWEB building, saving Eugene taxpayers more than $30 million.",
+        "page": 53
+      },
+      {
+        "text": "Says Clark aims to represent Ward 5 and keep City Hall focused on solvable issues.",
+        "quote": "My job is to represent the families, workers, employers, and neighborhoods of Ward 5 and to keep City Hall focused on the issues we can actually solve.",
         "page": 53
       }
     ],
     "background": [
       {
-        "text": "Lists Clark's occupation as a City Councilor and Mortgage Loan Specialist.",
+        "text": "Lists occupation as City Councilor and Mortgage Loan Specialist.",
         "quote": "Occupation: City Councilor; Mortgage Loan Specialist",
         "page": 53
       },
       {
-        "text": "Lists Clark's occupational background as a Marketing Executive.",
+        "text": "Lists occupational background as Marketing Executive.",
         "quote": "Occupational Background: Marketing Executive",
         "page": 53
       },
       {
-        "text": "Lists Clark's educational background as a University of Oregon, BS, Political Science.",
-        "quote": "University of Oregon, BS, Political Science",
+        "text": "Lists educational background as University of Oregon, BS, Political Science.",
+        "quote": "Educational Background: University of Oregon, BS, Political Science",
         "page": 53
       },
       {
-        "text": "Lists Clark's prior governmental experience including City Councilor, Budget Committee, and Police Commission.",
-        "quote": "Prior Governmental Experience: City Councilor; Budget Committee; Police Commission",
+        "text": "Lists prior governmental experience including City Councilor, Budget Committee, and Police Commission.",
+        "quote": "Prior Governmental Experience: City Councilor; Budget Committee; Police Commission; Human Rights Commission; Lane Metropolitan Partnership Board",
+        "page": 53
+      },
+      {
+        "text": "Lists community service experience as Board Member for Kid’s FIRST and Convention and Visitors Association of Lane County.",
+        "quote": "Community Service Experience: Board Member, Kid’s FIRST; Board Member, Convention and Visitors Association of Lane County",
         "page": 53
       }
     ],
     "endorsements": [
       {
-        "text": "Lists endorsements from Cal Young Neighborhood Association, various labor unions, and the Eugene Area Chamber of Commerce.",
-        "quote": "WE SUPPORT MIKE! Jackson Kellogg, Chair of the Cal Young Neighborhood Association United Association of Plumbers and Steamfitters, Local 290 Lane Professional Firefighters, IAFF Local 851 Eugene Police Employees Association LCCD Building Trades Council North Coast Carpenters Union Western Oregon Builders Association Eugene Area Chamber of Commerce",
+        "text": "Lists endorsements from Jackson Kellogg, United Association of Plumbers and Steamfitters, and Lane Professional Firefighters.",
+        "quote": "Jackson Kellogg, Chair of the Cal Young Neighborhood Association United Association of Plumbers and Steamfitters, Local 290 Lane Professional Firefighters, IAFF Local 851",
+        "page": 53
+      },
+      {
+        "text": "Lists endorsements from Eugene Police Employees Association and LCCD Building Trades Council.",
+        "quote": "Eugene Police Employees Association LCCD Building Trades Council",
+        "page": 53
+      },
+      {
+        "text": "Lists endorsements from North Coast Carpenters Union and Western Oregon Builders Association.",
+        "quote": "North Coast Carpenters Union Western Oregon Builders Association",
+        "page": 53
+      },
+      {
+        "text": "Lists endorsements from Eugene Area Chamber of Commerce and Pat Farr.",
+        "quote": "Eugene Area Chamber of Commerce Pat Farr, Lane County Commissioner",
+        "page": 53
+      },
+      {
+        "text": "Lists endorsements from Chris Edwards and John Brown.",
+        "quote": "Chris Edwards, Former Democratic State Senator John Brown, EWEB Commissioner",
         "page": 53
       }
     ],

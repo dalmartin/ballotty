@@ -1,45 +1,70 @@
 {
   "id": "governor/tina-kotek",
   "prompt_hashes": {
-    "candidate": "7cb66be4b3e17865"
+    "candidate": "9ead9575800fb6ef"
   },
   "models": {
-    "candidate": "gemma-4-26b-a4b-it"
+    "candidate": "gemma-4-31b-it"
   },
   "candidate": {
     "summary": [
       {
-        "text": "Says Kotek will continue to fight to reduce homelessness by increasing shelter and treatment beds.",
-        "quote": "she will continue the fight to reduce homelessness.",
+        "text": "Says Kotek raised the minimum wage, passed paid family leave, and expanded health insurance coverage.",
+        "quote": "Tina has raised the minimum wage, passed paid family leave, and expanded health insurance coverage.",
+        "page": 35
+      },
+      {
+        "text": "Says Kotek is reducing red tape to build more affordable homes and has helped Oregon lead in new housing production.",
+        "quote": "she’s cutting red tape to build more affordable homes and helped Oregon outpace the nation in new housing production.",
+        "page": 35
+      },
+      {
+        "text": "Says Kotek is working toward statewide universal preschool and has made investments in reading and removed cellphones from classrooms.",
+        "quote": "She got cellphones out of classrooms, made record investments in reading, and is charting a path to statewide universal preschool.",
         "page": 35
       }
     ],
     "background": [
       {
-        "text": "Lists Kotek's occupation as Governor.",
+        "text": "Lists occupation as Governor.",
         "quote": "Occupation: Governor",
         "page": 35
       },
       {
-        "text": "List's Kotek's occupational background as Oregon Food Bank and Children First.",
-        "quote": "Occupational Background: Oregon Food Bank, Children First",
+        "text": "Lists occupational background as Oregon Food Bank, Children First.",
+        "quote": "Occupational Background:\nOregon Food Bank, Children First",
         "page": 35
       },
       {
-        "text": "Lists Kotek's educational background as University of Oregon and University of Washington.",
-        "quote": "Educational Background: University of Oregon, University of Washington",
+        "text": "Lists educational background as University of Oregon, University of Washington.",
+        "quote": "Educational Background:\nUniversity of Oregon, University of\nWashington",
         "page": 35
       },
       {
-        "text": "Lists Kotek's prior governmental experience as State Representative and House Speaker.",
-        "quote": "Prior Governmental Experience: State Representative, House Speaker",
+        "text": "Lists prior governmental experience as State Representative, House Speaker.",
+        "quote": "Prior Governmental Experience: State Representative, House\nSpeaker",
         "page": 35
       }
     ],
     "endorsements": [
       {
-        "text": "Lists endorsements from Planned Parenthood Action Oregon, OR Labor Federation AFL-CIO, Oregon League of Conservation Voters, Oregon Nurses Association, Oregon State Fire Fighters Council, SEIU Oregon, Building Power for Communities of Color, Oregon AFSCME, Stand for Children, The Mother PAC, Sierra Club, and Oregon Working Families Party.",
-        "quote": "Planned Parenthood Action Oregon OR Labor Federation AFL-CIO Oregon League of Conservation Voters Oregon Nurses Association Oregon State Fire Fighters Council SEIU Oregon Building Power for Communities of Color Oregon AFSCME Stand for Children The Mother PAC Sierra Club Oregon Working Families Party",
+        "text": "Lists endorsements from Planned Parenthood Action Oregon, OR Labor Federation AFL-CIO, and Oregon League of Conservation Voters.",
+        "quote": "Planned Parenthood Action Oregon\nOR Labor Federation AFL-CIO\nOregon League of Conservation Voters",
+        "page": 35
+      },
+      {
+        "text": "Lists endorsements from Oregon Nurses Association, Oregon State Fire Fighters Council, and SEIU Oregon.",
+        "quote": "Oregon Nurses Association\nOregon State Fire Fighters Council\nSEIU Oregon",
+        "page": 35
+      },
+      {
+        "text": "Lists endorsements from Building Power for Communities of Color, Oregon AFSCME, and Stand for Children.",
+        "quote": "Building Power for Communities of Color\nOregon AFSCME\nStand for Children",
+        "page": 35
+      },
+      {
+        "text": "Lists endorsements from The Mother PAC, Sierra Club, and Oregon Working Families Party.",
+        "quote": "The Mother PAC\nSierra Club\nOregon Working Families Party",
         "page": 35
       }
     ],

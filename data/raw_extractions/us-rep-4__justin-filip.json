@@ -1,7 +1,7 @@
 {
   "id": "us-rep-4/justin-filip",
   "prompt_hashes": {
-    "candidate": "1e878c0e53af45e0"
+    "candidate": "4f78ee16e7ea03b3"
   },
   "models": {
     "candidate": "gemma-4-31b-it"
@@ -9,7 +9,7 @@
   "candidate": {
     "summary": [
       {
-        "text": "Says Filip will represent people whose interests are neglected by the government.",
+        "text": "Says Filip will represent people whose interests are often ignored by the government.",
         "quote": "I will be a voice in Congress for those whose interests are often neglected by our government.",
         "page": 33
       },
@@ -19,29 +19,29 @@
         "page": 33
       },
       {
-        "text": "Says Filip will oppose those who pollute the environment for profit.",
+        "text": "Says Filip will oppose those who pollute and exploit the environment for profit.",
         "quote": "I will be a leader who stands up to those who exploit and pollute the environment in pursuit of profit.",
         "page": 33
       }
     ],
     "background": [
       {
-        "text": "Lists occupation as Statistician.",
+        "text": "Lists Filip's occupation as Statistician.",
         "quote": "Occupation: Statistician",
         "page": 33
       },
       {
-        "text": "Lists occupational background as Guest Teacher.",
+        "text": "Lists Filip's occupational background as Guest Teacher.",
         "quote": "Occupational Background: Guest Teacher",
         "page": 33
       },
       {
-        "text": "Lists educational background as University of Oregon, Bachelor of Science in Psychology.",
+        "text": "Lists Filip's educational background as University of Oregon, Bachelor of Science in Psychology.",
         "quote": "Educational Background: University of Oregon, Bachelor of Science in Psychology",
         "page": 33
       },
       {
-        "text": "Lists prior governmental experience as None.",
+        "text": "Lists Filip's prior governmental experience as None.",
         "quote": "Prior Governmental Experience: None",
         "page": 33
       }

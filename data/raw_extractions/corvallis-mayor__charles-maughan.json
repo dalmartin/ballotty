@@ -1,65 +1,75 @@
 {
   "id": "corvallis-mayor/charles-maughan",
   "prompt_hashes": {
-    "candidate": "4506e2f3acfc47e4"
+    "candidate": "bb7a47b126d55203"
   },
   "models": {
-    "candidate": "gemma-4-26b-a4b-it"
+    "candidate": "gemma-4-31b-it"
   },
   "candidate": {
     "summary": [
       {
-        "text": "Says Maughan will continue the work started during the current term.",
-        "quote": "continue the work he started.",
+        "text": "Says Maughan has supported increasing housing in Corvallis, noting applications for nearly 2,000 new units, including over 500 affordable units.",
+        "quote": "Charles has always supported more housing in Corvallis. While mayor, Corvallis has seen applications for close to 2,000 new housing units",
         "page": 14
       },
       {
-        "text": "Says Maughan supports increasing the housing supply to decrease costs.",
-        "quote": "Our housing supply still needs to increase so costs decrease.",
+        "text": "Says Maughan pushed for sound ordinance changes and a downtown vitality plan, which Maughan will implement in the next term.",
+        "quote": "He pushed for changes to Corvallis’ sound ordinance to support local events and commissioned a task force that developed a plan for downtown vitality.",
         "page": 14
       },
       {
-        "text": "Says Maughan will implement a plan for downtown vitality.",
-        "quote": "he will implement that plan.",
+        "text": "Says Maughan will continue working on sustainability and has supported electric buses and hybrid police cars.",
+        "quote": "Mayor Maughan will keep working to make Corvallis resilient and sustainable. He has supported the purchase of electric buses, hybrid police cars",
         "page": 14
       }
     ],
     "background": [
       {
-        "text": "Lists Maughan's occupation as a Compliance Analyst, Oregon Housing and Community Services.",
+        "text": "Lists occupation as Compliance Analyst, Oregon Housing and Community Services.",
         "quote": "Occupation: Compliance Analyst, Oregon Housing and Community Services",
         "page": 14
       },
       {
-        "text": "Lists Maughan's occupational background in affordable housing, management, and accounting.",
-        "quote": "Affordable Housing; Management; Accounting",
+        "text": "Lists occupational background in Affordable Housing, Management, and Accounting.",
+        "quote": "Occupational Background: Affordable Housing; Management; Accounting",
         "page": 14
       },
       {
-        "text": "Lists Maughan's educational background as a Housing Compliance Certified Professional.",
-        "quote": "text",
+        "text": "Lists educational background as Housing Compliance Certified Professional.",
+        "quote": "Educational Background: Housing Compliance Certified Professional",
         "page": 14
       },
       {
-        "text": "Lists Maughan's prior governmental experience as Corvallis Mayor and Corvallis City Councilor.",
-        "quote": "Prior Governmental Experience: Corvallis Mayor (2023- current); Corvallis City Councilor (2019-2022)",
+        "text": "Lists prior governmental experience as Corvallis Mayor, City Councilor, and other roles.",
+        "quote": "Prior Governmental Experience: Corvallis Mayor (2023- current); Corvallis City Councilor (2019-2022); HOPE Advisory Board Executive Committee; South Corvallis Urban Renewal Agency",
         "page": 14
       }
     ],
     "endorsements": [
       {
-        "text": "Lists endorsements from Senator Jeff Merkley and Congresswoman Val Hoyle.",
-        "quote": "Senator Jeff Merkley; Congresswoman Val Hoyle",
+        "text": "Lists endorsements from Senator Jeff Merkley, Congresswoman Val Hoyle, and Attorney General Dan Rayfield.",
+        "quote": "Senator Jeff Merkley; Congresswoman Val Hoyle Attorney General Dan Rayfield",
         "page": 14
       },
       {
-        "text": "Lists endorsements from Attorney General Dan Rayfield and State Senator Sara Gelser Blouin.",
-        "quote": "Attorney General Dan Rayfield; State Senator Sara Gelser Blouin",
+        "text": "Lists endorsements from State Senator Sara Gelser Blouin and State Representative Sarah Finger McDonald.",
+        "quote": "State Senator Sara Gelser Blouin State Representative Sarah Finger McDonald",
         "page": 14
       },
       {
-        "text": "text",
-        "quote": "text",
+        "text": "Lists endorsements from County Commissioners Gabe Shepherd, Nancy Wyse, and Commissioner Nominee John Wilson.",
+        "quote": "County Commissioners Gabe Shepherd, Nancy Wyse Commissioner Nominee John Wilson",
+        "page": 14
+      },
+      {
+        "text": "Lists endorsements from former and current mayors and city councilors.",
+        "quote": "Former Corvallis Mayor Biff Traber Philomath Mayor Christopher McMorran Corvallis City Councilors: Briae Lewis, Jim Moorefield, Alison Bowden",
+        "page": 14
+      },
+      {
+        "text": "Lists endorsements from various political and labor organizations.",
+        "quote": "Benton County Democrats; Oregon Working Families Party Cascades to Coast Central Labor Council AFL-CIO SEIU Oregon; Indivisible Benton County",
         "page": 14
       }
     ],

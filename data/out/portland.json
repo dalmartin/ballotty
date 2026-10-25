@@ -3,7 +3,7 @@
   "name": "Portland",
   "county": "Multnomah County",
   "coverage_note": "Covers the Multnomah County portion of Portland only. Portland residents in Washington or Clackamas County receive a different county pamphlet.",
-  "generated_at": "2026-10-25T21:54:39+00:00",
+  "generated_at": "2026-10-25T22:17:09+00:00",
   "sources": [
     {
       "doc": "book13",
@@ -40,19 +40,6 @@
           "statement_filed": true,
           "summary": [
             {
-              "text": "Says Smith will work to make Oregon affordable by incentivizing job growth and supporting small businesses.",
-              "citations": [
-                {
-                  "doc": "book13",
-                  "page": 30,
-                  "page_label": "p. 30",
-                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=30",
-                  "quote": "incentivize job growth in our communities, supporting local small businesses."
-                }
-              ],
-              "loaded_terms": []
-            },
-            {
               "text": "Says Smith will fight for drug and mental health treatment and accountability to end permanent street camping.",
               "citations": [
                 {
@@ -66,7 +53,7 @@
               "loaded_terms": []
             },
             {
-              "text": "making Smith will ensure data centers are accountable and protect natural resources to prevent cost shifts to households.",
+              "text": "Says Smith will ensure data centers are accountable and protect natural resources to prevent costs from being shifted to households.",
               "citations": [
                 {
                   "doc": "book13",
@@ -81,7 +68,7 @@
           ],
           "background": [
             {
-              "text": "Lists Smith's occupation as State Senator and Small Business Owner.",
+              "text": "Lists Smith's occupation as a State Senator and Small Business Owner.",
               "citations": [
                 {
                   "doc": "book13",
@@ -94,35 +81,20 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists Smith's occupational background as State Representative, County Commissioner, Small Business Owner/Business Manager, and Director-Economic Development.",
+              "text": "Lists Smith's occupational background as a State Representative, County Commissioner, Small Business Owner/Business Manager, and Director-Economic Development.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 30,
                   "page_label": "p. 30",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=30",
-                  "quote": "List's occupational background as State Representative, County Commissioner, Small Business Owner/Business Manager, Director-Economic Development"
+                  "quote": "Occupational Background: State Representative, County Commissioner, Small Business Owner/Business Manager, Director-Economic Development"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "In their statement: “Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Communities, Senate-Dir-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Making-Legislative Sportsmen's Caucus/Wine Caucus”",
-              "citations": [
-                {
-                  "doc": "book13",
-                  "page": 30,
-                  "page_label": "p. 30",
-                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=30",
-                  "quote": "Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Communities, Senate-Dir-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Making-Legislative Sportsmen's Caucus/Wine Caucus"
-                }
-              ],
-              "loaded_terms": [
-                "disaster"
-              ]
-            },
-            {
-              "text": "Lists Smith'--|und-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Resources, Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Preventing-Data-Centers-Driving-Up-Costs-David-Smith-Smith-Smith-Smith-Smith-Education-Education-Education-Education-Education-Education-Education-More-Information-www.DavidBrockSmithforOregon.com-www.Education-OregonLegislature.com/SmithD",
+              "text": "Lists Smith's educational background as Pacific High School, SOCC, and SOU.",
               "citations": [
                 {
                   "doc": "book13",
@@ -130,6 +102,19 @@
                   "page_label": "p. 30",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=30",
                   "quote": "Educational Background: Pacific High School, SOCC, SOU"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Smith's prior governmental experience as a Senator-Deputy Leader, State Representative-Assistant Leader, and various legislative committees and task forces.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 30,
+                  "page_label": "p. 30",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=30",
+                  "quote": "Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade-Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches-Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Committees, Senate-Board Member-Oregon Infrastructure Finance Authority/Oregon Environmental Restoration Council, Co-Chair-Legislative Sportsmen's Caucus/Wine Caucus"
                 }
               ],
               "loaded_terms": []
@@ -143,24 +128,22 @@
             30
           ],
           "checks": {
-            "dropped": [],
-            "flagged": [
+            "dropped": [
               {
-                "section": "background",
-                "text": "text-only: text-only: text-only: text-|und-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Committees, Senate-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Legislative Sportsmen's Caucus/Wine Caucus",
-                "loaded_terms": [
-                  "disaster"
-                ],
-                "replaced_with": "In their statement: “Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Communities, Senate-Dir-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Making-Legislative Sportsmen's Caucus/Wine Caucus”"
+                "section": "summary",
+                "text": "Says Smith will work to make Oregon affordable by incentivizing job growth, supporting small businesses, and reducing government spending.",
+                "quote": "incentivize job growth in our communities, supporting local small businesses.",
+                "reason": "a name in the summary is not in its quote"
               }
             ],
+            "flagged": [],
             "corrected": [],
             "capped": []
           },
           "relocation": {
             "from": "book4",
             "to": "book13",
-            "found": 7,
+            "found": 6,
             "missed": 0
           },
           "source": {
@@ -181,14 +164,40 @@
           "statement_filed": true,
           "summary": [
             {
-              "text": "Says Merkley wants to end ICE agents operating as secret police and ensure accountability for civil rights violations.",
+              "text": "Says Merkley wants to end political corruption by stopping stock trading and reforming the Supreme Court.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 31,
                   "page_label": "p. 31",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31",
-                  "quote": "No more ICE agents operating as secret police; no operations at schools or warrantless home raids. Full accountability for every civil rights violation."
+                  "quote": "No more stock trading; no more exchanging government favors for investments in Trump’s companies. The Supreme Court needs reform and a binding code of ethics."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Merkley wants to transition from fossil fuels to renewable energy.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31",
+                  "quote": "Rapidly transition from dirty, expensive fossils to cheaper, cleaner, renewables."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Merkley wants to expand vote-by-mail and stop gerrymandering.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31",
+                  "quote": "Stop gerrymandering. Require paper ballots. End secret campaign funding. Expand vote-by-mail."
                 }
               ],
               "loaded_terms": []
@@ -196,7 +205,7 @@
           ],
           "background": [
             {
-              "text": "Says Merkley's occupation is U.S. Senator for Oregon.",
+              "text": "Lists Merkley's occupation as a U.S. Senator for Oregon.",
               "citations": [
                 {
                   "doc": "book13",
@@ -209,7 +218,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Says Merkley's occupational background includes Habitat for Humanity, National Security Analyst, and Small Business Founder.",
+              "text": "Lists Merkley's occupational background as a National Security Analyst, Small Business Founder, and Habitat for Humanity.",
               "citations": [
                 {
                   "doc": "book13",
@@ -222,20 +231,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Says Merkley's educational background includes David Douglas High School, a B.A. in International Affairs, and a Masters in Public Policy.",
-              "citations": [
-                {
-                  "doc": "book13",
-                  "page": 31,
-                  "page_label": "p. 31",
-                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31",
-                  "quote": "Educational Background: David Douglas High School; B.A., Int’l Affairs; Masters in Public Policy"
-                }
-              ],
-              "loaded_terms": []
-            },
-            {
-              "text": "Says Merkley's prior governmental experience includes being a State Representative and Oregon House Speaker.",
+              "text": "Lists Merkley's prior governmental experience as a State Representative and Oregon House Speaker.",
               "citations": [
                 {
                   "doc": "book13",
@@ -270,7 +266,14 @@
             31
           ],
           "checks": {
-            "dropped": [],
+            "dropped": [
+              {
+                "section": "background",
+                "text": "Lists Merkley's educational background as David Douglas High School, a B.A. in International Affairs, and a Masters in Public Policy.",
+                "quote": "Educational Background: David Douglas High School; B.A., Int’l Affairs; Masters in Public Policy",
+                "reason": "a name in the summary is not in its quote"
+              }
+            ],
             "flagged": [],
             "corrected": [],
             "capped": []
@@ -278,7 +281,7 @@
           "relocation": {
             "from": "book4",
             "to": "book13",
-            "found": 6,
+            "found": 7,
             "missed": 0
           },
           "source": {
@@ -347,7 +350,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Says Henry wants to cut military spending and end wars.",
+              "text": "Says Henry wants to end pointless wars and cut military spending.",
               "citations": [
                 {
                   "doc": "book13",
@@ -360,14 +363,14 @@
               "loaded_terms": []
             },
             {
-              "text": "text own",
+              "text": "Says Henry supports Medicare for All and universal healthcare.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 31,
                   "page_label": "p. 31",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31",
-                  "quote": "HIGHER WAGES, BETTER WORKING CONDITIONS, LOWER PRICES"
+                  "quote": "MEDICARE FOR ALL\nAll other 37 industrialized economies have universal healthcare."
                 }
               ],
               "loaded_terms": []
@@ -375,7 +378,7 @@
           ],
           "background": [
             {
-              "text": "Lists occupation as Working Class Truck Driver.",
+              "text": "Lists Henry's occupation as a Working Class Truck Driver.",
               "citations": [
                 {
                   "doc": "book13",
@@ -388,33 +391,33 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists occupational background as LongHaul Trucker, UAW Aircraft Mechanic at Rockwell, McDonnell Douglas.",
+              "text": "Lists Henry's occupational background as a LongHaul Trucker and UAW Aircraft Mechanic.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 31,
                   "page_label": "p. 31",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31",
-                  "quote": "Occupational Background:\nLongHaul Trucker, UAW Aircraft Mechanic at Rockwell, McDonnell Douglas"
+                  "quote": "Occupational Background:\nLongHaul Trucker, UAW Aircraft\nMechanic at Rockwell, McDonnell\nDouglas"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Lists educational background as UAW Trade School, Portland State University.",
+              "text": "Lists Henry's educational background as UAW Trade School and Portland State University.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 31,
                   "page_label": "p. 31",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31",
-                  "quote": "Educational Background: UAW Trade School, Portland State University"
+                  "quote": "Educational Background: UAW Trade School, Portland State\nUniversity"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Lists no prior governmental experience.",
+              "text": "Lists Henry's prior governmental experience as n/a.",
               "citations": [
                 {
                   "doc": "book13",
@@ -427,14 +430,14 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists civic leadership as boards for Oregon Consumer League, Oregon Voter Rights Coalition, Willamette Neighborhood Association, and as a shop steward and union organizer.",
+              "text": "Lists Henry's civic leadership as boards for the Oregon Consumer League, Oregon Voter Rights Coalition, and Willamette Neighborhood Association.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 31,
                   "page_label": "p. 31",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31",
-                  "quote": "Civic Leadership: Boards: Oregon Consumer League; Oregon Voter Rights Coalition, Willamette Neighborhood Association; Shop Steward and Union Organizer"
+                  "quote": "Civic Leadership: Boards: Oregon Consumer League; Oregon\nVoter Rights Coalition, Willamette Neighborhood Association; Shop\nSteward and Union Organizer"
                 }
               ],
               "loaded_terms": []
@@ -497,11 +500,37 @@
                 }
               ],
               "loaded_terms": []
+            },
+            {
+              "text": "Says Smith will advocate for healthcare for all.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 21,
+                  "page_label": "p. 21",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=21",
+                  "quote": "Healthcare for all."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "text-based: Says Smith will seek a permanent moratorium on data centers.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 38,
+                  "page_label": "p. 38",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=38",
+                  "quote": "A permanent moratorium on data centers"
+                }
+              ],
+              "loaded_terms": []
             }
           ],
           "background": [
             {
-              "text": "Lists Smith's occupation is an inventor, small business owner, welder, and fabricator.",
+              "text": "Lists Smith's occupation as an inventor, small business owner, welder, and fabricator.",
               "citations": [
                 {
                   "doc": "book13",
@@ -514,20 +543,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists Smith's occupational background is an inventor, welder, and fabricator.",
-              "citations": [
-                {
-                  "doc": "book13",
-                  "page": 38,
-                  "page_label": "p. 38",
-                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=38",
-                  "quote": "Occupational Background: Inventor, Welder, Fabricator"
-                }
-              ],
-              "loaded_terms": []
-            },
-            {
-              "text": "text-based on on Toromont Energy Welding Apprenticeship, and over a decade of experience with regulatory compliance for the FDA and USPTO.",
+              "text": "text-text-based: Lists Smith's educational background as Toromont Energy Welding Apprenticeship, with over a decade of experience with regulatory compliance for the FDA and USPTO.",
               "citations": [
                 {
                   "doc": "book13",
@@ -538,6 +554,19 @@
                 }
               ],
               "loaded_terms": []
+            },
+            {
+              "text": "Lists Smith has no prior governmental experience.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 38,
+                  "page_label": "p. 38",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=38",
+                  "quote": "Prior Governmental Experience: None"
+                }
+              ],
+              "loaded_terms": []
             }
           ],
           "endorsements": [],
@@ -545,15 +574,16 @@
           "funding": null,
           "doc": "book13",
           "pages": [
+            21,
             38
           ],
           "checks": {
             "dropped": [
               {
                 "section": "background",
-                "text": "Lists Smith'",
-                "quote": "Lists Smith'",
-                "reason": "quote not found on cited page (best match 0%)"
+                "text": "Lists Smith's occupational background as an inventor, welder, and fabricator.",
+                "quote": "text-based: Occupational Background: Inventor, Welder, Fabricator",
+                "reason": "quote not found on cited page (best match 86%)"
               }
             ],
             "flagged": [],
@@ -563,7 +593,7 @@
           "relocation": {
             "from": "book4",
             "to": "book13",
-            "found": 4,
+            "found": 6,
             "missed": 0
           },
           "source": {
@@ -571,8 +601,8 @@
             "title": "State Voters' Pamphlet, Multnomah County edition (Book 13)",
             "publisher": "Oregon Secretary of State"
           },
-          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=38",
-          "verify_label": "p. 38"
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=21",
+          "verify_label": "p. 21"
         },
         {
           "id": "governor/tina-kotek",
@@ -584,14 +614,40 @@
           "statement_filed": true,
           "summary": [
             {
-              "text": "Says Kotek will continue to fight to reduce homelessness by increasing shelter and treatment beds.",
+              "text": "Says Kotek raised the minimum wage, passed paid family leave, and expanded health insurance coverage.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 39,
                   "page_label": "p. 39",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
-                  "quote": "she will continue the fight to reduce homelessness."
+                  "quote": "Tina has raised the minimum wage, passed paid family leave, and expanded health insurance coverage."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Kotek is reducing red tape to build more affordable homes and has helped Oregon lead in new housing production.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 39,
+                  "page_label": "p. 39",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
+                  "quote": "she’s cutting red tape to build more affordable homes and helped Oregon outpace the nation in new housing production."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Kotek is working toward statewide universal preschool and has made investments in reading and removed cellphones from classrooms.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 39,
+                  "page_label": "p. 39",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
+                  "quote": "She got cellphones out of classrooms, made record investments in reading, and is charting a path to statewide universal preschool."
                 }
               ],
               "loaded_terms": []
@@ -599,7 +655,7 @@
           ],
           "background": [
             {
-              "text": "Lists Kotek's occupation as Governor.",
+              "text": "Lists occupation as Governor.",
               "citations": [
                 {
                   "doc": "book13",
@@ -612,40 +668,40 @@
               "loaded_terms": []
             },
             {
-              "text": "List's Kotek's occupational background as Oregon Food Bank and Children First.",
+              "text": "Lists occupational background as Oregon Food Bank, Children First.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 39,
                   "page_label": "p. 39",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
-                  "quote": "Occupational Background: Oregon Food Bank, Children First"
+                  "quote": "Occupational Background:\nOregon Food Bank, Children First"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Lists Kotek's educational background as University of Oregon and University of Washington.",
+              "text": "Lists educational background as University of Oregon, University of Washington.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 39,
                   "page_label": "p. 39",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
-                  "quote": "Educational Background: University of Oregon, University of Washington"
+                  "quote": "Educational Background:\nUniversity of Oregon, University of\nWashington"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Lists Kotek's prior governmental experience as State Representative and House Speaker.",
+              "text": "Lists prior governmental experience as State Representative, House Speaker.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 39,
                   "page_label": "p. 39",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
-                  "quote": "Prior Governmental Experience: State Representative, House Speaker"
+                  "quote": "Prior Governmental Experience: State Representative, House\nSpeaker"
                 }
               ],
               "loaded_terms": []
@@ -653,14 +709,53 @@
           ],
           "endorsements": [
             {
-              "text": "Lists endorsements from Planned Parenthood Action Oregon, OR Labor Federation AFL-CIO, Oregon League of Conservation Voters, Oregon Nurses Association, Oregon State Fire Fighters Council, SEIU Oregon, Building Power for Communities of Color, Oregon AFSCME, Stand for Children, The Mother PAC, Sierra Club, and Oregon Working Families Party.",
+              "text": "Lists endorsements from Planned Parenthood Action Oregon, OR Labor Federation AFL-CIO, and Oregon League of Conservation Voters.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 39,
                   "page_label": "p. 39",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
-                  "quote": "Planned Parenthood Action Oregon OR Labor Federation AFL-CIO Oregon League of Conservation Voters Oregon Nurses Association Oregon State Fire Fighters Council SEIU Oregon Building Power for Communities of Color Oregon AFSCME Stand for Children The Mother PAC Sierra Club Oregon Working Families Party"
+                  "quote": "Planned Parenthood Action Oregon\nOR Labor Federation AFL-CIO\nOregon League of Conservation Voters"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from Oregon Nurses Association, Oregon State Fire Fighters Council, and SEIU Oregon.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 39,
+                  "page_label": "p. 39",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
+                  "quote": "Oregon Nurses Association\nOregon State Fire Fighters Council\nSEIU Oregon"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from Building Power for Communities of Color, Oregon AFSCME, and Stand for Children.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 39,
+                  "page_label": "p. 39",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
+                  "quote": "Building Power for Communities of Color\nOregon AFSCME\nStand for Children"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from The Mother PAC, Sierra Club, and Oregon Working Families Party.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 39,
+                  "page_label": "p. 39",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
+                  "quote": "The Mother PAC\nSierra Club\nOregon Working Families Party"
                 }
               ],
               "loaded_terms": []
@@ -681,7 +776,7 @@
           "relocation": {
             "from": "book4",
             "to": "book13",
-            "found": 6,
+            "found": 11,
             "missed": 0
           },
           "source": {
@@ -709,20 +804,33 @@
                   "page": 39,
                   "page_label": "p. 39",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
-                  "quote": "Christine will order state agencies to repeal rules, fees and mandates driving up the cost of housing, energy, food, transportation, childcare and healthcare"
+                  "quote": "order state agencies to repeal rules, fees and mandates driving up the cost of housing, energy, food, transportation, childcare and healthcare."
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Says Drazan will work to lower the cost of living, bring back jobs and businesses, and address homelessness and addiction.",
+              "text": "Says Drazan will work to lower the cost of living, bring back jobs and businesses, and break the cycle of homelessness and addiction.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 39,
                   "page_label": "p. 39",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
-                  "quote": "The Drazan Plan will: · Lower the cost of living · Bring back jobs and businesses · Break the cycle of homelessness and addiction"
+                  "quote": "The Drazan Plan will: Lower the cost of living Bring back jobs and businesses Break the cycle of homelessness and addiction"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Drazan will make it faster, simpler and less expensive to build homes and restore graduation requirements to fix schools.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 39,
+                  "page_label": "p. 39",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
+                  "quote": "Make it faster, simpler and less expensive to build homes Restore graduation requirements and fix our schools"
                 }
               ],
               "loaded_terms": []
@@ -730,7 +838,7 @@
           ],
           "background": [
             {
-              "text": "Lists occupation as State Senator.",
+              "text": "Lists Drazan's occupation as State Senator.",
               "citations": [
                 {
                   "doc": "book13",
@@ -743,7 +851,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists occupational background as State Representative and Executive Director.",
+              "text": "Lists Drazan's occupational background as State Representative and Executive Director.",
               "citations": [
                 {
                   "doc": "book13",
@@ -756,7 +864,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists educational background as George Fox University, BA.",
+              "text": "Lists Drazan's educational background as George Fox University, BA.",
               "citations": [
                 {
                   "doc": "book13",
@@ -769,7 +877,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists prior governmental experience as House Republican Leader, Oregon Innovation Council, and Clackamas County Planning Commission.",
+              "text": "Lists Drazan's prior governmental experience as House Republican Leader, Oregon Innovation Council, and Clackamas County Planning Commission.",
               "citations": [
                 {
                   "doc": "book13",
@@ -784,58 +892,40 @@
           ],
           "endorsements": [
             {
-              "text": "Lists endorsements from the Revitalize Portland Coalition and Oregonians for Food & Shelter.",
+              "text": "Lists endorsements from Revitalize Portland Coalition, Oregonians for Food & Shelter, Union Contractor Group, Oregon's Sheriffs, and Associated General Contractors Oregon-Columbia Chapter.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 39,
                   "page_label": "p. 39",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
-                  "quote": "Revitalize Portland Coalition\nOregonians for Food & Shelter"
+                  "quote": "Revitalize Portland Coalition Oregonians for Food & Shelter Union Contractor Group Oregon's Sheriffs Associated General Contractors Oregon-Columbia Chapter"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from Oregon Farm Bureau, Oregon Small Business Association, Oregon Coalition of Police & Sheriffs, Associated Builders and Contractors PNW, Defend Small Business PAC, and Oregon Nurseries' PAC.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 39,
+                  "page_label": "p. 39",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=39",
+                  "quote": "Oregon Farm Bureau Oregon Small Business Association Oregon Coalition of Police & Sheriffs Associated Builders and Contractors PNW Defend Small Business PAC Oregon Nurseries' PAC"
                 }
               ],
               "loaded_terms": []
             }
           ],
-          "furnished_by": "Friends of Christine Drazan.",
+          "furnished_by": "Friends of Christine Drazan",
           "funding": null,
           "doc": "book13",
           "pages": [
             39
           ],
           "checks": {
-            "dropped": [
-              {
-                "section": "summary",
-                "text": "Says Drazan will restore graduation requirements, fix schools, and audit spending.",
-                "quote": "The Drazan Plan will: · Restore graduation requirements and fix our schools · Audit spending and deliver results",
-                "reason": "quote not found on cited page (best match 85%)"
-              },
-              {
-                "section": "endorsements",
-                "text": "Lists endorsements from the Union Contractor Group and Associated General Contractors Oregon-Columbia Chapter.",
-                "quote": "Union Contractor Group\nAssociated General Contractors Oregon-Columbia Chapter",
-                "reason": "quote not found on cited page (best match 81%)"
-              },
-              {
-                "section": "endorsements",
-                "text": "text\": \"Lists endorsements from Oregon's Sheriffs and the Oregon Coalition of Police & Sheriffs.\"",
-                "quote": "Oregon’s Sheriffs\nOregon Coalition of Police & Sheriffs",
-                "reason": "quote not found on cited page (best match 78%)"
-              },
-              {
-                "section": "endorsements",
-                "text": "Lists endorsements from the Oregon Farm Bureau and Oregon Nurseries' PAC.",
-                "quote": "Oregon Farm Bureau\nOregon Nurseries’ PAC",
-                "reason": "quote not found on cited page (best match 78%)"
-              },
-              {
-                "section": "endorsements",
-                "text": "Lists endorsements from the Oregon Small Business Association and Defend Small Business PAC.",
-                "quote": "Oregon Small Business Association\nDefend Small Business PAC",
-                "reason": "quote not found on cited page (best match 75%)"
-              }
-            ],
+            "dropped": [],
             "flagged": [],
             "corrected": [],
             "capped": []
@@ -843,7 +933,7 @@
           "relocation": {
             "from": "book4",
             "to": "book13",
-            "found": 7,
+            "found": 9,
             "missed": 0
           },
           "source": {
@@ -873,24 +963,48 @@
           "statement_filed": true,
           "summary": [
             {
-              "text": "In their statement: “build an economy where everyone has the opportunity to succeed.”",
+              "text": "Says Dexter will fight for working families by supporting living wages, union jobs, and affordable housing and childcare.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 35,
                   "page_label": "p. 35",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
-                  "quote": "build an economy where everyone has the opportunity to succeed."
+                  "quote": "Working families, not billionaires: Good schools, living wages, union jobs, affordable housing and childcare."
                 }
               ],
-              "loaded_terms": [
-                "build an economy for everyone to succeed"
-              ]
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Dexter believes healthcare is a human right and supports accessible, affordable care, including abortion, vaccinations, and gender-affirming care.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
+                  "quote": "Healthcare is a human right: High quality, accessible and affordable care for all. Keep politicians out of exam rooms and let science guide care. Abortion, vaccinations and gender-affirming care are healthcare."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Dexter has secured $14M for community-led projects and helped Oregonians recover millions from the federal government.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
+                  "quote": "Secured $14M for community-led projects, Helped Oregonians recover millions owed to them by the federal government,"
+                }
+              ],
+              "loaded_terms": []
             }
           ],
           "background": [
             {
-              "text": "Says Dexter's occupation is U.S. Representative.",
+              "text": "Lists occupation as U.S. Representative.",
               "citations": [
                 {
                   "doc": "book13",
@@ -901,24 +1015,115 @@
                 }
               ],
               "loaded_terms": []
-            }
-          ],
-          "endorsements": [
+            },
             {
-              "text": "Lists endorsements from Planned Parenthood Action Fund, U.S. Senators Jeff Merkley and Ron Wyden, and Governor Tina Kotek.",
+              "text": "Lists occupational background as Pulmonary/Critical Care Physician and Grocery Worker.",
               "citations": [
                 {
                   "doc": "book13",
                   "page": 35,
                   "page_label": "p. 35",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
-                  "quote": "Supported by: Planned Parenthood Action Fund, U.S. Senators Jeff Merkley & Ron Wyden, Governor Tina Kotek"
+                  "quote": "Occupational Background: Pulmonary/Critical Care Physician, Grocery Worker"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists educational background as University of Washington, B.A., M.D.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
+                  "quote": "Educational Background: University of Washington, B.A., M.D."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists prior governmental experience as State Representative.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
+                  "quote": "Prior Governmental Experience: State Representative"
                 }
               ],
               "loaded_terms": []
             }
           ],
-          "furnished_by": "Maxine for Congress.",
+          "endorsements": [
+            {
+              "text": "Lists endorsements from Planned Parenthood Action Fund and Everytown for Gun Safety Action Fund.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
+                  "quote": "Planned Parenthood Action Fund\nU.S. Senators Jeff Merkley & Ron Wyden\nGovernor Tina Kotek\nAttorney General Dan Rayfield\nOR Labor Federation, AFL-CIO\nPortland Mayor Keith Wilson\nGresham Mayor Travis Stovall\nEverytown for Gun Safety Action Fund"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from U.S. Senators Jeff Merkley and Ron Wyden, Governor Tina Kotek, and Attorney General Dan Rayfield.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
+                  "quote": "U.S. Senators Jeff Merkley & Ron Wyden\nGovernor Tina Kotek\nAttorney General Dan Rayfield"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from OR Labor Federation, AFL-CIO and Oregon Nurses Association.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
+                  "quote": "OR Labor Federation, AFL-CIO\nPortland Mayor Keith Wilson\nGresham Mayor Travis Stovall\nEverytown for Gun Safety Action Fund\nOregon League of Conservation Voters\nOregon Nurses Association"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from Portland Mayor Keith Wilson and Gresham Mayor Travis Stovall.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
+                  "quote": "Portland Mayor Keith Wilson\nGresham Mayor Travis Stovall"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsement from Oregon League of Conservation Voters.",
+              "citations": [
+                {
+                  "doc": "book13",
+                  "page": 35,
+                  "page_label": "p. 35",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
+                  "quote": "Oregon League of Conservation Voters"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "furnished_by": "Maxine for Congress",
           "funding": null,
           "doc": "book13",
           "pages": [
@@ -926,16 +1131,7 @@
           ],
           "checks": {
             "dropped": [],
-            "flagged": [
-              {
-                "section": "summary",
-                "text": "Says Dexter will fight to lower costs, protect freedoms, and build an economy for everyone to succeed.",
-                "loaded_terms": [
-                  "build an economy for everyone to succeed"
-                ],
-                "replaced_with": "In their statement: “build an economy where everyone has the opportunity to succeed.”"
-              }
-            ],
+            "flagged": [],
             "corrected": [],
             "capped": []
           },
@@ -994,7 +1190,7 @@
           "question": "Should Portland create participatory budgeting program for residents to make binding decisions to spend 2% of city’s discretionary budget?",
           "summary": [
             {
-              "text": "If approved, the amended Charter would require the Council to allocate at least  2% of the city's discretionary ongoing expenses towards a participatory budgeting program.",
+              "text": "If approved, the measure would require the Council to allocate at least  2% of the city's discretionary General Fund expenses towards a participatory budgeting program.",
               "citations": [
                 {
                   "doc": "multnomah_vp",
@@ -1007,7 +1203,7 @@
               "loaded_terms": []
             },
             {
-              "text": "If approved, the program would be developed with input from an oversight committee of residents from all Council districts.",
+              "text": "If approved, the measure would involve a program developed with input from an oversight committee of residents from all Council districts.",
               "citations": [
                 {
                   "doc": "multnomah_vp",
@@ -1020,14 +1216,27 @@
               "loaded_terms": []
             },
             {
-              "text": "Would the program be open to any resident's funding proposals for citywide or district projects?",
+              "text": "If approved, the measure would allow any resident's funding proposals for citywide or district projects to be assessed and refined by city staff and budget delegates.",
               "citations": [
                 {
                   "doc": "multnomah_vp",
                   "page": 78,
                   "page_label": "M-78",
                   "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download#page=78",
-                  "quote": "Open to any resident’s funding proposals for citywide or district projects"
+                  "quote": "Proposals assessed and refined into limited number of feasible projects by city staff and budget delegates from all districts"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "If approved, the measure would be operational by July 2027.",
+              "citations": [
+                {
+                  "doc": "multnomah_vp",
+                  "page": 78,
+                  "page_label": "M-78",
+                  "url": "https://multco.us/file/multnomah_county_voters'_pamphlet_-_november_2026_general_election/download#page=78",
+                  "quote": "Operational July 2027"
                 }
               ],
               "loaded_terms": []
@@ -1228,7 +1437,7 @@
                 "Vikki Payne, Future Portland Action T Fund"
               ],
               "loaded_terms": [
-                "bypasses the existing budget process"
+                "bypasses the existing budget process and normal budget hearings"
               ]
             },
             {
@@ -1277,7 +1486,7 @@
                 "Amy Ruiz, Protect Our City Services"
               ],
               "loaded_terms": [
-                "lock in a mandatory budget set-aside"
+                "difficult or impossible"
               ]
             }
           ],
@@ -1288,11 +1497,6 @@
           ],
           "checks": {
             "dropped": [
-              {
-                "section": "summary",
-                "text": "text",
-                "reason": "quote too short to verify"
-              },
               {
                 "section": "for theme citation",
                 "text": "Supporters supporters argue that the measure will allow residents to fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-base and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund and community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-bas and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects andfund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects andfund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and fund community-based projects and residents and City staff can work together in their neighborhoods to directly determine how to spend city funds.",
@@ -1326,7 +1530,7 @@
                 "section": "against",
                 "text": "Opponents argue the measure would create a new, permanent, and unelected oversight structure that bypasses the existing budget process and normal budget hearings. bypasses the existing budget process and normal budget hearings.",
                 "loaded_terms": [
-                  "bypasses the existing budget process"
+                  "bypasses the existing budget process and normal budget hearings"
                 ],
                 "replaced_with": "Argument filed by Jason Williams, Taxpayers Association of Oregon: “#3. Unelected Committees Make Binding Decisions An unelected “oversight committee” and “budget delegates” — not the elected Mayor or Council — assess, refine, and advance spending proposals to a binding vote.”"
               },
@@ -1334,7 +1538,7 @@
                 "section": "against",
                 "text": "Opponents argue the measure would lock in a mandatory budget set-aside into the city charter, making it difficult or impossible for future councils to adjust or defund the following years. following the city's fiscal condition. following the city's fiscal condition.",
                 "loaded_terms": [
-                  "lock in a mandatory budget set-aside"
+                  "difficult or impossible"
                 ],
                 "replaced_with": "Argument filed by Bob Weinstein: “Portlanders shouldn’t be locked into a permanent $16 million commitment by people unwilling to show their faces.”"
               }

@@ -1,78 +1,78 @@
 {
   "id": "eugene-ward-5/athena-aguiar",
   "prompt_hashes": {
-    "candidate": "8a14084841fae7e4"
+    "candidate": "a4f18c0c6dad6448"
   },
   "models": {
-    "candidate": "gemma-4-31b-it"
+    "candidate": "gemma-4-26b-a4b-it"
   },
   "candidate": {
     "summary": [
       {
-        "text": "Aguiar says Aguiar will support the construction of affordable housing.",
+        "text": "Says Aguiar will support building affordable housing.",
         "quote": "Support Building Affordable Housing",
         "page": 53
       },
       {
-        "text": "Aguiar says Aguiar will advocate for the full funding of a crisis response service similar to CAHOOTs.",
-        "quote": "Fully Fund CAHOOTs-like Crisis Response Service",
+        "text": "Says Aguiar will expand bus-rapid-transit services.",
+        "quote": "Expand Bus-Rapid-Transit Services",
         "page": 53
       },
       {
-        "text": "Aguiar says Aguiar will support the expansion of bus-rapid-transit services and the creation of more sidewalks and protected bike lanes.",
-        "quote": "Build more Protected Bike Lanes and Sidewalks\n-Expand Bus-Rapid-Transit Services",
+        "text": "Says Aguiar will preserve funding for libraries and public services.",
+        "quote": "Preserve funding for Libraries and Public Services",
         "page": 53
       }
     ],
     "background": [
       {
         "text": "Lists Aguiar's occupation as an environmental activist and organizer.",
-        "quote": "Occupation: Environmental\nActivist, Organizer",
+        "quote": "Occupation: Environmental Activist, Organizer",
         "page": 53
       },
       {
         "text": "Lists Aguiar's occupational background as an environmental restoration technician.",
-        "quote": "Occupational Background:\nEnvironmental Restoration\nTechnician",
+        "quote": "Occupational Background: Environmental Restoration Technician",
         "page": 53
       },
       {
         "text": "Lists Aguiar's educational background as a B.A. in Biology from Coe College.",
-        "quote": "Educational Background: B.A. in\nBiology, Coe College",
+        "quote": "Educational Background: B.A. in Biology, Coe College",
         "page": 53
       },
       {
-        "text": "Lists Aguiar's prior governmental experience as serving on the Eugene Library Advisory Board and the Eugene Library, Cultural, and Recreational Services Working Group.",
-        "quote": "Prior Governmental Experience: Eugene Library Advisory Board\nand Eugene Library, Cultural, and Recreational Services Working\nGroup",
+        "text": "Lists Aguiar's prior governmental experience on the Eugene Library Advisory Board and the Eugene Library, Cultural, and Recreational Services Working Group.",
+        "quote": "Prior Governmental Experience: Eugene Library Advisory Board and Eugene Library, Cultural, and Recreational Services Working Group",
         "page": 53
       }
     ],
     "endorsements": [
       {
-        "text": "Lists endorsements from the Democratic Party of Lane County, Working Families Party, and Sierra Club.",
-        "quote": "Endorsed By:\nDemocratic Party of Lane County\nDemocratic Municipal Officials\nWorking Families Party\nSierra Club",
+        "text": "Lists endorsements from the Democratic Party of Lane County, Democratic Municipal Officials, and the Working Families Party.",
+        "quote": "Endorsed By: Democratic Party of Lane County Democratic Municipal Officials Working Families Party",
         "page": 53
       },
       {
-        "text": "Lists endorsements from various labor organizations, including the Oregon Labor Federation and SEIU Oregon.",
-        "quote": "Lane County Central Labor Chapter, Oregon Labor Federation\nAmerican Federation of Teachers - Oregon\nAFSCME Local 1724\nSEIU Oregon",
+        "text": "Lists endorsements from the Sierra Club and the Lane County Central Labor Chapter, Oregon Labor Federation.",
+        "quote": "Endorsed By: Sierra Club Lane County Central Labor Chapter, Oregon Labor Federation",
         "page": 53
       },
       {
-        "text": "Lists endorsements from Eugene Mayors Kitty Piercy and Lucy Vinis.",
-        "quote": "Eugene Mayors Kitty Piercy and Lucy Vinis",
+        "text": "Lists endorsements from AFSCME Local 1724, SEIU Oregon, and the Eugene Tenant Alliance.",
+        "quote": "Endorsed By: AFSCME Local 1724 SEIU Oregon Eugene Tenant Alliance",
         "page": 53
       },
       {
-        "text": "Lists endorsements from Eugene City Councilors Matt Keating, Lyndsie Leech, and Jennifer Yeh.",
-        "quote": "Eugene City Councilors Matt Keating, Lyndsie Leech, and Jennifer Yeh",
+        "text": "Lists endorsements from Eugene Mayors Kitty Piercy and Lucy Vinis, and Eugene City Councilors Matt Keating, Lyndsie Leech, and Jennifer Yeh.",
+        "quote": "Endorsed By: Eugene Mayors Kitty Piercy and Lucy Vinis Eugene City Councilors Matt Keating, Lyndsie Leech, and Jennifer Yeh",
         "page": 53
       },
       {
-        "text": "Lists endorsements from 4J School Board Members Tom Di Liberto, Maya Rabasa, and Jenny Jonak.",
-        "quote": "4J School Board Members Tom Di Liberto, Maya Rabasa, and Jenny Jonak",
+        "text": "Lists endorsements from Senator James Manning, 4J School Board Members Tom Di Liberto, Maya Rabasa, and Jenny Jonak, and Jerry Rust.",
+        "quote": "Endorsed By: Senator James Manning 4J School Board Members Tom Di Liberto, Maya Rabasa, and Jenny Jonak Jerry Rust",
         "page": 53
       }
     ],
-    "furnished_by": "Committee to Elect Athena Aguiar."
+    "furnished_by": "Committee to Elect Athena Aguiar"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "us-senator/chris-henry",
   "prompt_hashes": {
-    "candidate": "8045a5b611ad3939"
+    "candidate": "785cede6886d7785"
   },
   "models": {
     "candidate": "gemma-4-31b-it"
@@ -14,40 +14,40 @@
         "page": 31
       },
       {
-        "text": "Says Henry wants to cut military spending and end wars.",
+        "text": "Says Henry wants to end pointless wars and cut military spending.",
         "quote": "CUT MASSIVE U.$. MILITARY\nEnd Pointless Wars.",
         "page": 31
       },
       {
-        "text": "text own",
-        "quote": "HIGHER WAGES, BETTER WORKING CONDITIONS, LOWER PRICES",
+        "text": "Says Henry supports Medicare for All and universal healthcare.",
+        "quote": "MEDICARE FOR ALL\nAll other 37 industrialized economies have universal healthcare.",
         "page": 31
       }
     ],
     "background": [
       {
-        "text": "Lists occupation as Working Class Truck Driver.",
+        "text": "Lists Henry's occupation as a Working Class Truck Driver.",
         "quote": "Occupation: Working Class Truck Driver",
         "page": 31
       },
       {
-        "text": "Lists occupational background as LongHaul Trucker, UAW Aircraft Mechanic at Rockwell, McDonnell Douglas.",
-        "quote": "Occupational Background:\nLongHaul Trucker, UAW Aircraft Mechanic at Rockwell, McDonnell Douglas",
+        "text": "Lists Henry's occupational background as a LongHaul Trucker and UAW Aircraft Mechanic.",
+        "quote": "Occupational Background:\nLongHaul Trucker, UAW Aircraft\nMechanic at Rockwell, McDonnell\nDouglas",
         "page": 31
       },
       {
-        "text": "Lists educational background as UAW Trade School, Portland State University.",
-        "quote": "Educational Background: UAW Trade School, Portland State University",
+        "text": "Lists Henry's educational background as UAW Trade School and Portland State University.",
+        "quote": "Educational Background: UAW Trade School, Portland State\nUniversity",
         "page": 31
       },
       {
-        "text": "Lists no prior governmental experience.",
+        "text": "Lists Henry's prior governmental experience as n/a.",
         "quote": "Prior Governmental Experience: n/a",
         "page": 31
       },
       {
-        "text": "Lists civic leadership as boards for Oregon Consumer League, Oregon Voter Rights Coalition, Willamette Neighborhood Association, and as a shop steward and union organizer.",
-        "quote": "Civic Leadership: Boards: Oregon Consumer League; Oregon Voter Rights Coalition, Willamette Neighborhood Association; Shop Steward and Union Organizer",
+        "text": "Lists Henry's civic leadership as boards for the Oregon Consumer League, Oregon Voter Rights Coalition, and Willamette Neighborhood Association.",
+        "quote": "Civic Leadership: Boards: Oregon Consumer League; Oregon\nVoter Rights Coalition, Willamette Neighborhood Association; Shop\nSteward and Union Organizer",
         "page": 31
       }
     ],

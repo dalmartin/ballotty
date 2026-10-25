@@ -1,7 +1,7 @@
 {
   "id": "corvallis-mayor/andrew-struthers",
   "prompt_hashes": {
-    "candidate": "e5dcc13d3c46e5bc"
+    "candidate": "c7d6c5c8afa38c11"
   },
   "models": {
     "candidate": "gemma-4-26b-a4b-it"
@@ -9,8 +9,18 @@
   "candidate": {
     "summary": [
       {
-        "text": "Says Struthers will support workers and unions, advocate for job growth, and lobby the state legislature.",
-        "quote": "support workers and unions in Corvallis, advocate for policies that will spur job growth, and lobby the state legislature",
+        "text": "Says Struthers will support workers and unions and advocate for policies that spur job growth.",
+        "quote": "support workers and unions in Corvallis, advocate for policies that spur job growth",
+        "page": 13
+      },
+      {
+        "text": "Says Struthers will focus on improving community trust with city government through regular informal events and community conversations.",
+        "quote": "Restoring trust by having regular informal mayoral events, encouraging City Council ward meetings, and engaging in community-based conversations.",
+        "page": 13
+      },
+      {
+        "text": "Says Struthers will push for housing development policies to increase all types of housing.",
+        "quote": "I will push for housing development policies that will increase all types of housing.",
         "page": 13
       }
     ],
@@ -27,11 +37,11 @@
       },
       {
         "text": "Lists Struthers's education background as a BS in Finance and Business Information Systems from OSU.",
-        "quote": "eucation Background: BS in Finance and Business Information Systems; OSU",
+        "quote": "Education Background: BS in Finance and Business Information Systems; OSU",
         "page": 13
       },
       {
-        "text": "Lists Struthers's prior governmental experience as a current Benton County Planning Commissioner and former Corvallis City Councilor and Council Vice-President.",
+        "text": "Lists Struthers's prior governmental experience as a current Benton County Planning Commissioner and former Corvallis City Councilor.",
         "quote": "Prior Governmental Experience: Current Benton County Planning Commissioner, Former Corvallis City Councilor and Council Vice-President",
         "page": 13
       }

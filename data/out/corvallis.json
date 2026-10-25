@@ -3,7 +3,7 @@
   "name": "Corvallis",
   "county": "Benton County",
   "coverage_note": null,
-  "generated_at": "2026-10-25T21:54:39+00:00",
+  "generated_at": "2026-10-25T22:17:09+00:00",
   "sources": [
     {
       "doc": "benton_vp",
@@ -40,19 +40,6 @@
           "statement_filed": true,
           "summary": [
             {
-              "text": "Says Smith will work to make Oregon affordable by incentivizing job growth and supporting small businesses.",
-              "citations": [
-                {
-                  "doc": "book6",
-                  "page": 30,
-                  "page_label": "p. 30",
-                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=30",
-                  "quote": "incentivize job growth in our communities, supporting local small businesses."
-                }
-              ],
-              "loaded_terms": []
-            },
-            {
               "text": "Says Smith will fight for drug and mental health treatment and accountability to end permanent street camping.",
               "citations": [
                 {
@@ -66,7 +53,7 @@
               "loaded_terms": []
             },
             {
-              "text": "making Smith will ensure data centers are accountable and protect natural resources to prevent cost shifts to households.",
+              "text": "Says Smith will ensure data centers are accountable and protect natural resources to prevent costs from being shifted to households.",
               "citations": [
                 {
                   "doc": "book6",
@@ -81,7 +68,7 @@
           ],
           "background": [
             {
-              "text": "Lists Smith's occupation as State Senator and Small Business Owner.",
+              "text": "Lists Smith's occupation as a State Senator and Small Business Owner.",
               "citations": [
                 {
                   "doc": "book6",
@@ -94,35 +81,20 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists Smith's occupational background as State Representative, County Commissioner, Small Business Owner/Business Manager, and Director-Economic Development.",
+              "text": "Lists Smith's occupational background as a State Representative, County Commissioner, Small Business Owner/Business Manager, and Director-Economic Development.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 30,
                   "page_label": "p. 30",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=30",
-                  "quote": "List's occupational background as State Representative, County Commissioner, Small Business Owner/Business Manager, Director-Economic Development"
+                  "quote": "Occupational Background: State Representative, County Commissioner, Small Business Owner/Business Manager, Director-Economic Development"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "In their statement: “Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Communities, Senate-Dir-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Making-Legislative Sportsmen's Caucus/Wine Caucus”",
-              "citations": [
-                {
-                  "doc": "book6",
-                  "page": 30,
-                  "page_label": "p. 30",
-                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=30",
-                  "quote": "Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Communities, Senate-Dir-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Making-Legislative Sportsmen's Caucus/Wine Caucus"
-                }
-              ],
-              "loaded_terms": [
-                "disaster"
-              ]
-            },
-            {
-              "text": "Lists Smith'--|und-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Resources, Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Education-Preventing-Data-Centers-Driving-Up-Costs-David-Smith-Smith-Smith-Smith-Smith-Education-Education-Education-Education-Education-Education-Education-More-Information-www.DavidBrockSmithforOregon.com-www.Education-OregonLegislature.com/SmithD",
+              "text": "Lists Smith's educational background as Pacific High School, SOCC, and SOU.",
               "citations": [
                 {
                   "doc": "book6",
@@ -130,6 +102,19 @@
                   "page_label": "p. 30",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=30",
                   "quote": "Educational Background: Pacific High School, SOCC, SOU"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Smith's prior governmental experience as a Senator-Deputy Leader, State Representative-Assistant Leader, and various legislative committees and task forces.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 30,
+                  "page_label": "p. 30",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=30",
+                  "quote": "Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade-Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches-Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Committees, Senate-Board Member-Oregon Infrastructure Finance Authority/Oregon Environmental Restoration Council, Co-Chair-Legislative Sportsmen's Caucus/Wine Caucus"
                 }
               ],
               "loaded_terms": []
@@ -143,24 +128,22 @@
             30
           ],
           "checks": {
-            "dropped": [],
-            "flagged": [
+            "dropped": [
               {
-                "section": "background",
-                "text": "text-only: text-only: text-only: text-|und-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Committees, Senate-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Legislative Sportsmen's Caucus/Wine Caucus",
-                "loaded_terms": [
-                  "disaster"
-                ],
-                "replaced_with": "In their statement: “Prior Governmental Experience: Senator-Deputy Leader, State Representative-Assistant Leader, Legislative Committees-Vice Chair-Energy & Environment-Natural Resources-Agriculture, Land Use & Water-Education-Economic Development & Trade- Veterans, Emergency Management Federal/World Affairs-Joint Ways & Means-Sub-Public Safety/Natural Resources, Legislative Task Forces/Workgroups-Sudden Oak Death-Opioid-Maritime Workforce Development-Invasive Species-Agricultural Ditches- Salmon & Habitat Enhancement, Pacific Northwest Economic Region-Delegate, Council of State Governments West-Co-Chair Wildfire & Disaster Preparedness/Public Safety Communities, Senate-Dir-Board Member-Oregon Infrastructure Finance Authority/ Oregon Environmental Restoration Council, Co-Chair-Making-Legislative Sportsmen's Caucus/Wine Caucus”"
+                "section": "summary",
+                "text": "Says Smith will work to make Oregon affordable by incentivizing job growth, supporting small businesses, and reducing government spending.",
+                "quote": "incentivize job growth in our communities, supporting local small businesses.",
+                "reason": "a name in the summary is not in its quote"
               }
             ],
+            "flagged": [],
             "corrected": [],
             "capped": []
           },
           "relocation": {
             "from": "book4",
             "to": "book6",
-            "found": 7,
+            "found": 6,
             "missed": 0
           },
           "source": {
@@ -181,14 +164,40 @@
           "statement_filed": true,
           "summary": [
             {
-              "text": "Says Merkley wants to end ICE agents operating as secret police and ensure accountability for civil rights violations.",
+              "text": "Says Merkley wants to end political corruption by stopping stock trading and reforming the Supreme Court.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 31,
                   "page_label": "p. 31",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=31",
-                  "quote": "No more ICE agents operating as secret police; no operations at schools or warrantless home raids. Full accountability for every civil rights violation."
+                  "quote": "No more stock trading; no more exchanging government favors for investments in Trump’s companies. The Supreme Court needs reform and a binding code of ethics."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Merkley wants to transition from fossil fuels to renewable energy.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=31",
+                  "quote": "Rapidly transition from dirty, expensive fossils to cheaper, cleaner, renewables."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Merkley wants to expand vote-by-mail and stop gerrymandering.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 31,
+                  "page_label": "p. 31",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=31",
+                  "quote": "Stop gerrymandering. Require paper ballots. End secret campaign funding. Expand vote-by-mail."
                 }
               ],
               "loaded_terms": []
@@ -196,7 +205,7 @@
           ],
           "background": [
             {
-              "text": "Says Merkley's occupation is U.S. Senator for Oregon.",
+              "text": "Lists Merkley's occupation as a U.S. Senator for Oregon.",
               "citations": [
                 {
                   "doc": "book6",
@@ -209,7 +218,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Says Merkley's occupational background includes Habitat for Humanity, National Security Analyst, and Small Business Founder.",
+              "text": "Lists Merkley's occupational background as a National Security Analyst, Small Business Founder, and Habitat for Humanity.",
               "citations": [
                 {
                   "doc": "book6",
@@ -222,20 +231,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Says Merkley's educational background includes David Douglas High School, a B.A. in International Affairs, and a Masters in Public Policy.",
-              "citations": [
-                {
-                  "doc": "book6",
-                  "page": 31,
-                  "page_label": "p. 31",
-                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=31",
-                  "quote": "Educational Background: David Douglas High School; B.A., Int’l Affairs; Masters in Public Policy"
-                }
-              ],
-              "loaded_terms": []
-            },
-            {
-              "text": "Says Merkley's prior governmental experience includes being a State Representative and Oregon House Speaker.",
+              "text": "Lists Merkley's prior governmental experience as a State Representative and Oregon House Speaker.",
               "citations": [
                 {
                   "doc": "book6",
@@ -270,7 +266,14 @@
             31
           ],
           "checks": {
-            "dropped": [],
+            "dropped": [
+              {
+                "section": "background",
+                "text": "Lists Merkley's educational background as David Douglas High School, a B.A. in International Affairs, and a Masters in Public Policy.",
+                "quote": "Educational Background: David Douglas High School; B.A., Int’l Affairs; Masters in Public Policy",
+                "reason": "a name in the summary is not in its quote"
+              }
+            ],
             "flagged": [],
             "corrected": [],
             "capped": []
@@ -278,7 +281,7 @@
           "relocation": {
             "from": "book4",
             "to": "book6",
-            "found": 6,
+            "found": 7,
             "missed": 0
           },
           "source": {
@@ -347,7 +350,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Says Henry wants to cut military spending and end wars.",
+              "text": "Says Henry wants to end pointless wars and cut military spending.",
               "citations": [
                 {
                   "doc": "book6",
@@ -360,14 +363,14 @@
               "loaded_terms": []
             },
             {
-              "text": "text own",
+              "text": "Says Henry supports Medicare for All and universal healthcare.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 31,
                   "page_label": "p. 31",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=31",
-                  "quote": "HIGHER WAGES, BETTER WORKING CONDITIONS, LOWER PRICES"
+                  "quote": "MEDICARE FOR ALL\nAll other 37 industrialized economies have universal healthcare."
                 }
               ],
               "loaded_terms": []
@@ -375,7 +378,7 @@
           ],
           "background": [
             {
-              "text": "Lists occupation as Working Class Truck Driver.",
+              "text": "Lists Henry's occupation as a Working Class Truck Driver.",
               "citations": [
                 {
                   "doc": "book6",
@@ -388,33 +391,33 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists occupational background as LongHaul Trucker, UAW Aircraft Mechanic at Rockwell, McDonnell Douglas.",
+              "text": "Lists Henry's occupational background as a LongHaul Trucker and UAW Aircraft Mechanic.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 31,
                   "page_label": "p. 31",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=31",
-                  "quote": "Occupational Background:\nLongHaul Trucker, UAW Aircraft Mechanic at Rockwell, McDonnell Douglas"
+                  "quote": "Occupational Background:\nLongHaul Trucker, UAW Aircraft\nMechanic at Rockwell, McDonnell\nDouglas"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Lists educational background as UAW Trade School, Portland State University.",
+              "text": "Lists Henry's educational background as UAW Trade School and Portland State University.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 31,
                   "page_label": "p. 31",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=31",
-                  "quote": "Educational Background: UAW Trade School, Portland State University"
+                  "quote": "Educational Background: UAW Trade School, Portland State\nUniversity"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Lists no prior governmental experience.",
+              "text": "Lists Henry's prior governmental experience as n/a.",
               "citations": [
                 {
                   "doc": "book6",
@@ -427,14 +430,14 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists civic leadership as boards for Oregon Consumer League, Oregon Voter Rights Coalition, Willamette Neighborhood Association, and as a shop steward and union organizer.",
+              "text": "Lists Henry's civic leadership as boards for the Oregon Consumer League, Oregon Voter Rights Coalition, and Willamette Neighborhood Association.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 31,
                   "page_label": "p. 31",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=31",
-                  "quote": "Civic Leadership: Boards: Oregon Consumer League; Oregon Voter Rights Coalition, Willamette Neighborhood Association; Shop Steward and Union Organizer"
+                  "quote": "Civic Leadership: Boards: Oregon Consumer League; Oregon\nVoter Rights Coalition, Willamette Neighborhood Association; Shop\nSteward and Union Organizer"
                 }
               ],
               "loaded_terms": []
@@ -497,11 +500,37 @@
                 }
               ],
               "loaded_terms": []
+            },
+            {
+              "text": "Says Smith will advocate for healthcare for all.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 21,
+                  "page_label": "p. 21",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=21",
+                  "quote": "Healthcare for all."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "text-based: Says Smith will seek a permanent moratorium on data centers.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 36,
+                  "page_label": "p. 36",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=36",
+                  "quote": "A permanent moratorium on data centers"
+                }
+              ],
+              "loaded_terms": []
             }
           ],
           "background": [
             {
-              "text": "Lists Smith's occupation is an inventor, small business owner, welder, and fabricator.",
+              "text": "Lists Smith's occupation as an inventor, small business owner, welder, and fabricator.",
               "citations": [
                 {
                   "doc": "book6",
@@ -514,20 +543,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists Smith's occupational background is an inventor, welder, and fabricator.",
-              "citations": [
-                {
-                  "doc": "book6",
-                  "page": 36,
-                  "page_label": "p. 36",
-                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=36",
-                  "quote": "Occupational Background: Inventor, Welder, Fabricator"
-                }
-              ],
-              "loaded_terms": []
-            },
-            {
-              "text": "text-based on on Toromont Energy Welding Apprenticeship, and over a decade of experience with regulatory compliance for the FDA and USPTO.",
+              "text": "text-text-based: Lists Smith's educational background as Toromont Energy Welding Apprenticeship, with over a decade of experience with regulatory compliance for the FDA and USPTO.",
               "citations": [
                 {
                   "doc": "book6",
@@ -538,6 +554,19 @@
                 }
               ],
               "loaded_terms": []
+            },
+            {
+              "text": "Lists Smith has no prior governmental experience.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 36,
+                  "page_label": "p. 36",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=36",
+                  "quote": "Prior Governmental Experience: None"
+                }
+              ],
+              "loaded_terms": []
             }
           ],
           "endorsements": [],
@@ -545,15 +574,16 @@
           "funding": null,
           "doc": "book6",
           "pages": [
+            21,
             36
           ],
           "checks": {
             "dropped": [
               {
                 "section": "background",
-                "text": "Lists Smith'",
-                "quote": "Lists Smith'",
-                "reason": "quote not found on cited page (best match 0%)"
+                "text": "Lists Smith's occupational background as an inventor, welder, and fabricator.",
+                "quote": "text-based: Occupational Background: Inventor, Welder, Fabricator",
+                "reason": "quote not found on cited page (best match 86%)"
               }
             ],
             "flagged": [],
@@ -563,7 +593,7 @@
           "relocation": {
             "from": "book4",
             "to": "book6",
-            "found": 4,
+            "found": 6,
             "missed": 0
           },
           "source": {
@@ -571,8 +601,8 @@
             "title": "State Voters' Pamphlet, Benton County edition (Book 6)",
             "publisher": "Oregon Secretary of State"
           },
-          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=36",
-          "verify_label": "p. 36"
+          "verify_url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=21",
+          "verify_label": "p. 21"
         },
         {
           "id": "governor/tina-kotek",
@@ -584,14 +614,40 @@
           "statement_filed": true,
           "summary": [
             {
-              "text": "Says Kotek will continue to fight to reduce homelessness by increasing shelter and treatment beds.",
+              "text": "Says Kotek raised the minimum wage, passed paid family leave, and expanded health insurance coverage.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 37,
                   "page_label": "p. 37",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
-                  "quote": "she will continue the fight to reduce homelessness."
+                  "quote": "Tina has raised the minimum wage, passed paid family leave, and expanded health insurance coverage."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Kotek is reducing red tape to build more affordable homes and has helped Oregon lead in new housing production.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 37,
+                  "page_label": "p. 37",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
+                  "quote": "she’s cutting red tape to build more affordable homes and helped Oregon outpace the nation in new housing production."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Kotek is working toward statewide universal preschool and has made investments in reading and removed cellphones from classrooms.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 37,
+                  "page_label": "p. 37",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
+                  "quote": "She got cellphones out of classrooms, made record investments in reading, and is charting a path to statewide universal preschool."
                 }
               ],
               "loaded_terms": []
@@ -599,7 +655,7 @@
           ],
           "background": [
             {
-              "text": "Lists Kotek's occupation as Governor.",
+              "text": "Lists occupation as Governor.",
               "citations": [
                 {
                   "doc": "book6",
@@ -612,40 +668,40 @@
               "loaded_terms": []
             },
             {
-              "text": "List's Kotek's occupational background as Oregon Food Bank and Children First.",
+              "text": "Lists occupational background as Oregon Food Bank, Children First.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 37,
                   "page_label": "p. 37",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
-                  "quote": "Occupational Background: Oregon Food Bank, Children First"
+                  "quote": "Occupational Background:\nOregon Food Bank, Children First"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Lists Kotek's educational background as University of Oregon and University of Washington.",
+              "text": "Lists educational background as University of Oregon, University of Washington.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 37,
                   "page_label": "p. 37",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
-                  "quote": "Educational Background: University of Oregon, University of Washington"
+                  "quote": "Educational Background:\nUniversity of Oregon, University of\nWashington"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Lists Kotek's prior governmental experience as State Representative and House Speaker.",
+              "text": "Lists prior governmental experience as State Representative, House Speaker.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 37,
                   "page_label": "p. 37",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
-                  "quote": "Prior Governmental Experience: State Representative, House Speaker"
+                  "quote": "Prior Governmental Experience: State Representative, House\nSpeaker"
                 }
               ],
               "loaded_terms": []
@@ -653,14 +709,53 @@
           ],
           "endorsements": [
             {
-              "text": "Lists endorsements from Planned Parenthood Action Oregon, OR Labor Federation AFL-CIO, Oregon League of Conservation Voters, Oregon Nurses Association, Oregon State Fire Fighters Council, SEIU Oregon, Building Power for Communities of Color, Oregon AFSCME, Stand for Children, The Mother PAC, Sierra Club, and Oregon Working Families Party.",
+              "text": "Lists endorsements from Planned Parenthood Action Oregon, OR Labor Federation AFL-CIO, and Oregon League of Conservation Voters.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 37,
                   "page_label": "p. 37",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
-                  "quote": "Planned Parenthood Action Oregon OR Labor Federation AFL-CIO Oregon League of Conservation Voters Oregon Nurses Association Oregon State Fire Fighters Council SEIU Oregon Building Power for Communities of Color Oregon AFSCME Stand for Children The Mother PAC Sierra Club Oregon Working Families Party"
+                  "quote": "Planned Parenthood Action Oregon\nOR Labor Federation AFL-CIO\nOregon League of Conservation Voters"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from Oregon Nurses Association, Oregon State Fire Fighters Council, and SEIU Oregon.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 37,
+                  "page_label": "p. 37",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
+                  "quote": "Oregon Nurses Association\nOregon State Fire Fighters Council\nSEIU Oregon"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from Building Power for Communities of Color, Oregon AFSCME, and Stand for Children.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 37,
+                  "page_label": "p. 37",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
+                  "quote": "Building Power for Communities of Color\nOregon AFSCME\nStand for Children"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from The Mother PAC, Sierra Club, and Oregon Working Families Party.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 37,
+                  "page_label": "p. 37",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
+                  "quote": "The Mother PAC\nSierra Club\nOregon Working Families Party"
                 }
               ],
               "loaded_terms": []
@@ -681,7 +776,7 @@
           "relocation": {
             "from": "book4",
             "to": "book6",
-            "found": 6,
+            "found": 11,
             "missed": 0
           },
           "source": {
@@ -709,20 +804,33 @@
                   "page": 37,
                   "page_label": "p. 37",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
-                  "quote": "Christine will order state agencies to repeal rules, fees and mandates driving up the cost of housing, energy, food, transportation, childcare and healthcare"
+                  "quote": "order state agencies to repeal rules, fees and mandates driving up the cost of housing, energy, food, transportation, childcare and healthcare."
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Says Drazan will work to lower the cost of living, bring back jobs and businesses, and address homelessness and addiction.",
+              "text": "Says Drazan will work to lower the cost of living, bring back jobs and businesses, and break the cycle of homelessness and addiction.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 37,
                   "page_label": "p. 37",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
-                  "quote": "The Drazan Plan will: · Lower the cost of living · Bring back jobs and businesses · Break the cycle of homelessness and addiction"
+                  "quote": "The Drazan Plan will: Lower the cost of living Bring back jobs and businesses Break the cycle of homelessness and addiction"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Drazan will make it faster, simpler and less expensive to build homes and restore graduation requirements to fix schools.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 37,
+                  "page_label": "p. 37",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
+                  "quote": "Make it faster, simpler and less expensive to build homes Restore graduation requirements and fix our schools"
                 }
               ],
               "loaded_terms": []
@@ -730,7 +838,7 @@
           ],
           "background": [
             {
-              "text": "Lists occupation as State Senator.",
+              "text": "Lists Drazan's occupation as State Senator.",
               "citations": [
                 {
                   "doc": "book6",
@@ -743,7 +851,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists occupational background as State Representative and Executive Director.",
+              "text": "Lists Drazan's occupational background as State Representative and Executive Director.",
               "citations": [
                 {
                   "doc": "book6",
@@ -756,7 +864,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists educational background as George Fox University, BA.",
+              "text": "Lists Drazan's educational background as George Fox University, BA.",
               "citations": [
                 {
                   "doc": "book6",
@@ -769,7 +877,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists prior governmental experience as House Republican Leader, Oregon Innovation Council, and Clackamas County Planning Commission.",
+              "text": "Lists Drazan's prior governmental experience as House Republican Leader, Oregon Innovation Council, and Clackamas County Planning Commission.",
               "citations": [
                 {
                   "doc": "book6",
@@ -784,58 +892,40 @@
           ],
           "endorsements": [
             {
-              "text": "Lists endorsements from the Revitalize Portland Coalition and Oregonians for Food & Shelter.",
+              "text": "Lists endorsements from Revitalize Portland Coalition, Oregonians for Food & Shelter, Union Contractor Group, Oregon's Sheriffs, and Associated General Contractors Oregon-Columbia Chapter.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 37,
                   "page_label": "p. 37",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
-                  "quote": "Revitalize Portland Coalition\nOregonians for Food & Shelter"
+                  "quote": "Revitalize Portland Coalition Oregonians for Food & Shelter Union Contractor Group Oregon's Sheriffs Associated General Contractors Oregon-Columbia Chapter"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists endorsements from Oregon Farm Bureau, Oregon Small Business Association, Oregon Coalition of Police & Sheriffs, Associated Builders and Contractors PNW, Defend Small Business PAC, and Oregon Nurseries' PAC.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 37,
+                  "page_label": "p. 37",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=37",
+                  "quote": "Oregon Farm Bureau Oregon Small Business Association Oregon Coalition of Police & Sheriffs Associated Builders and Contractors PNW Defend Small Business PAC Oregon Nurseries' PAC"
                 }
               ],
               "loaded_terms": []
             }
           ],
-          "furnished_by": "Friends of Christine Drazan.",
+          "furnished_by": "Friends of Christine Drazan",
           "funding": null,
           "doc": "book6",
           "pages": [
             37
           ],
           "checks": {
-            "dropped": [
-              {
-                "section": "summary",
-                "text": "Says Drazan will restore graduation requirements, fix schools, and audit spending.",
-                "quote": "The Drazan Plan will: · Restore graduation requirements and fix our schools · Audit spending and deliver results",
-                "reason": "quote not found on cited page (best match 85%)"
-              },
-              {
-                "section": "endorsements",
-                "text": "Lists endorsements from the Union Contractor Group and Associated General Contractors Oregon-Columbia Chapter.",
-                "quote": "Union Contractor Group\nAssociated General Contractors Oregon-Columbia Chapter",
-                "reason": "quote not found on cited page (best match 81%)"
-              },
-              {
-                "section": "endorsements",
-                "text": "text\": \"Lists endorsements from Oregon's Sheriffs and the Oregon Coalition of Police & Sheriffs.\"",
-                "quote": "Oregon’s Sheriffs\nOregon Coalition of Police & Sheriffs",
-                "reason": "quote not found on cited page (best match 78%)"
-              },
-              {
-                "section": "endorsements",
-                "text": "Lists endorsements from the Oregon Farm Bureau and Oregon Nurseries' PAC.",
-                "quote": "Oregon Farm Bureau\nOregon Nurseries’ PAC",
-                "reason": "quote not found on cited page (best match 78%)"
-              },
-              {
-                "section": "endorsements",
-                "text": "Lists endorsements from the Oregon Small Business Association and Defend Small Business PAC.",
-                "quote": "Oregon Small Business Association\nDefend Small Business PAC",
-                "reason": "quote not found on cited page (best match 75%)"
-              }
-            ],
+            "dropped": [],
             "flagged": [],
             "corrected": [],
             "capped": []
@@ -843,7 +933,7 @@
           "relocation": {
             "from": "book4",
             "to": "book6",
-            "found": 7,
+            "found": 9,
             "missed": 0
           },
           "source": {
@@ -873,14 +963,40 @@
           "statement_filed": true,
           "summary": [
             {
-              "text": "Says DeSpain will support expanding shelter and treatment access to address homelessness, addiction, and mental illness.",
+              "text": "Says DeSpain will work to end homelessness and restore public safety by expanding shelter and treatment access.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 32,
                   "page_label": "p. 32",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=32",
-                  "quote": "expanding shelter and treatment access"
+                  "quote": "Monique supports expanding shelter and treatment access, backed by law enforcement and a justice system that keeps neighborhoods safe"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says DeSpain will fight to restore the economy, strengthen small businesses, and create opportunities for families.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 32,
+                  "page_label": "p. 32",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=32",
+                  "quote": "Monique will fight to restore our economy, strengthen small businesses, and create opportunities so families can stay and build a bright future."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says DeSpain supports responsible forest management to end smoke season and support family-wage jobs.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 32,
+                  "page_label": "p. 32",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=32",
+                  "quote": "Monique supports responsible forest management that ends our smoke season while supporting family-wage jobs."
                 }
               ],
               "loaded_terms": []
@@ -888,7 +1004,7 @@
           ],
           "background": [
             {
-              "text": "Says DeSpain is an attorney.",
+              "text": "Lists occupation as Attorney.",
               "citations": [
                 {
                   "doc": "book6",
@@ -899,18 +1015,57 @@
                 }
               ],
               "loaded_terms": []
-            }
-          ],
-          "endorsements": [
+            },
             {
-              "text": "Lists endorsements from small independent business owners, farmers, and veterans.",
+              "text": "Lists occupational background as Colonel, U.S. Air Force (retired).",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 32,
                   "page_label": "p. 32",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=32",
-                  "quote": "Small Independent Business Owners Farmers Veterans"
+                  "quote": "Occupational Background: Colonel, U.S. Air Force (retired)"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists educational background as J.D., Willamette University; M.S., Administration, Central Michigan University; B.S., Psychology, University of Utah.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 32,
+                  "page_label": "p. 32",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=32",
+                  "quote": "Educational Background: J.D., Willamette University; M.S., Administration, Central Michigan University; B.S., Psychology, University of Utah"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists prior governmental experience as USAF, 30 years, JAG.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 32,
+                  "page_label": "p. 32",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=32",
+                  "quote": "Prior Governmental Experience: USAF, 30 years, JAG"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [
+            {
+              "text": "Lists endorsements from small independent business owners, farmers, veterans, and local law enforcement.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 32,
+                  "page_label": "p. 32",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=32",
+                  "quote": "endorsed by: Small Independent Business Owners Farmers Veterans Local Law Enforcement"
                 }
               ],
               "loaded_terms": []
@@ -931,7 +1086,7 @@
           "relocation": {
             "from": "book4",
             "to": "book6",
-            "found": 3,
+            "found": 8,
             "missed": 0
           },
           "source": {
@@ -952,14 +1107,40 @@
           "statement_filed": true,
           "summary": [
             {
-              "text": "Says Hoyle is working to expand Social Security and Medicare and protect them from cuts.",
+              "text": "Says Hoyle is working to expand and protect Social Security and Medicare.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 33,
                   "page_label": "p. 33",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=33",
-                  "quote": "expand Social Security and Medicare and protect them from devastating cuts"
+                  "quote": "Val is working to expand Social Security and Medicare and protect them from devastating cuts"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Hoyle is working to lower health care costs and make prescription drugs more affordable.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=33",
+                  "quote": "In Congress, she is working to lower health care costs and taking on big pharmaceutical companies to make prescription drugs more affordable."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Hoyle is a leader in protecting legal access to reproductive health care, birth control, and abortion.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=33",
+                  "quote": "Val is a leader in protecting legal access to abortion, birth control and reproductive health care."
                 }
               ],
               "loaded_terms": []
@@ -967,7 +1148,7 @@
           ],
           "background": [
             {
-              "text": "Lists Hoyle's occupation as US Congresswoman.",
+              "text": "Lists occupation as US Congresswoman.",
               "citations": [
                 {
                   "doc": "book6",
@@ -978,18 +1159,57 @@
                 }
               ],
               "loaded_terms": []
-            }
-          ],
-          "endorsements": [
+            },
             {
-              "text": "Lists endorsements from US Senator Ron Wyden, US Senator Jeff Merkley, and Congressman Peter DeFazio.",
+              "text": "Lists occupational background in domestic and international sales and manufacturing distribution.",
               "citations": [
                 {
                   "doc": "book6",
                   "page": 33,
                   "page_label": "p. 33",
                   "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=33",
-                  "quote": "PROUDLY ENDORSED BY:"
+                  "quote": "Occupational Background: Domestic and International Sales, Manufacturing Distribution"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists educational background as Emmanuel College, BA.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=33",
+                  "quote": "Educational Background: Emmanuel College, BA"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists prior governmental experience as Oregon Commissioner, State Representative, and Chair of the Federal Export Council of Oregon.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=33",
+                  "quote": "Prior Governmental Experience: Oregon Commissioner; State Representative; Chair, Federal Export Council of Oregon"
+                }
+              ],
+              "loaded_terms": []
+            }
+          ],
+          "endorsements": [
+            {
+              "text": "Lists endorsements from the Lane Professional Firefighters Association and ORCOPS.",
+              "citations": [
+                {
+                  "doc": "book6",
+                  "page": 33,
+                  "page_label": "p. 33",
+                  "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=33",
+                  "quote": "Lane Professional Firefighters Association Oregon Coalition of Police and Sheriffs (ORCOPS)"
                 }
               ],
               "loaded_terms": []
@@ -1002,7 +1222,32 @@
             33
           ],
           "checks": {
-            "dropped": [],
+            "dropped": [
+              {
+                "section": "endorsements",
+                "text": "Lists endorsements from US Senators Ron Wyden and Jeff Merkley.",
+                "quote": "US Senator Ron Wyden US Senator Jeff Merkley",
+                "reason": "a name in the summary is not in its quote"
+              },
+              {
+                "section": "endorsements",
+                "text": "Lists endorsements from Planned Parenthood Action Fund and the Oregon League of Conservation Voters.",
+                "quote": "Planned Parenthood Action Fund Oregon League of Conservation Voters",
+                "reason": "quote not found on cited page (best match 72%)"
+              },
+              {
+                "section": "endorsements",
+                "text": "Lists endorsements from the OR Labor Federation, AFL-CIO and SEIU Oregon.",
+                "quote": "OR Labor Federation, AFL-CIO SEIU Oregon",
+                "reason": "quote not found on cited page (best match 88%)"
+              },
+              {
+                "section": "endorsements",
+                "text": "Lists endorsements from the Oregon Nurses Association and Oregon Building Trades Unions.",
+                "quote": "Oregon Nurses Association Oregon Building Trades Unions",
+                "reason": "quote not found on cited page (best match 75%)"
+              }
+            ],
             "flagged": [],
             "corrected": [],
             "capped": []
@@ -1010,7 +1255,7 @@
           "relocation": {
             "from": "book4",
             "to": "book6",
-            "found": 3,
+            "found": 8,
             "missed": 0
           },
           "source": {
@@ -1031,7 +1276,7 @@
           "statement_filed": true,
           "summary": [
             {
-              "text": "Says Filip will represent people whose interests are neglected by the government.",
+              "text": "In their statement: “I will be a voice in Congress for those whose interests are often neglected by our government.”",
               "citations": [
                 {
                   "doc": "book6",
@@ -1041,7 +1286,9 @@
                   "quote": "I will be a voice in Congress for those whose interests are often neglected by our government."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [
+                "often ignored by the government"
+              ]
             },
             {
               "text": "In their statement: “I will put people, the planet, and peace before the interests of the wealthy and powerful.”",
@@ -1055,11 +1302,11 @@
                 }
               ],
               "loaded_terms": [
-                "wealthy and powerful"
+                "people, the planet, and peace"
               ]
             },
             {
-              "text": "Says Filip will oppose those who pollute the environment for profit.",
+              "text": "In their statement: “I will be a leader who stands up to those who exploit and pollute the environment in pursuit of profit.”",
               "citations": [
                 {
                   "doc": "book6",
@@ -1069,12 +1316,14 @@
                   "quote": "I will be a leader who stands up to those who exploit and pollute the environment in pursuit of profit."
                 }
               ],
-              "loaded_terms": []
+              "loaded_terms": [
+                "pollute and exploit the environment for profit"
+              ]
             }
           ],
           "background": [
             {
-              "text": "Lists occupation as Statistician.",
+              "text": "Lists Filip's occupation as Statistician.",
               "citations": [
                 {
                   "doc": "book6",
@@ -1087,7 +1336,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists occupational background as Guest Teacher.",
+              "text": "Lists Filip's occupational background as Guest Teacher.",
               "citations": [
                 {
                   "doc": "book6",
@@ -1100,7 +1349,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists educational background as University of Oregon, Bachelor of Science in Psychology.",
+              "text": "Lists Filip's educational background as University of Oregon, Bachelor of Science in Psychology.",
               "citations": [
                 {
                   "doc": "book6",
@@ -1113,7 +1362,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists prior governmental experience as None.",
+              "text": "Lists Filip's prior governmental experience as None.",
               "citations": [
                 {
                   "doc": "book6",
@@ -1138,11 +1387,27 @@
             "flagged": [
               {
                 "section": "summary",
+                "text": "Says Filip will represent people whose interests are often ignored by the government.",
+                "loaded_terms": [
+                  "often ignored by the government"
+                ],
+                "replaced_with": "In their statement: “I will be a voice in Congress for those whose interests are often neglected by our government.”"
+              },
+              {
+                "section": "summary",
                 "text": "Says Filip will prioritize people, the planet, and peace over the interests of the wealthy and powerful.",
                 "loaded_terms": [
-                  "wealthy and powerful"
+                  "people, the planet, and peace"
                 ],
                 "replaced_with": "In their statement: “I will put people, the planet, and peace before the interests of the wealthy and powerful.”"
+              },
+              {
+                "section": "summary",
+                "text": "Says Filip will oppose those who pollute and exploit the environment for profit.",
+                "loaded_terms": [
+                  "pollute and exploit the environment for profit"
+                ],
+                "replaced_with": "In their statement: “I will be a leader who stands up to those who exploit and pollute the environment in pursuit of profit.”"
               }
             ],
             "corrected": [],
@@ -1192,11 +1457,37 @@
                 }
               ],
               "loaded_terms": []
+            },
+            {
+              "text": "Says Struthers will focus on improving community trust with city government through regular informal events and community conversations.",
+              "citations": [
+                {
+                  "doc": "benton_vp",
+                  "page": 13,
+                  "page_label": "p. 13",
+                  "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=13",
+                  "quote": "Restoring trust by having regular informal mayoral events, encouraging City Council ward meetings, and engaging in community-based conversations."
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Says Struthers will push for housing development policies to increase all types of housing.",
+              "citations": [
+                {
+                  "doc": "benton_vp",
+                  "page": 13,
+                  "page_label": "p. 13",
+                  "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=13",
+                  "quote": "I will push for housing development policies that will increase all types of housing."
+                }
+              ],
+              "loaded_terms": []
             }
           ],
           "background": [
             {
-              "text": "Says Struthers is an Information Technology Consultant at OSU.",
+              "text": "Lists Struthers's occupation as an Information Technology Consultant at OSU.",
               "citations": [
                 {
                   "doc": "benton_vp",
@@ -1209,27 +1500,40 @@
               "loaded_terms": []
             },
             {
-              "text": "Says Struthers has a BS in Finance and Business Information Systems from OSU.",
+              "text": "Lists Struthers's occupational background as N/A.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 13,
                   "page_label": "p. 13",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=13",
-                  "quote": "BS in Finance and Business Information Systems; OSU"
+                  "quote": "Occupational Background: N/A"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Says Struthers is a current Benton County Planning Commissioner and former Corvallis City Councilor.",
+              "text": "Lists Struthers's education background as a BS in Finance and Business Information Systems from OSU.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 13,
                   "page_label": "p. 13",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=13",
-                  "quote": "Prior Governmental Experience: Current Benton County Planning Commissioner, Former Corvallis City Councilor"
+                  "quote": "Education Background: BS in Finance and Business Information Systems; OSU"
+                }
+              ],
+              "loaded_terms": []
+            },
+            {
+              "text": "Lists Struthers's prior governmental experience as a current Benton County Planning Commissioner and former Corvallis City Councilor.",
+              "citations": [
+                {
+                  "doc": "benton_vp",
+                  "page": 13,
+                  "page_label": "p. 13",
+                  "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=13",
+                  "quote": "Prior Governmental Experience: Current Benton County Planning Commissioner, Former Corvallis City Councilor and Council Vice-President"
                 }
               ],
               "loaded_terms": []
@@ -1237,27 +1541,14 @@
           ],
           "endorsements": [
             {
-              "text": "Lists endorsements from Julie Manning, Jan Napack, Laurie Chaplen, and Stewart Wershow.",
+              "text": "Lists endorsements from Julie Manning, Jan Napack, Laurie Chaplen, Stewart Wershow, Cascades to Coast, Oregon Labor Federation (AFL-CIO), and SEIU Oregon.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 13,
                   "page_label": "p. 13",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=13",
-                  "quote": "Julie Manning, Former Corvallis Mayor Jan Napack, Corvallis City Councilor Laurie Chaplen, Former Corvallis City Councilor Stewart Wershow, Former Corvallis City Councilor"
-                }
-              ],
-              "loaded_terms": []
-            },
-            {
-              "text": "Lists endorsements from Cascades to Coast, Oregon Labor Federation (AFL-CIO), and SEIU Oregon.",
-              "citations": [
-                {
-                  "doc": "benton_vp",
-                  "page": 13,
-                  "page_label": "p. 13",
-                  "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=13",
-                  "quote": "Cascades to Coast, Oregon Labor Federation (AFL-CIO) SEIU Oregon"
+                  "quote": "Julie Manning, Former Corvallis Mayor Jan Napack, Corvallis City Councilor Laurie Chaplen, Former Corvallis City Councilor Stewart Wershow, Former Corvallis City Councilor Cascades to Coast, Oregon Labor Federation (AFL-CIO) SEIU Oregon"
                 }
               ],
               "loaded_terms": []
@@ -1317,6 +1608,19 @@
                 }
               ],
               "loaded_terms": []
+            },
+            {
+              "text": "Says Gatherum promises that everything written has at least one grammar or spelling error.",
+              "citations": [
+                {
+                  "doc": "benton_vp",
+                  "page": 13,
+                  "page_label": "p. 13",
+                  "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=13",
+                  "quote": "I promise that everything I write has at least one grammar/spelling error in it."
+                }
+              ],
+              "loaded_terms": []
             }
           ],
           "background": [
@@ -1334,7 +1638,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists Gatherum's occupational background in social services, public health, and the service industry.",
+              "text": "Lists Gatherum's occupational background in Social Services, Public Health, and Service Industry.",
               "citations": [
                 {
                   "doc": "benton_vp",
@@ -1360,14 +1664,14 @@
               "loaded_terms": []
             },
             {
-              "text": "Lists Gatherum's prior governmental experience with the Oregon Department of Human Services and the Hawaii Department of Health.",
+              "text": "Lists Gatherum's prior governmental experience with the Oregon Department of Human Services and Hawaii Department of Health.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 13,
                   "page_label": "p. 13",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=13",
-                  "quote": "Oregon Department of human services 4 yrs 2008-2012, Hawaii Department of Health 8 yrs 2013-2021"
+                  "quote": "Prior Governmental Experience: Oregon Department of human services 4 yrs 2008-2012, Hawaii Department of Health 8 yrs 2013-2021"
                 }
               ],
               "loaded_terms": []
@@ -1404,40 +1708,27 @@
           "statement_filed": true,
           "summary": [
             {
-              "text": "Says Maughan will continue the work started during the current term.",
+              "text": "Says Maughan pushed for sound ordinance changes and a downtown vitality plan, which Maughan will implement in the next term.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 14,
                   "page_label": "p. 14",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=14",
-                  "quote": "continue the work he started."
+                  "quote": "He pushed for changes to Corvallis’ sound ordinance to support local events and commissioned a task force that developed a plan for downtown vitality."
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Says Maughan supports increasing the housing supply to decrease costs.",
+              "text": "Says Maughan will continue working on sustainability and has supported electric buses and hybrid police cars.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 14,
                   "page_label": "p. 14",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=14",
-                  "quote": "Our housing supply still needs to increase so costs decrease."
-                }
-              ],
-              "loaded_terms": []
-            },
-            {
-              "text": "Says Maughan will implement a plan for downtown vitality.",
-              "citations": [
-                {
-                  "doc": "benton_vp",
-                  "page": 14,
-                  "page_label": "p. 14",
-                  "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=14",
-                  "quote": "he will implement that plan."
+                  "quote": "Mayor Maughan will keep working to make Corvallis resilient and sustainable. He has supported the purchase of electric buses, hybrid police cars"
                 }
               ],
               "loaded_terms": []
@@ -1445,7 +1736,7 @@
           ],
           "background": [
             {
-              "text": "Says Maughan is a Compliance Analyst for Oregon Housing and Community Services.",
+              "text": "Lists occupation as Compliance Analyst, Oregon Housing and Community Services.",
               "citations": [
                 {
                   "doc": "benton_vp",
@@ -1458,20 +1749,20 @@
               "loaded_terms": []
             },
             {
-              "text": "Says Maughan has an occupational background in affordable housing, management, and accounting.",
+              "text": "Lists occupational background in Affordable Housing, Management, and Accounting.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 14,
                   "page_label": "p. 14",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=14",
-                  "quote": "Affordable Housing; Management; Accounting"
+                  "quote": "Occupational Background: Affordable Housing; Management; Accounting"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Says Maughan has a background in housing compliance certification.",
+              "text": "Lists educational background as Housing Compliance Certified Professional.",
               "citations": [
                 {
                   "doc": "benton_vp",
@@ -1484,14 +1775,14 @@
               "loaded_terms": []
             },
             {
-              "text": "Says Maughan served as Corvallis Mayor from 2023 to the present.",
+              "text": "Lists prior governmental experience as Corvallis Mayor, City Councilor, and other roles.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 14,
                   "page_label": "p. 14",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=14",
-                  "quote": "Corvallis Mayor (2023- current)"
+                  "quote": "Prior Governmental Experience: Corvallis Mayor (2023- current); Corvallis City Councilor (2019-2022); HOPE Advisory Board Executive Committee; South Corvallis Urban Renewal Agency"
                 }
               ],
               "loaded_terms": []
@@ -1499,66 +1790,66 @@
           ],
           "endorsements": [
             {
-              "text": "Lists endorsements from Senator Jeff Merkley and Congresswoman Val Hoyle.",
+              "text": "Lists endorsements from Senator Jeff Merkley, Congresswoman Val Hoyle, and Attorney General Dan Rayfield.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 14,
                   "page_label": "p. 14",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=14",
-                  "quote": "Senator Jeff Merkley; Congresswoman Val Hoyle"
+                  "quote": "Senator Jeff Merkley; Congresswoman Val Hoyle Attorney General Dan Rayfield"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Lists endorsements from Attorney General Dan Rayfield and State Senator Sara Gelser Blouin.",
+              "text": "Lists endorsements from State Senator Sara Gelser Blouin and State Representative Sarah Finger McDonald.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 14,
                   "page_label": "p. 14",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=14",
-                  "quote": "Attorney General Dan Rayfield; State Senator Sara Gelser Blouin"
+                  "quote": "State Senator Sara Gelser Blouin State Representative Sarah Finger McDonald"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Lists endorsements from County Commissioners Gabe Shepherd and Nancy Wyse.",
+              "text": "Lists endorsements from County Commissioners Gabe Shepherd, Nancy Wyse, and Commissioner Nominee John Wilson.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 14,
                   "page_label": "p. 14",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=14",
-                  "quote": "County Commissioners Gabe Shepherd, Nancy Wyse"
+                  "quote": "County Commissioners Gabe Shepherd, Nancy Wyse Commissioner Nominee John Wilson"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Lists endorsements from Corvallis City Councilors Briae Lewis, Jim Moorefield, Alison Bowden.",
+              "text": "Lists endorsements from former and current mayors and city councilors.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 14,
                   "page_label": "p. 14",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=14",
-                  "quote": "Corvallis City Councilors: Briae Lewis, Jim Moorefield, Alison Bowden"
+                  "quote": "Former Corvallis Mayor Biff Traber Philomath Mayor Christopher McMorran Corvallis City Councilors: Briae Lewis, Jim Moorefield, Alison Bowden"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Lists endorsements from Benton County Democrats and Oregon Working Families Party.|",
+              "text": "Lists endorsements from various political and labor organizations.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 14,
                   "page_label": "p. 14",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=14",
-                  "quote": "Benton County Democrats; Oregon Working Families Party"
+                  "quote": "Benton County Democrats; Oregon Working Families Party Cascades to Coast Central Labor Council AFL-CIO SEIU Oregon; Indivisible Benton County"
                 }
               ],
               "loaded_terms": []
@@ -1571,7 +1862,14 @@
             14
           ],
           "checks": {
-            "dropped": [],
+            "dropped": [
+              {
+                "section": "summary",
+                "text": "Says Maughan has supported increasing housing in Corvallis, noting applications for nearly 2,000 new units, including over 500 affordable units.",
+                "quote": "Charles has always supported more housing in Corvallis. While mayor, Corvallis has seen applications for close to 2,000 new housing units",
+                "reason": "number in summary not present in quote"
+              }
+            ],
             "flagged": [],
             "corrected": [],
             "capped": []
@@ -1594,7 +1892,7 @@
           "statement_filed": true,
           "summary": [
             {
-              "text": "Haxton says the city should invest heavily in municipal housing with affordable rents to create a form of local rent control.",
+              "text": "Says Haxton wants the city to invest heavily in municipal housing with affordable rents to create local rent control.",
               "citations": [
                 {
                   "doc": "benton_vp",
@@ -1607,27 +1905,27 @@
               "loaded_terms": []
             },
             {
-              "text": "Haxton argues that the current mayor's policies have led to increased gentrification, suburban sprawl, and unaffordable housing.",
+              "text": "Says Haxton believes housing is a human right.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 14,
                   "page_label": "p. 14",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=14",
-                  "quote": "The current mayor favors subsidizing private developers in the name of affordability, while pushing policies like annexation and regressive taxes that have made housing more unaffordable, as well as increased gentrification and suburban sprawl."
+                  "quote": "Housing is a human right."
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "Haxton says housing is a human right and calls for a mayor who keeps promises regarding people experiencing homelessness.",
+              "text": "Says Haxton believes Corvallis needs a mayor who keeps their promises regarding the dislocation of people experiencing homelessness.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 14,
                   "page_label": "p. 14",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=14",
-                  "quote": "Housing is a human right. While the current mayor ran his campaign four years ago on the promise to end the city's practice of forced dislocation and property destruction of people experiencing homelessness"
+                  "quote": "If you believe Corvallis deserves a mayor who will keep their promises, please vote for me."
                 }
               ],
               "loaded_terms": []
@@ -1635,7 +1933,7 @@
           ],
           "background": [
             {
-              "text": "Haxton's occupation is community organizer.",
+              "text": "Lists occupation as Community Organizer.",
               "citations": [
                 {
                   "doc": "benton_vp",
@@ -1648,7 +1946,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Haxton's occupational background includes being a US Army helicopter mechanic, a legislative aide for the State of Oregon, and a co-founder and board member of Opportunities for Housing Resources and Assistance.",
+              "text": "Lists occupational background as Helicopter Mechanic, US Army (2008-10); Co-Founder/Board Member, Opportunities for Housing Resources and Assistance (2012-13); Legislative Aide, State of Oregon (2023).",
               "citations": [
                 {
                   "doc": "benton_vp",
@@ -1661,7 +1959,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Haxton holds an Associate in General Studies from Portland Community College.",
+              "text": "Lists educational background as Associate in General Studies, Portland Community College (2023).",
               "citations": [
                 {
                   "doc": "benton_vp",
@@ -1674,7 +1972,7 @@
               "loaded_terms": []
             },
             {
-              "text": "Haxton served as a State Central Committee Delegate for the Democratic Party of Oregon.",
+              "text": "Lists prior governmental experience as State Central Committee Delegate, Democratic Party of Oregon (2019-22).",
               "citations": [
                 {
                   "doc": "benton_vp",
@@ -1726,7 +2024,7 @@
           "question": "Shall City amend charter to change number of councilors and wards, length and staggering of terms, and impose term limits?",
           "summary": [
             {
-              "text": "If approved, this measure would change the number of councilors and wards from nine to six.",
+              "text": "If approved, the measure would change the number of councilors and wards from nine to six.",
               "citations": [
                 {
                   "doc": "benton_vp",
@@ -1739,7 +2037,7 @@
               "loaded_terms": []
             },
             {
-              "text": "If approved, this measure would change councilor terms from two to four years with staggered elections.",
+              "text": "If approved, the measure would change councilor terms from two to four years with staggered elections.",
               "citations": [
                 {
                   "doc": "benton_vp",
@@ -1752,27 +2050,27 @@
               "loaded_terms": []
             },
             {
-              "text": "If approved, this measure would impose term limits of three consecutive terms for councilors and the mayor.",
+              "text": "If approved, the measure would impose term limits of three consecutive terms for councilors and the mayor.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 25,
                   "page_label": "p. 25",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=25",
-                  "quote": "impose term limits of three consecutive terms for councilors and the mayor"
+                  "quote": "imposes term limits on councilors. A person could not serve more than three consecutive terms as a councilor"
                 }
               ],
               "loaded_terms": []
             },
             {
-              "text": "If approved, this measure would make other related changes to the sections of the charter.",
+              "text": "If approved, the measure would make other related changes to the sections of the charter.",
               "citations": [
                 {
                   "doc": "benton_vp",
                   "page": 25,
                   "page_label": "p. 25",
                   "url": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf#page=25",
-                  "quote": "make other related changes"
+                  "quote": "and make other related changes. No other sections of the Charter would be changed by this measure."
                 }
               ],
               "loaded_terms": []

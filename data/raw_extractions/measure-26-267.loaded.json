@@ -1,29 +1,45 @@
 {
-  "hash": "fef931fdb66bec6c",
+  "hash": "3bda2cd08387d7f4",
   "flags": [
     {
-      "index": 4,
+      "index": 5,
       "loaded_terms": [
         "inclusive and democratic governance"
       ]
     },
     {
-      "index": 5,
+      "index": 6,
       "loaded_terms": [
         "essential city services"
       ]
     },
     {
-      "index": 6,
+      "index": 7,
       "loaded_terms": [
-        "bypasses the existing budget process"
+        "bypasses the existing budget process and normal budget hearings"
       ]
     },
     {
       "index": 7,
       "loaded_terms": [
+        "bypasses the existing budget process and normal budget hearings"
+      ]
+    },
+    {
+      "index": 8,
+      "loaded_terms": [
         "lock in a mandatory budget set-aside"
       ]
+    },
+    {
+      "index": 8,
+      "loaded_terms": [
+        "difficult or impossible"
+      ]
+    },
+    {
+      "index": -1,
+      "loaded_terms": []
     }
   ]
 }

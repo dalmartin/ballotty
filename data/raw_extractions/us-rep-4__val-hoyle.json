@@ -1,30 +1,75 @@
 {
   "id": "us-rep-4/val-hoyle",
   "prompt_hashes": {
-    "candidate": "a44a9f871ae84c84"
+    "candidate": "957108973fb7b556"
   },
   "models": {
-    "candidate": "gemma-4-26b-a4b-it"
+    "candidate": "gemma-4-31b-it"
   },
   "candidate": {
     "summary": [
       {
-        "text": "Says Hoyle is working to expand Social Security and Medicare and protect them from cuts.",
-        "quote": "expand Social Security and Medicare and protect them from devastating cuts",
+        "text": "Says Hoyle is working to expand and protect Social Security and Medicare.",
+        "quote": "Val is working to expand Social Security and Medicare and protect them from devastating cuts",
+        "page": 33
+      },
+      {
+        "text": "Says Hoyle is working to lower health care costs and make prescription drugs more affordable.",
+        "quote": "In Congress, she is working to lower health care costs and taking on big pharmaceutical companies to make prescription drugs more affordable.",
+        "page": 33
+      },
+      {
+        "text": "Says Hoyle is a leader in protecting legal access to reproductive health care, birth control, and abortion.",
+        "quote": "Val is a leader in protecting legal access to abortion, birth control and reproductive health care.",
         "page": 33
       }
     ],
     "background": [
       {
-        "text": "Lists Hoyle's occupation as US Congresswoman.",
+        "text": "Lists occupation as US Congresswoman.",
         "quote": "Occupation: US Congresswoman",
+        "page": 33
+      },
+      {
+        "text": "Lists occupational background in domestic and international sales and manufacturing distribution.",
+        "quote": "Occupational Background: Domestic and International Sales, Manufacturing Distribution",
+        "page": 33
+      },
+      {
+        "text": "Lists educational background as Emmanuel College, BA.",
+        "quote": "Educational Background: Emmanuel College, BA",
+        "page": 33
+      },
+      {
+        "text": "Lists prior governmental experience as Oregon Commissioner, State Representative, and Chair of the Federal Export Council of Oregon.",
+        "quote": "Prior Governmental Experience: Oregon Commissioner; State Representative; Chair, Federal Export Council of Oregon",
         "page": 33
       }
     ],
     "endorsements": [
       {
-        "text": "Lists endorsements from US Senator Ron Wyden, US Senator Jeff Merkley, and Congressman Peter DeFazio.",
-        "quote": "PROUDLY ENDORSED BY:",
+        "text": "Lists endorsements from US Senators Ron Wyden and Jeff Merkley.",
+        "quote": "US Senator Ron Wyden US Senator Jeff Merkley",
+        "page": 33
+      },
+      {
+        "text": "Lists endorsements from Planned Parenthood Action Fund and the Oregon League of Conservation Voters.",
+        "quote": "Planned Parenthood Action Fund Oregon League of Conservation Voters",
+        "page": 33
+      },
+      {
+        "text": "Lists endorsements from the OR Labor Federation, AFL-CIO and SEIU Oregon.",
+        "quote": "OR Labor Federation, AFL-CIO SEIU Oregon",
+        "page": 33
+      },
+      {
+        "text": "Lists endorsements from the Oregon Nurses Association and Oregon Building Trades Unions.",
+        "quote": "Oregon Nurses Association Oregon Building Trades Unions",
+        "page": 33
+      },
+      {
+        "text": "Lists endorsements from the Lane Professional Firefighters Association and ORCOPS.",
+        "quote": "Lane Professional Firefighters Association Oregon Coalition of Police and Sheriffs (ORCOPS)",
         "page": 33
       }
     ],

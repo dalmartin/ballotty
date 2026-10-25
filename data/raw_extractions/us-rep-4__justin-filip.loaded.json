@@ -1,10 +1,28 @@
 {
-  "hash": "6146303e76e183ce",
+  "hash": "5c78736900d8624b",
   "flags": [
     {
       "index": 1,
       "loaded_terms": [
         "wealthy and powerful"
+      ]
+    },
+    {
+      "index": 1,
+      "loaded_terms": [
+        "people, the planet, and peace"
+      ]
+    },
+    {
+      "index": 2,
+      "loaded_terms": [
+        "pollute and exploit the environment for profit"
+      ]
+    },
+    {
+      "index": 0,
+      "loaded_terms": [
+        "often ignored by the government"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "id": "corvallis-mayor/kimi-gatherum",
   "prompt_hashes": {
-    "candidate": "3eb4b1cb7ac96cf9"
+    "candidate": "db3ee7e771c5f5e9"
   },
   "models": {
     "candidate": "gemma-4-26b-a4b-it"
@@ -12,6 +12,16 @@
         "text": "Says Gatherum believes libraries prevent more crime than jails.",
         "quote": "library prevents more crime then Jails",
         "page": 13
+      },
+      {
+        "text": "Says Gatherum believes giving a hard time to people who are already having a hard time is a waste of resources.",
+        "quote": "giving a hard time to people who already are having a hard time is a waste of valuable resources.",
+        "page": 13
+      },
+      {
+        "text": "Says Gatherum promises that everything written has at least one grammar or spelling error.",
+        "quote": "I promise that everything I write has at least one grammar/spelling error in it.",
+        "page": 13
       }
     ],
     "background": [
@@ -21,17 +31,17 @@
         "page": 13
       },
       {
-        "text": "Lists Gatherum's occupational background in social services, public health, and the service industry.",
+        "text": "Lists Gatherum's occupational background in Social Services, Public Health, and Service Industry.",
         "quote": "Occupational Background: Social Services, Public Health, Service Industry",
         "page": 13
       },
       {
-        "text": "Lists Gatherum's educational background with an A.A. from LBCC and a B.S. from OSU.",
+        "text": "Lists Gatherum's educational background as having an A.A. from LBCC and a B.S. from OSU.",
         "quote": "Educational Background: LBCC A.A., OSU B.S",
         "page": 13
       },
       {
-        "text": "Lists Gatherum's prior governmental experience with the Oregon Department of Human Services and the Hawaii Department of Health.",
+        "text": "Lists Gatherum's prior governmental experience with the Oregon Department of Human Services and Hawaii Department of Health.",
         "quote": "Prior Governmental Experience: Oregon Department of human services 4 yrs 2008-2012, Hawaii Department of Health 8 yrs 2013-2021",
         "page": 13
       }
