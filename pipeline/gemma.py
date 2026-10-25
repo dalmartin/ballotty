@@ -132,9 +132,9 @@ Below is official voters' pamphlet text. A page may also contain OTHER candidate
 {pages_block(seg['doc'], seg['pages'])}
 
 Return JSON:
-- summary: 3 bullets (fewer only if the statement has fewer distinct points) on what the candidate says they stand for or will do. Start each with "Says".
+- summary: exactly 3 bullets, each a DIFFERENT point the candidate says they stand for, have done, or will do (fewer only if the statement truly has fewer than 3 points). Start each with "Says".
 - background: one bullet for EACH labeled field present in the statement, in this order: Occupation, Occupational Background, Educational Background, Prior Governmental Experience, then any other labeled field (e.g. Civic Leadership). Maximum 5. Start each with "Lists".
-- endorsements: up to 5 bullets naming endorsers the statement lists, grouping similar ones (e.g. "Lists endorsements from ..."). Empty list if the statement lists none.
+- endorsements: up to 5 bullets naming endorsers the statement lists, grouping similar ones (e.g. "Lists endorsements from ..."). The quote must contain the endorser names it supports. Empty list if the statement lists none.
 - furnished_by: the text after "This information furnished by" in this candidate's statement, or "".
 Refer to the candidate by last name ("{seg['name'].split()[-1]}"), never by pronouns.
 Each bullet: text (at most 30 words), quote (exact words from the page that support the bullet), page (the PAGE number where the quote appears)."""
@@ -215,11 +215,14 @@ def run_item(seg, force=False):
     result = {"id": seg["id"], "prompt_hashes": hashes, "models": {}}
     for name, (prompt, schema) in jobs.items():
         out, model = generate(prompt, schema)
-        if name == "candidate" and is_thin(out, seg):
-            # Equal treatment: a thin answer for one candidate gets one retry on the larger model.
-            retry, retry_model = generate(prompt, schema, models=MODELS[::-1])
-            if not is_thin(retry, seg) or len(retry.summary) + len(retry.background) > len(out.summary) + len(out.background):
-                out, model = retry, retry_model
+        if name == "candidate":
+            # Equal treatment: a thin answer for one candidate gets retried on each model; keep the fullest.
+            for retry_models in (MODELS[::-1], MODELS):
+                if not is_thin(out, seg):
+                    break
+                retry, retry_model = generate(prompt + "\n\nYour previous answer was missing points. Include 3 summary bullets and one background bullet per labeled field.", schema, models=retry_models)
+                if len(retry.summary) + len(retry.background) > len(out.summary) + len(out.background):
+                    out, model = retry, retry_model
         result[name] = out.model_dump()
         result["models"][name] = model
     write_json(path, result)

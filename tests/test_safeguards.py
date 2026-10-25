@@ -23,7 +23,7 @@ def test_planted_fake_quote_is_dropped():
 def test_real_quote_passes_across_line_breaks():
     log = empty_log()
     real = {"text": "Says Kotek started at Oregon Food Bank.", "quote": "She started her career at Oregon Food Bank because she believes no one should go hungry", "page": 35}
-    assert validate.check_bullet(CONFIG, real, "book4", [35], log, "summary") is not None
+    assert validate.check_bullet(CONFIG, real, "book4", [35], log, "summary", ignore_names=["Tina Kotek"]) is not None
 
 
 def test_number_not_in_quote_is_dropped():
@@ -92,3 +92,10 @@ def test_statewide_items_are_cited_to_the_citys_own_edition(city, doc):
 def test_every_item_has_a_verify_link(city):
     for item in all_items(city):
         assert item["verify_url"].startswith("https://")
+
+
+def test_name_not_in_quote_is_dropped():
+    log = empty_log()
+    b = {"text": "Lists endorsements from Ron Wyden and Peter DeFazio.", "quote": "Occupation: US Congresswoman", "page": 33}
+    assert validate.check_bullet(CONFIG, b, "book4", [33], log, "endorsements", ignore_names=["Val Hoyle"]) is None
+    assert "name" in log["dropped"][0]["reason"]

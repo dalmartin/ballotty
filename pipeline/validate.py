@@ -53,6 +53,23 @@ def find_quote(quote, doc, pages):
     return best
 
 
+STOP_CAPS = {"Says", "Lists", "If", "Would", "Supporters", "Opponents", "The", "This", "In", "Argument", "Measure", "City", "Ballot", "A", "An", "And", "Their", "They"}
+
+
+def names_ok(text, quote, ignore=()):
+    """Every capitalized word (a name, place or organization) in the summary must appear in its quote."""
+    q = normalize(quote)
+    skip = {w.lower() for name in ignore for w in name.split()}
+    for word in re.findall(r"\b[A-Z][\w.&'-]*", text):
+        w = word.rstrip(".'").lower()
+        w = re.sub(r"'s$", "", w)
+        if word in STOP_CAPS or w in skip or len(w) < 2:
+            continue
+        if w not in q:
+            return False
+    return True
+
+
 def numbers_ok(text, quote):
     q = normalize(quote)
     return all(num in q for num in re.findall(r"\d[\d,.]*\d|\d", text))
@@ -62,7 +79,7 @@ def make_citation(config, doc, n, quote):
     return {"doc": doc, "page": n, "page_label": page_label(config, doc, n), "url": f"{config['docs'][doc]['url']}#page={n}", "quote": quote}
 
 
-def check_bullet(config, bullet, doc, allowed_pages, log, section):
+def check_bullet(config, bullet, doc, allowed_pages, log, section, ignore_names=()):
     """Bullet from Gemma ({text, quote, page}) -> checked bullet, or None (logged) if unverifiable."""
     if len(bullet["quote"].split()) < 2:
         log["dropped"].append({"section": section, "text": bullet["text"], "reason": "quote too short to verify"})
@@ -76,13 +93,16 @@ def check_bullet(config, bullet, doc, allowed_pages, log, section):
     if not numbers_ok(bullet["text"], bullet["quote"]):
         log["dropped"].append({"section": section, "text": bullet["text"], "quote": bullet["quote"], "reason": "number in summary not present in quote"})
         return None
+    if not names_ok(bullet["text"], bullet["quote"], ignore_names):
+        log["dropped"].append({"section": section, "text": bullet["text"], "quote": bullet["quote"], "reason": "a name in the summary is not in its quote"})
+        return None
     if page != cited:
         log["corrected"].append({"section": section, "text": bullet["text"], "cited_page": cited, "found_page": page})
     return {"text": bullet["text"], "citations": [make_citation(config, doc, page, bullet["quote"])], "loaded_terms": []}
 
 
-def check_section(config, bullets, cap, doc, pages, log, section):
-    out = [b for b in (check_bullet(config, b, doc, pages, log, section) for b in bullets) if b]
+def check_section(config, bullets, cap, doc, pages, log, section, ignore_names=()):
+    out = [b for b in (check_bullet(config, b, doc, pages, log, section, ignore_names) for b in bullets) if b]
     if len(out) > cap:
         log["capped"].append({"section": section, "removed": len(out) - cap})
     return out[:cap]
@@ -158,7 +178,7 @@ def build_candidate(config, seg, raw):
     if seg["statement_filed"]:
         c = raw["candidate"]
         for section in ("summary", "background", "endorsements"):
-            item[section] = check_section(config, c[section], CAPS[section], seg["doc"], seg["pages"], log, section)
+            item[section] = check_section(config, c[section], CAPS[section], seg["doc"], seg["pages"], log, section, ignore_names=[seg["name"]])
         fb = c["furnished_by"].strip()
         item["furnished_by"] = fb if fb and any(normalize(fb) in norm_page(seg["doc"], n) for n in seg["pages"]) else None
         apply_loaded_pass(item, log)
