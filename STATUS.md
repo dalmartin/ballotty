@@ -81,6 +81,7 @@
 | 2026-10-25 | Candidate pages listed in config and verified by name, not parsed from the indexes | Faster and more reliable (hand-segment fallback from the PRD, with automatic verification) |
 | 2026-10-25 | Thin candidate answers retried on the other model | Uneven depth between candidates would read as bias |
 | 2026-10-25 | **Frontend rewritten as a quick ballot brief** (short points + fixed-list topics, topic finder, compare by topic, private picks) | User: dashboard was "no different from the ballot itself" |
+| 2026-10-26 | **Frontend v3: guided flow** (one contest per screen, ward picker, up to 3 priorities, always-pairwise compare with topic-aligned rows, cheat sheet), bold civic poster style | User picked these after a design/feature grilling; priorities highlight but never rank |
 | 2026-10-25 | **Site made fully static (`docs/`); hosted on GitHub Pages and as a free DO App Platform static site** | User didn't want to pay for DO; the static site tier is $0 and keeps the DO prize track |
 | 2026-10-25 | Raw PDFs not committed; pinned by sha256 in `data/sources.json` | `make data` refetches them |
 

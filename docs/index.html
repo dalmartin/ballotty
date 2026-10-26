@@ -2,41 +2,20 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Ballotty</title>
-  <meta name="description" content="Your Oregon ballot in five minutes. Every point links to the official voters' pamphlet page it came from.">
+  <meta name="description" content="Your Oregon ballot in about five minutes, one decision at a time. Every point links to the official voters' pamphlet page it came from.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="top">
-    <div class="top-inner">
-      <a class="wordmark" href="#">Ballotty</a>
-      <span class="when" id="when"></span>
-      <div class="city-switch" id="cities" role="tablist" aria-label="Your city"></div>
-    </div>
-  </header>
-
-  <div class="page">
-    <main id="main">
-      <p class="loading">Loading your ballot</p>
-    </main>
-    <aside class="picks" id="picks" aria-label="Your picks"></aside>
-  </div>
-
-  <div class="drawer-backdrop" id="backdrop" hidden></div>
+  <div id="app" class="app"><p class="loading">Loading</p></div>
+  <div class="scrim" id="scrim" hidden></div>
   <aside class="drawer" id="drawer" aria-label="Source" hidden></aside>
-
-  <footer class="foot">
-    <div class="foot-inner">
-      <p>Ballotty is not affiliated with the Oregon Secretary of State, Lane, Benton or Multnomah County Elections, the Cities of Eugene, Corvallis or Portland, or any campaign. Points are condensed by Gemma 4 from official documents and can contain errors, so open the linked page before relying on one. Candidate points are what the candidates say about themselves. Measure arguments are written by the people who filed them. Ballotty does not recommend how to vote; your picks stay in this browser.</p>
-      <div id="sources" class="sources"></div>
-      <p class="fine"><a href="https://github.com/dalmartin/ballotty">Source code on GitHub</a>, MIT licensed.</p>
-    </div>
-  </footer>
   <div class="print-sheet" id="print-sheet"></div>
+  <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.min.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
