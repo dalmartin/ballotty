@@ -14,7 +14,7 @@ Ballotty summarizes the November 3, 2026 ballot for **Eugene**, **Corvallis** an
 official PDFs ─► fetch (sha256-pinned) ─► extract (per page, column order) ─► segment
    ─► Gemma 4 structured extraction (verbatim quote + page per bullet)
    ─► validate: citation checker · number check · equal caps · loaded-language pass · relocation
-   ─► data/out/{eugene,corvallis,portland}.json ─► FastAPI + vanilla JS ─► DigitalOcean App Platform
+   ─► docs/data/{eugene,corvallis,portland}.json ─► static vanilla JS site ─► GitHub Pages
 ```
 
 | Safeguard | What it does |
@@ -34,12 +34,12 @@ make setup                 # uv venv + requirements-pipeline.txt
 echo "GEMINI_API_KEY=..." > .env
 make data                  # fetch → extract → segment → gemma → validate (Gemma calls are cached)
 make test                  # acceptance tests for the safeguards
-make serve                 # http://localhost:8000
+make serve                 # http://localhost:8000 (serves docs/ exactly as Pages does)
 ```
 
 Models: `gemma-4-26b-a4b-it` (primary) with `gemma-4-31b-it` as fallback, via the Gemini API with `response_schema` JSON output.
 
-**Live:** https://ballotty-ps377.ondigitalocean.app (DigitalOcean App Platform, `.do/app.yaml`). The web service only needs `requirements.txt`; the precomputed JSON in `data/out/` is committed. After pushing, redeploy with `doctl apps create-deployment <app-id>`.
+**Live:** https://dalmartin.github.io/ballotty/ (GitHub Pages, served from `docs/`). The site is fully static: `docs/index.html`, `app.js`, `style.css` and the precomputed, checked JSON in `docs/data/`. `make data` rewrites `docs/data/`; push to publish.
 
 ## Sources (Nov 3, 2026 General Election)
 

@@ -370,7 +370,7 @@ async function route() {
   state.topic = null;
   state.picks = loadPicks(state.city);
   if (!state.data[state.city]) {
-    const res = await fetch(`/api/${state.city}`);
+    const res = await fetch(`data/${state.city}.json`);
     if (!res.ok) {
       $("main").innerHTML = `<p class="none">Couldn't load the ${esc(state.city)} ballot (HTTP ${res.status}). Reload the page to try again.</p>`;
       return;

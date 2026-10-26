@@ -13,7 +13,7 @@ RAW = ROOT / "data" / "raw"
 PAGES = ROOT / "data" / "pages"
 SEGMENTS = ROOT / "data" / "segments.json"
 EXTRACTIONS = ROOT / "data" / "raw_extractions"
-OUT = ROOT / "data" / "out"
+OUT = ROOT / "docs" / "data"  # published as-is by GitHub Pages
 
 
 def load_env():
