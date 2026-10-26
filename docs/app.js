@@ -313,6 +313,42 @@ function openList(itemId) {
     <div class="sep"></div><a class="open" href="${esc(item.verify_url)}" target="_blank" rel="noopener">${icon("file-text")}Open the full statement, ${esc(item.verify_label)}</a>`);
 }
 
+/* ---------- How we checked ---------- */
+async function openHow() {
+  let checks = state.checks;
+  if (!checks) {
+    try { checks = state.checks = await (await fetch("data/checks.json")).json(); } catch { checks = { totals: {}, items: {} }; }
+  }
+  const t = checks.totals || {};
+  const all = Object.entries(checks.items || {}).flatMap(([id, v]) => [
+    ...(v.dropped || []).map((d) => ({ kind: "removed", id, ...d })),
+    ...(v.flagged || []).map((f) => ({ kind: "flagged", id, ...f })),
+  ]);
+  const pickOne = (test) => all.find(test);
+  const examples = [
+    pickOne((x) => x.kind === "removed" && /number/.test(x.reason)),
+    pickOne((x) => x.kind === "removed" && /in argument/.test(x.reason)),
+    pickOne((x) => x.kind === "removed" && /name/.test(x.reason)),
+    pickOne((x) => x.kind === "flagged"),
+  ].filter(Boolean);
+  const why = (x) => x.kind === "flagged" ? `Loaded language (${x.loaded_terms.join(", ")}), so the exact quote is shown instead` : `Removed: ${x.reason}`;
+  const step = (ic, title, text) => `<li><span class="ic">${icon(ic)}</span><div><b>${title}</b><span>${text}</span></div></li>`;
+  showDrawer(`<h2>How Ballotty checks every point</h2>
+    <p class="said">Gemma 4 condenses and attributes. It never adds claims, and anything that can't be traced to the official page is dropped before you see it.</p>
+    <div class="tally"><div><b>${t.kept ?? "–"}</b><span>points shown, each matched to its page</span></div><div><b>${t.dropped ?? "–"}</b><span>removed by the checks</span></div><div><b>${t.flagged ?? "–"}</b><span>shown in the pamphlet's own words</span></div></div>
+    <ol class="steps">
+      ${step("file-text", "Official PDFs only", "The state voters' pamphlet edition for each county, plus the Benton and Multnomah county pamphlets and Lane County's ballot content. Each file is pinned by its sha256 hash.")}
+      ${step("sparkles", "Gemma 4 extracts", "gemma-4-26b-a4b-it (falling back to gemma-4-31b-it) returns structured JSON: every point comes with a verbatim quote and its page. Same prompt and the same limits for every candidate and for both sides of a measure.")}
+      ${step("search-check", "Citation check", "Each quote must be found on the page it cites (fuzzy match of 92% or better). Names and numbers in a summary must appear in its quote. Anything else is removed.")}
+      ${step("scale", "Loaded-language check", "A second Gemma 4 pass, plus a word list, flags charged wording. Flagged summaries are replaced by the filer's or candidate's exact words.")}
+      ${step("list-checks", "Counts we never let the model make", "How many arguments were filed, and who filed them, come from the pamphlet's own headings, not from the model.")}
+    </ol>
+    <h3>Real examples the checks caught</h3>
+    <ul class="caught">${examples.map((x) => `<li><span class="why">${esc(why(x))}</span><q>${esc(x.text.length > 150 ? x.text.slice(0, 150) + "…" : x.text)}</q></li>`).join("")}</ul>
+    <div class="sep"></div>
+    <a class="open" href="https://github.com/dalmartin/ballotty" target="_blank" rel="noopener">${icon("github")}See the open-source pipeline</a>`);
+}
+
 /* ---------- City + events ---------- */
 async function loadCity(id) {
   if (state.data[id]) return state.data[id];
@@ -350,6 +386,7 @@ $("q").addEventListener("input", (e) => {
 document.addEventListener("click", (e) => {
   const el = (sel) => e.target.closest(sel);
   if (e.target === $("scrim") || el("[data-close]")) return closeDrawer();
+  if (el("[data-how]")) return openHow();
   if (el("[data-key]")) return openSource(el("[data-key]").dataset.key);
   if (el("[data-list]")) return openList(el("[data-list]").dataset.list);
   if (el("[data-jump]")) {

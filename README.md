@@ -8,6 +8,24 @@ Ballotty summarizes the November 3, 2026 ballot for **Eugene**, **Corvallis** an
 - Measure arguments are condensed into at most 3 themes per side, using the same prompt and the same cap for both sides. Each theme is attributed to the people who filed those arguments, and the counts of filed arguments are computed by regex, not by the model.
 - No party-leaning labels and no recommendations. Party nominations are shown exactly as printed on the ballot.
 
+**Try it:** https://dalmartin.github.io/ballotty/ (mirror: https://ballotty-ps377.ondigitalocean.app)
+
+![Eugene ballot dashboard](docs/img/dashboard.png)
+
+| Search by issue ("rent" finds Housing) | Every point opens its source |
+|---|---|
+| ![Searching for housing highlights matching points across races](docs/img/search.png) | ![The source drawer shows the exact pamphlet quote and page](docs/img/source.png) |
+| **Measures: both sides, same rules** | **How we checked, with real numbers** |
+| ![Portland Measure 26-267 with 15 arguments for and 15 against](docs/img/measure.png) | ![Panel explaining the Gemma 4 pipeline and the checks](docs/img/how-we-checked.png) |
+
+## What you can do
+
+- **Pick your city** (Eugene, Corvallis, Portland) and, where it matters, your ward or district.
+- **Search issues** in everyday words: "rent", "police", "climate" map to fixed topics. Matching points light up across the ballot, and contests that don't mention it collapse.
+- **Compare** candidates side by side, or as a topic table per race. Candidates stay in ballot order and are never ranked or scored.
+- **Tap any point** to see the exact pamphlet quote, the page, and a link to the official PDF.
+- **Mark your picks** and print a cheat sheet. Picks stay in your browser.
+
 ## How it works
 
 ```
