@@ -1,6 +1,6 @@
 # Ballotty: Project Status
 
-**Updated:** 2026-10-25 · **Phase:** Building MVP · **Overall:** 🟡 Pipeline + UI working locally for all 3 cities; DigitalOcean deploy waiting on GitHub/DO login
+**Updated:** 2026-10-25 · **Phase:** MVP complete · **Overall:** 🟢 Live at https://ballotty-ps377.ondigitalocean.app (Eugene, Corvallis, Portland)
 
 **Legend:** ⬜ not started · 🔄 in progress · ✅ done · ⛔ blocked · ✂️ cut
 
@@ -8,11 +8,11 @@
 
 | Target | Checkpoint | Status | Actual time | Notes |
 |---|---|---|---|---|
-| T+1:00 | Gemma 4 JSON call works and the DO hello-world is live | 🔄 | | Gemma ✅ (`response_schema` works). DO ⛔ waiting on `gh auth login` / `doctl auth init` |
+| T+1:00 | Gemma 4 JSON call works and the DO hello-world is live | ✅ | | Gemma ✅; DO deploy done after billing + App Platform scope sign-in |
 | T+2:00 | ~24 segments; 26-267 shows 15/15 arguments | ✅ | | 21 candidates + 3 measures; pages from config, verified automatically |
 | T+3:15 | All Gemma extractions done | ✅ | | Nothing cut |
 | T+4:00 | 3 city JSONs validated (checker, loaded-language pass, relocation) | ✅ | | 17/17 acceptance tests pass |
-| T+5:00 | **MVP live for Eugene, Corvallis and Portland** | ⬜ | | |
+| T+5:00 | **MVP live for Eugene, Corvallis and Portland** | ✅ | | https://ballotty-ps377.ondigitalocean.app |
 | T+6:30 | **Feature freeze**, tag `v1-demo` | ⬜ | | |
 | T+7:45 | **Backup video recorded** | ⬜ | | |
 | T+8:00 | Submitted to both prize tracks | ⬜ | | |
@@ -22,14 +22,14 @@
 | # | Item | Status | Acceptance check |
 |---|---|---|---|
 | M1 | Gemma 4 call + Pydantic JSON | ✅ | `--test` passes validation |
-| M2 | DO App Platform deploy | ⛔ needs login | `/api/{eugene,corvallis,portland}` return 200 |
+| M2 | DO App Platform deploy | ✅ live | `/api/{eugene,corvallis,portland}` return 200 |
 | M3 | Text extraction, 6 PDFs | ✅ | Spot strings found on the expected pages |
 | M4 | Segmentation (indexes + argument regex) | ✅ | 26-267 = 15/15, 2-159 = 3/3, 4 no-statement flags |
 | M5 | Gemma extraction (candidates, summaries, themes) | ✅ | Caps respected; `filed_by` ⊆ regex filers |
 | M6 | Citation checker | ✅ | Planted fake quote dropped |
 | M7 | Loaded-language pass | ✅ | Planted "radical" flagged → shown as quote |
 | M8 | Relocation of statewide items to each city's edition | ✅ | Kotek cites Book 4 / 6 / 13 by city |
-| M9 | UI: city switcher, contests, cards, For/Against columns | ✅ local | ≤3 clicks to the correct PDF page |
+| M9 | UI: quick ballot brief (topic finder, compare, picks, source drawer) | ✅ live | ≤3 clicks to the correct PDF page |
 | M10 | No-info states, verify links, disclaimers | ✅ | Present on every item and view |
 
 ### MUST content by city
@@ -80,6 +80,8 @@
 | 2026-10-25 | **Primary model `gemma-4-26b-a4b-it`, fallback `gemma-4-31b-it`** | In testing 31B took ~50 s and returned 503s; 26B answered in <1 s. Both honor `response_schema`. |
 | 2026-10-25 | Candidate pages listed in config and verified by name, not parsed from the indexes | Faster and more reliable (hand-segment fallback from the PRD, with automatic verification) |
 | 2026-10-25 | Thin candidate answers retried on the other model | Uneven depth between candidates would read as bias |
+| 2026-10-25 | **Frontend rewritten as a quick ballot brief** (short points + fixed-list topics, topic finder, compare by topic, private picks) | User: dashboard was "no different from the ballot itself" |
+| 2026-10-25 | Deploy from public git URL instead of the DO GitHub integration | DO GitHub app not authorized; avoids another manual step |
 | 2026-10-25 | Raw PDFs not committed; pinned by sha256 in `data/sources.json` | `make data` refetches them |
 
 ## Open decisions (need your call)
@@ -99,7 +101,7 @@
 | 15+15 arguments produce poor themes | ⬜ | First 3 per side + "+12 more filed" |
 | Two-column extraction order | ⬜ | pdfplumber column crop |
 | Relocation misses | ⬜ | Cite Book 4 with "(Lane edition)" |
-| DO deploy | ⬜ | Static Site → localhost |
+| DO deploy | ✅ Live. Uses public git source (DO GitHub app not connected), so no auto-deploy on push | Redeploy: `doctl apps create-deployment f9ac3d2b-4a71-46a9-b5a4-dace99f05d51` |
 
 ## Source files (verified 2026-10-25, all text PDFs)
 

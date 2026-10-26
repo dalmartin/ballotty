@@ -39,7 +39,7 @@ make serve                 # http://localhost:8000
 
 Models: `gemma-4-26b-a4b-it` (primary) with `gemma-4-31b-it` as fallback, via the Gemini API with `response_schema` JSON output.
 
-**Deploy:** DigitalOcean App Platform with `.do/app.yaml`. The web service only needs `requirements.txt`; the precomputed JSON in `data/out/` is committed.
+**Live:** https://ballotty-ps377.ondigitalocean.app (DigitalOcean App Platform, `.do/app.yaml`). The web service only needs `requirements.txt`; the precomputed JSON in `data/out/` is committed. After pushing, redeploy with `doctl apps create-deployment <app-id>`.
 
 ## Sources (Nov 3, 2026 General Election)
 
