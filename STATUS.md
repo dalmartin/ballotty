@@ -1,6 +1,6 @@
 # Ballotty: Project Status
 
-**Updated:** 2026-10-25 · **Phase:** MVP complete · **Overall:** 🟢 Live at https://dalmartin.github.io/ballotty/ (GitHub Pages; Eugene, Corvallis, Portland)
+**Updated:** 2026-10-25 · **Phase:** MVP complete · **Overall:** 🟢 Live at https://ballotty-ps377.ondigitalocean.app (DO static site, $0) and https://dalmartin.github.io/ballotty/
 
 **Legend:** ⬜ not started · 🔄 in progress · ✅ done · ⛔ blocked · ✂️ cut
 
@@ -22,7 +22,7 @@
 | # | Item | Status | Acceptance check |
 |---|---|---|---|
 | M1 | Gemma 4 call + Pydantic JSON | ✅ | `--test` passes validation |
-| M2 | Public hosting | ✅ GitHub Pages (DigitalOcean dropped: cost) | `/api/{eugene,corvallis,portland}` return 200 |
+| M2 | Public hosting | ✅ DigitalOcean App Platform free static site + GitHub Pages | `/api/{eugene,corvallis,portland}` return 200 |
 | M3 | Text extraction, 6 PDFs | ✅ | Spot strings found on the expected pages |
 | M4 | Segmentation (indexes + argument regex) | ✅ | 26-267 = 15/15, 2-159 = 3/3, 4 no-statement flags |
 | M5 | Gemma extraction (candidates, summaries, themes) | ✅ | Caps respected; `filed_by` ⊆ regex filers |
@@ -81,7 +81,7 @@
 | 2026-10-25 | Candidate pages listed in config and verified by name, not parsed from the indexes | Faster and more reliable (hand-segment fallback from the PRD, with automatic verification) |
 | 2026-10-25 | Thin candidate answers retried on the other model | Uneven depth between candidates would read as bias |
 | 2026-10-25 | **Frontend rewritten as a quick ballot brief** (short points + fixed-list topics, topic finder, compare by topic, private picks) | User: dashboard was "no different from the ballot itself" |
-| 2026-10-25 | **Hosting moved to GitHub Pages (static `docs/`); DigitalOcean app dropped** | User: didn't want to pay for DO. Note: forfeits the DO prize track unless re-hosted as a free DO App Platform static site |
+| 2026-10-25 | **Site made fully static (`docs/`); hosted on GitHub Pages and as a free DO App Platform static site** | User didn't want to pay for DO; the static site tier is $0 and keeps the DO prize track |
 | 2026-10-25 | Raw PDFs not committed; pinned by sha256 in `data/sources.json` | `make data` refetches them |
 
 ## Open decisions (need your call)

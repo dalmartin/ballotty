@@ -14,7 +14,7 @@ Ballotty summarizes the November 3, 2026 ballot for **Eugene**, **Corvallis** an
 official PDFs ─► fetch (sha256-pinned) ─► extract (per page, column order) ─► segment
    ─► Gemma 4 structured extraction (verbatim quote + page per bullet)
    ─► validate: citation checker · number check · equal caps · loaded-language pass · relocation
-   ─► docs/data/{eugene,corvallis,portland}.json ─► static vanilla JS site ─► GitHub Pages
+   ─► docs/data/{eugene,corvallis,portland}.json ─► static vanilla JS site ─► DigitalOcean App Platform (static) + GitHub Pages
 ```
 
 | Safeguard | What it does |
@@ -39,7 +39,7 @@ make serve                 # http://localhost:8000 (serves docs/ exactly as Page
 
 Models: `gemma-4-26b-a4b-it` (primary) with `gemma-4-31b-it` as fallback, via the Gemini API with `response_schema` JSON output.
 
-**Live:** https://dalmartin.github.io/ballotty/ (GitHub Pages, served from `docs/`). The site is fully static: `docs/index.html`, `app.js`, `style.css` and the precomputed, checked JSON in `docs/data/`. `make data` rewrites `docs/data/`; push to publish.
+**Live:** https://ballotty-ps377.ondigitalocean.app (DigitalOcean App Platform, free static site, `.do/app.yaml`) and https://dalmartin.github.io/ballotty/ (GitHub Pages). Both serve the static `docs/` folder: `index.html`, `app.js`, `style.css` and the precomputed, checked JSON in `docs/data/`. `make data` rewrites `docs/data/`; push, then `doctl apps create-deployment <app-id>` for DigitalOcean (Pages republishes on push).
 
 ## Sources (Nov 3, 2026 General Election)
 
