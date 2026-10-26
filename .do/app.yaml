@@ -1,0 +1,11 @@
+# DigitalOcean App Platform: free static site serving docs/ (same files as GitHub Pages).
+# Update: doctl apps update <app-id> --spec .do/app.yaml   Redeploy: doctl apps create-deployment <app-id>
+name: ballotty
+region: sfo
+static_sites:
+  - name: web
+    git:
+      repo_clone_url: https://github.com/dalmartin/ballotty.git
+      branch: main
+    source_dir: docs
+    index_document: index.html
